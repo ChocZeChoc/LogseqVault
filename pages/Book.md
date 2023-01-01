@@ -1,0 +1,1 @@
+- Alias::Report,Reports,Magazine,Magazines

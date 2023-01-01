@@ -1,0 +1,182 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;700&family=Fira+Sans:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+
+:root {
+  --ls-font-family: "Fira Code";
+  
+  --ls-tag-text-color: white;
+  --ls-tag-text-hover-color: white;
+  --ls-tag-background-color: #9f47ba;
+  --ls-tag-background-hover-color: #d673f5;
+  
+  
+}
+
+.content a.tag {
+  padding: 0px 7px;
+  border-radius: 10px;
+  margin: 2px 0px;
+  color: var(--ls-tag-text-color);
+  background-color: #c24ee6;
+}
+.content a.tag:hover {
+  background-color: #d673f5;
+}
+/*CODE*/
+
+.CodeMirror-scroll{
+  padding-top: 0;
+  padding-bottom: 50px;
+
+}
+.katex-display {
+  margin: 0;
+}
+/*wtf is > this i found it throug chrome but its not a pan or anything*/
+.katex-display>.katex {
+  text-align: left;
+}
+/*
+.resize .image-resize{
+
+}
+*/
+/*
+.block-content .resize {
+  width: 100%;
+  height: auto;
+  margin-left: 1%;
+}
+*/
+
+/*blocks*/
+.pb-2{
+  padding-bottom: 0;
+}
+.pt-1{
+  padding-top: 0;
+}
+.px-3{
+  padding-left: 0;
+  padding-right:0;
+}
+/*color*/
+.dark-theme,
+html[data-theme=dark] {
+  --ls-primary-background-color: rgb(47, 52, 55);
+  --ls-secondary-background-color: rgb(55, 60, 63);
+  --ls-tertiary-background-color: rgb(67, 72, 75);
+  --ls-quaternary-background-color: rgb(71, 79, 82);
+  --ls-table-tr-even-background-color: #0404061c;
+  --ls-callout-background-color: rgba(69, 75, 78, 0.3);
+  --ls-codeblock-background-color: #3f4447;
+  --ls-block-properties-background-color: #2a2d2d91;
+  --ls-block-ref-link-text-color: #73d2f6;
+  --ls-search-background-color: var(--ls-primary-background-color);
+  --ls-border-color: #3f3f3f;
+  --ls-guideline-color: #ffffff44;
+  --ls-menu-hover-color: var(--ls-secondary-background-color);
+  --ls-primary-text-color: rgb(255 255 255 / 90%);
+  --ls-secondary-text-color: #dfdfdf;
+  --ls-title-text-color: var(--ls-primary-text-color);
+  --ls-link-ref-text-color: #ff78f6;
+  --ls-link-ref-text-hover-color: #ffa8f9;
+  --ls-link-text-color: var(--ls-link-ref-text-color);
+  --ls-link-text-hover-color: var(--ls-link-ref-text-hover-color);
+  --ls-alink-color: var(--ls-link-text-color);
+  --bf-external-link-color: #f67373;
+  --bf-external-link-hover-color: #f29191;
+  --ls-cloze-text-color: var(--ls-link-ref-text-color);
+  --ls-active-primary-color: var(--ls-link-ref-text-color);
+  --ls-active-secondary-color: #6fc2efcc;
+  --ls-tag-text-color: white;
+  --ls-tag-text-hover-color: white;
+  --ls-tag-background-color: #407fab;
+  --ls-tag-background-hover-color: #6fabd5;
+  --ls-slide-background-color: var(--ls-primary-background-color);
+  --ls-block-bullet-border-color: #ffffff14;
+  --ls-block-bullet-color: #ad47d6dd;
+  --ls-block-highlight-color: #fbfbfb23;
+  --ls-selection-background-color: #64b4ff81;
+  --ls-page-checkbox-color: #588eac;
+  --ls-page-checkbox-border-color: var(--ls-primary-background-color);
+  --ls-page-blockquote-border-color: var(--ls-primary-text-color);
+  --ls-page-inline-code-color: #eb5757;
+  --ls-page-inline-code-bg-color: rgba(135, 131, 120, 0.15);
+  --ls-page-properties-background-color: #adadad1c;
+  --ls-scrollbar-foreground-color: #ad47d6ff;
+  --ls-scrollbar-background-color: #fff0;
+  --ls-scrollbar-thumb-hover-color: rgba(255, 255, 255, 0.2);
+  --ls-head-text-color: #ffe27c;
+  --ls-icon-color: rgb(154 161 165);
+  --ls-search-icon-color: var(--ls-quaternary-background-color);
+  --ls-a-chosen-bg: var(--ls-secondary-background-color);
+  --ls-right-sidebar-code-bg-color: #3c041f;
+  --color-level-1: var(--ls-secondary-background-color);
+  --color-level-2: var(--ls-tertiary-background-color);
+  --color-level-3: var(--ls-quaternary-background-color);
+  --color-level-4: #632f46;
+  --color-level-5: #865673;
+  --color-level-6: #9e6889;
+  --ls-block-bullet-threading-width: 2px;
+  --ls-block-bullet-active-color: #ad47d6;
+}
+/*THEME */
+.CodeMirror-line::selection,
+.CodeMirror-line > span::selection,
+.CodeMirror-line > span > span::selection {
+  background: #a8a8a8;
+}
+
+.CodeMirror-line::-moz-selection,
+.CodeMirror-line > span::-moz-selection,
+.CodeMirror-line > span > span::-moz-selection {
+  background: #a8a8a8;
+}
+html[data-theme="dark"] .CodeMirror {
+  color: #cccccc;
+  background: var(--ls-block-properties-background-color) !important;
+  padding-top: 0px !important;
+}
+
+.CodeMirror .cm-tab:before {
+  content: "→";
+  color: #80808040 !important;
+  position: absolute;
+}
+
+
+html[data-theme="dark"] .CodeMirror .CodeMirror-selected {
+  background: #453e4f;
+}
+
+html[data-theme="dark"] .CodeMirror .CodeMirror-gutters {
+  background-color: #252627;
+  border-color: transparent;
+}
+
+html[data-theme="dark"] .CodeMirror pre.CodeMirror-line {
+  background-color: #373C3F24 !important;
+}
+
+html[data-theme="dark"] .CodeMirror .CodeMirror-linenumber {
+  color: #cccccc;
+  padding: 0 5px;
+  text-shadow: none !important;
+}
+
+.extensions__code-lang {
+  background: var(--ls-block-properties-background-color);
+  color: #505050;
+  font-family: "Fira Code", menlo, consolas, monospace;
+}
+
+
+html[data-theme="dark"] .CodeMirror .CodeMirror-gutter .CodeMirror-gutter-text {
+  color: #505050;
+}
+html[data-theme="dark"] .CodeMirror .CodeMirror-lines .CodeMirror-cursor {
+  border-left: 1px solid #999999;
+}
+html[data-theme="dark"] .CodeMirror .CodeMirror-activeline-background {
+  background: rgba(255, 255, 255, 0.1);
+}

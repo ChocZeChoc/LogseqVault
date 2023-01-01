@@ -1,0 +1,1 @@
+Alias:: Photo, AffinityPhoto
