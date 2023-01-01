@@ -85,7 +85,7 @@
 		  | Wilting                 | | | | | |||||||||
 		  | Pale Edges              | | | | |X|||||||||
 		  | Up-right Leaves         |X| | | | |||||||||
-		- | Extreme | N | P | K | Ca | Mg | S | B | Cl | Cu | Fe | Mn | Mo | Zn |
+		  | Extreme | N | P | K | Ca | Mg | S | B | Cl | Cu | Fe | Mn | Mo | Zn |
 		  | Burnt Leaves         |X| | |||||||||||
 		  | Brown/Black          | |X| |||||||||||
 		  | Rusty Spots          | | |X|||||||||||
