@@ -65,14 +65,14 @@
 		  | Yellow New growth       | | | | | |||||||||
 		  | Yellow Middle growth    | | | | | |||||||||
 		  | Yellow Old growth       |X| |X| |X|||||||||
-		  | Yellow Veins            | | | | |X|||||||||
+		  | Yellow Between Veins    | | | | |X|||||||||
 		  | Old Leaves drop         |X| | | | |||||||||
-		  | Leaves Curl over        | | | | | |||||||||
+		  | Leaves Curl over        | | | | |X|||||||||
 		  | Leaves Curl under       | | |X| | |||||||||
 		  | New leaves tip burns    | | | | | |||||||||
 		  | Old Leaves tip burns    |X| | | | |||||||||
 		  | New Leaves Wrinkle/Curl | | |X| | |||||||||
-		  | Necrosis                | | |X| | |||||||||
+		  | Necrosis                | | |X| |X|||||||||
 		  | Leaf growth stunted     |X|X| | | |||||||||
 		  | Dark-green/Purple leaves| |X| |X| |||||||||
 		  | Pale green leaves       |X| | | | |||||||||
