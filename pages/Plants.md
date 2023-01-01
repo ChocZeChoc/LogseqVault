@@ -74,7 +74,7 @@
 		  | New Leaves Wrinkle/Curl | | |X| ||||||||||
 		  | Necrosis                | | |X| ||||||||||
 		  | Leaf growth stunted     |X|X| | ||||||||||
-		  | Dark-green/Purple leaves| |X| | ||||||||||
+		  | Dark-green/Purple leaves| |X| |X||||||||||
 		  | Pale green leaves       |X| | | ||||||||||
 		  | Molting                 | | | | ||||||||||
 		  | Spindly                 |X| | | ||||||||||
@@ -86,7 +86,7 @@
 		  | Pale Edges              | | | | ||||||||||
 		  | Up-right Leaves         |X| | | ||||||||||
 		- | Extreme | N | P | K | Ca | Mg | S | B | Cl | Cu | Fe | Mn | Mo | Zn |
-		  | Burnt Leaves         |X|||||||||||||
-		  | Brown/Black          ||X||||||||||||
-		  | Rusty Spots          ||||||||||||||
-		  | Leaves Curl under    ||||||||||||||
+		  | Burnt Leaves         |X| | |||||||||||
+		  | Brown/Black          | |X| |||||||||||
+		  | Rusty Spots          | | |X|||||||||||
+		  | Leaves Curl under    | | | |||||||||||
