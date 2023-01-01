@@ -34,7 +34,6 @@
 				  collapsed:: true
 					- ![slice12.png](../assets/slice12_1672610207854_0.png){:height 143, :width 271}
 			- #Cholrine
-			  collapsed:: true
 				- Wilted & droop leaves.
 			- #Copper
 			  collapsed:: true
@@ -82,7 +81,7 @@
 		  | Hard/Brittle Stem       | |X|X|  |  | | |  |  |  |  |  |  |
 		  | New Growth dies         | | |X|X |  | |X|  |  |  |  |  |  |
 		  | Stunted Root Growth     | | | |  |  | | |  |  |  |  |  |  |
-		  | Wilting                 | | | |  |  | | |  |  |  |  |  |  |
+		  | Wilting                 | | | |  |  | | |X |  |  |  |  |  |
 		  | Pale Edges              | | | |  |X | | |  |  |  |  |  |  |
 		  | Up-right Leaves         |X| | |  |  | | |  |  |  |  |  |  |
 		  | Extreme                 |N|P|K|Ca|Mg|S|B|Cl|Cu|Fe|Mn|Mo|Zn|
