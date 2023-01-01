@@ -62,17 +62,17 @@
 				  collapsed:: true
 					- ![slice9.png](../assets/slice9_1672610253586_0.png){:height 151, :width 289}
 		- | Symptoms                |N|P|K|Ca|Mg|S|B|Cl|Cu|Fe|Mn|Mo|Zn|
-		  | Yellow New growth       | | | |  |  | | |  |  |  |  |  |  |
-		  | Yellow Middle growth    | | | |  |  | | |  |  |  |  |  |  |
-		  | Yellow Old growth       |X| |X|  |  | | |  |  |  |  |  |  |
-		  | Yellow Between Veins    | | | |  |X | | |  |  |  |  |  |  |
+		  | Yellow New growth       | | | |  |  |X| |  |  |  |  |  |  |
+		  | Yellow Middle growth    | | | |  |  |X| |  |  |  |  |  |  |
+		  | Yellow Old growth       |X| |X|  |X |X| |  |  |  |  |  |  |
+		  | Yellow Between Veins    | | | |  |X |X| |  |  |  |  |  |  |
 		  | Old Leaves drop         |X| | |  |  | | |  |  |  |  |  |  |
 		  | Leaves Curl over        | | | |  |X | | |  |  |  |  |  |  |
 		  | Leaves Curl under       | | |X|  |  | | |  |  |  |  |  |  |
 		  | New leaves tip burns    | | | |  |  | | |  |  |  |  |  |  |
 		  | Old Leaves tip burns    |X| | |  |  | | |  |  |  |  |  |  |
 		  | New Leaves Wrinkle/Curl | | |X|  |  | | |  |  |  |  |  |  |
-		  | Necrosis                | | |X|  |  | | |  |  |  |  |  |  |
+		  | Necrosis                | | |X|  |X | | |  |  |  |  |  |  |
 		  | Leaf growth stunted     |X|X| |  |  | | |  |  |  |  |  |  |
 		  | Dark-green/Purple leaves| |X| |X |  | | |  |  |  |  |  |  |
 		  | Pale green leaves       |X| | |  |  | | |  |  |  |  |  |  |
