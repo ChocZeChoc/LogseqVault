@@ -315,5 +315,5 @@
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :feature/enable-journals? false
- :journal/page-title-format "do MMM yyyy"
+ :journal/page-title-format "dd-MM-yyyy"
  }
