@@ -68,19 +68,19 @@
 		  | Yellow Veins            | | | | ||||||||||
 		  | Old Leaves drop         |X| | | ||||||||||
 		  | Leaves Curl over        | | | | ||||||||||
-		  | Leaves Curl under       | | | | ||||||||||
+		  | Leaves Curl under       | | |X| ||||||||||
 		  | New leaves tip burns    | | | | ||||||||||
 		  | Old Leaves tip burns    |X| | | ||||||||||
-		  | New Leaves Wrinkle/Curl | | | | ||||||||||
-		  | Necrosis                | | | | ||||||||||
+		  | New Leaves Wrinkle/Curl | | |X| ||||||||||
+		  | Necrosis                | | |X| ||||||||||
 		  | Leaf growth stunted     |X|X| | ||||||||||
 		  | Dark-green/Purple leaves| |X| | ||||||||||
 		  | Pale green leaves       |X| | | ||||||||||
 		  | Molting                 | | | | ||||||||||
 		  | Spindly                 |X| | | ||||||||||
-		  | Soft Stem               |X| | | ||||||||||
-		  | Hard/Brittle Stem       | |X| | ||||||||||
-		  | New Growth dies         | | | | ||||||||||
+		  | Soft Stem               |X| |X| ||||||||||
+		  | Hard/Brittle Stem       | |X|X| ||||||||||
+		  | New Growth dies         | | |X| ||||||||||
 		  | Stunted Root Growth     | | | | ||||||||||
 		  | Wilting                 | | | | ||||||||||
 		  | Pale Edges              | | | | ||||||||||
@@ -88,5 +88,5 @@
 		- | Extreme | N | P | K | Ca | Mg | S | B | Cl | Cu | Fe | Mn | Mo | Zn |
 		  | Burnt Leaves         |X|||||||||||||
 		  | Brown/Black          ||X||||||||||||
-		  | Leaves Curl over     ||||||||||||||
+		  | Rusty Spots          ||||||||||||||
 		  | Leaves Curl under    ||||||||||||||
