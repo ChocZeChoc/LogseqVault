@@ -62,29 +62,29 @@
 				  collapsed:: true
 					- ![slice9.png](../assets/slice9_1672610253586_0.png){:height 151, :width 289}
 		- | Symptoms | N | P | K | Ca | Mg | S | B | Cl | Cu | Fe | Mn | Mo | Zn |
-		  | Yellow New growth       ||||||||||||||
-		  | Yellow Middle growth    ||||||||||||||
-		  | Yellow Old growth       |X|||||||||||||
-		  | Yellow Veins            ||||||||||||||
-		  | Old Leaves drop         |X|||||||||||||
-		  | Leaves Curl over        ||||||||||||||
-		  | Leaves Curl under       ||||||||||||||
-		  | New leaves tip burns    ||||||||||||||
-		  | Old Leaves tip burns    |X|||||||||||||
-		  | New Leaves Wrinkle/Curl ||||||||||||||
-		  | Necrosis                ||||||||||||||
-		  | Leaf growth stunted     |X|||||||||||||
-		  | Dark-green/Purple leaves||||||||||||||
-		  | Pale green leaves       |X|||||||||||||
-		  | Molting                 ||||||||||||||
-		  | Spindly                 |X|||||||||||||
-		  | Soft Stem               |X|||||||||||||
-		  | Hard/Brittle Stem       ||||||||||||||
-		  | New Growth dies         ||||||||||||||
-		  | Stunted Root Growth     ||||||||||||||
-		  | Wilting                 ||||||||||||||
-		  | Pale Edges              ||||||||||||||
-		  | Up-right Leaves         |X|||||||||||||
+		  | Yellow New growth       | | ||||||||||||
+		  | Yellow Middle growth    | | ||||||||||||
+		  | Yellow Old growth       |X| ||||||||||||
+		  | Yellow Veins            | | ||||||||||||
+		  | Old Leaves drop         |X| ||||||||||||
+		  | Leaves Curl over        | | ||||||||||||
+		  | Leaves Curl under       | | ||||||||||||
+		  | New leaves tip burns    | | ||||||||||||
+		  | Old Leaves tip burns    |X| ||||||||||||
+		  | New Leaves Wrinkle/Curl | | ||||||||||||
+		  | Necrosis                | | ||||||||||||
+		  | Leaf growth stunted     |X|X||||||||||||
+		  | Dark-green/Purple leaves| |X||||||||||||
+		  | Pale green leaves       |X| ||||||||||||
+		  | Molting                 | | ||||||||||||
+		  | Spindly                 |X| ||||||||||||
+		  | Soft Stem               |X| ||||||||||||
+		  | Hard/Brittle Stem       | |X||||||||||||
+		  | New Growth dies         | | ||||||||||||
+		  | Stunted Root Growth     | | ||||||||||||
+		  | Wilting                 | | ||||||||||||
+		  | Pale Edges              | | ||||||||||||
+		  | Up-right Leaves         |X| ||||||||||||
 		- | Extreme | N | P | K | Ca | Mg | S | B | Cl | Cu | Fe | Mn | Mo | Zn |
 		  | Burnt Leaves         |X|||||||||||||
 		  | Brown/Black          ||X||||||||||||
