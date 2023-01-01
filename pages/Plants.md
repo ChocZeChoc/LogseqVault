@@ -44,7 +44,6 @@
 				  collapsed:: true
 					- ![slice7.png](../assets/slice7_1672610220215_0.png){:height 147, :width 278}
 			- #Maganese
-			  collapsed:: true
 				- Yellow spots/patches between veins.
 				  collapsed:: true
 					- ![slice10.png](../assets/slice10_1672610234961_0.png){:height 144, :width 282}
@@ -62,7 +61,7 @@
 		  | Yellow New growth       | | | |  |  |X|X|  |  |  |  |  |  |
 		  | Yellow Middle growth    | | | |  |  |X| |  |  |  |  |  |  |
 		  | Yellow Old growth       |X| |X|  |X |X| |  |  |  |  |  |  |
-		  | Yellow Between Veins    | | | |  |X |X| |  |X |X |  |  |  |
+		  | Yellow Between Veins    | | | |  |X |X| |  |X |X |X |  |  |
 		  | Old Leaves drop         |X| | |  |  | | |  |  |  |  |  |  |
 		  | Leaves Curl over        | | | |  |X | | |  |  |  |  |  |  |
 		  | Leaves Curl under       | | |X|  |  | | |  |X |  |  |  |  |
@@ -82,6 +81,7 @@
 		  | Wilting                 | | | |  |  | | |X |X |  |  |  |  |
 		  | Pale Edges              | | | |  |X | | |  |  |  |  |  |  |
 		  | Up-right Leaves         |X| | |  |  | | |  |  |  |  |  |  |
+		  | Patches                 |X| | |  |  | | |  |  |  |  |  |  |
 		  | Extreme                 |N|P|K|Ca|Mg|S|B|Cl|Cu|Fe|Mn|Mo|Zn|
 		  | Burnt Leaves            |X| | |  |  | | |  |  |  |  |  |  |
 		  | Brown/Black             | |X| |  |  | | |  |  |  |  |  |  |
