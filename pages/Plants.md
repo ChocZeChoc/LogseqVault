@@ -36,12 +36,10 @@
 			- #Cholrine
 				- Wilted & droop leaves.
 			- #Copper
-			  collapsed:: true
 				- Leaf malformation, Pale pink between veins.
 				  collapsed:: true
 					- ![slice1.png](../assets/slice1_1672610083579_0.png){:height 147, :width 276}
 			- #Iron
-			  collapsed:: true
 				- Yellow leaves between the veins, might appear striped. Veins might stays green.
 				  collapsed:: true
 					- ![slice7.png](../assets/slice7_1672610220215_0.png){:height 147, :width 278}
@@ -64,10 +62,10 @@
 		  | Yellow New growth       | | | |  |  |X|X|  |  |  |  |  |  |
 		  | Yellow Middle growth    | | | |  |  |X| |  |  |  |  |  |  |
 		  | Yellow Old growth       |X| |X|  |X |X| |  |  |  |  |  |  |
-		  | Yellow Between Veins    | | | |  |X |X| |  |  |  |  |  |  |
+		  | Yellow Between Veins    | | | |  |X |X| |  |X |X |  |  |  |
 		  | Old Leaves drop         |X| | |  |  | | |  |  |  |  |  |  |
 		  | Leaves Curl over        | | | |  |X | | |  |  |  |  |  |  |
-		  | Leaves Curl under       | | |X|  |  | | |  |  |  |  |  |  |
+		  | Leaves Curl under       | | |X|  |  | | |  |X |  |  |  |  |
 		  | New leaves tip burns    | | | |  |  | |X|  |  |  |  |  |  |
 		  | Old Leaves tip burns    |X| | |  |  | | |  |  |  |  |  |  |
 		  | New Leaves Wrinkle/Curl | | |X|  |  | |X|  |  |  |  |  |  |
@@ -81,7 +79,7 @@
 		  | Hard/Brittle Stem       | |X|X|  |  | | |  |  |  |  |  |  |
 		  | New Growth dies         | | |X|X |  | |X|  |  |  |  |  |  |
 		  | Stunted Root Growth     | | | |  |  | | |  |  |  |  |  |  |
-		  | Wilting                 | | | |  |  | | |X |  |  |  |  |  |
+		  | Wilting                 | | | |  |  | | |X |X |  |  |  |  |
 		  | Pale Edges              | | | |  |X | | |  |  |  |  |  |  |
 		  | Up-right Leaves         |X| | |  |  | | |  |  |  |  |  |  |
 		  | Extreme                 |N|P|K|Ca|Mg|S|B|Cl|Cu|Fe|Mn|Mo|Zn|
