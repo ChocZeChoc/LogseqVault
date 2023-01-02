@@ -3,7 +3,6 @@
 	  collapsed:: true
 		- Problem-based learning (PBL) is an educational approach that involves having students work through real-world problems in order to learn new content and skills. This approach is often used in higher education, particularly in fields such as medicine, engineering, and law, but it can also be used in other subject areas. In a PBL approach, students are presented with a problem or challenge and are then asked to work through it using the knowledge and skills they have acquired. As they work through the problem, they may need to research additional information, think critically, and collaborate with their peers. PBL is a student-centered approach that is designed to encourage active learning and to help students apply their knowledge to real-world situations.
 	- #INDHOLD
-	  collapsed:: true
 		- #INDLEDNING	7
 		- #Bogensintentioner	7
 		- #Bogensstruktur	11
@@ -322,3 +321,4 @@
 	- #KAPITEL6
 	- #KAPITEL7
 	- #KAPITEL8
+		- **PBL I ARBEJDSLIVET**	^^155^^
