@@ -306,6 +306,11 @@
 				- En af de metoder, man kan benytte til at få overblik over pro­ blemets facetter, er et Mind Map (Buzan og Buzan 1996). Rudyard Kipling har i sit digt "I Keep Six Honest Serving Men" skrevet, at alt, han havde lært, havde han lært fra de seks ærlige tjenere med nav­ nene: hvad, hvorfor, hvornår, hvordan, hvor og hvem (Kipling 1902). Selvom Kipling skrev dette for mere end hundrede år siden, er hans pointe stadig væsentlig. Et Mind Map, der sætter problemet i centrum og ud fra de forskellige grene udfolder problemet ved hjælp af Kiplings seks tjenere, kan således være et glimrende redskab til at nå frem til en dybere problemforståelse (se figur 3.1).
 					- ![image.png](../assets/image_1672701264916_0.png)
 				- For at illustrere denne proces yderligere følger her et eksempel: Det overordnede problem har følgende beskrivelse: Hvordan kan vi få seks personer på ferietur i seks dage for 6000 kr. Med et Mind Map kan vi danne en dybere forståelse af problemet: hvem er det, vi skal have på ferie, hvorfor tager de på ferie, hvorfor gør de det sammen, hvad forstår de ved en ferietur, hvornår skal de på ferie, hvor kan de ^^57^^ komme hen inden for de afsatte rammer, og hvordan skal ferien til­ rettelægges? Behandlingen af hvert af disse spørgsmål kan opfattes som et mål (fx at komme frem til destinationen på en billig måde), og til hvert mål er der et middel (som fx et transportmiddel). I figur 3.2 ses et udvidet Mind Map, hvor de seks spørgsmål er adresseret med udgangspunkt i projektdeltagernes eksisterende viden om emnet.
+					- ![image.png](../assets/image_1672701527989_0.png)
+				- Det er dog sjældent, at problemforståelsen uddybes i tilstrækkeligt omfang gennem den første indledende brainstorm med udgangs­ punkt i de seks hv-spørgsmål. Derfor er det vigtigt, at man ud over at svare på spørgsmålene overvejer følgende:
+					- Hvilke aktiviteter kalder svarene på? Hvilke skridt er vi nødt til at tage for at kunne give et mere nuanceret svar på de seks spørgsmål, end vores nuværende viden sætter os i stand til?
+					- Hvilke spørgsmål fremstår på samme tid centrale (for problemløsningen), interessante (for gruppen) og tilgængelige (i forhold til de betingelser projektet er underlagt)?
+				-
 			- **Mål/middeldiagram** ^^58^^
 			- **Tidsplanlægning - flowdiagram** ^^60^^
 			- **Backcasting**	^^62^^
