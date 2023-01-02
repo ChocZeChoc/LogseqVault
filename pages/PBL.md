@@ -135,7 +135,8 @@
 				- Undervisere fungerer som vejledere
 				- De studerende er ansvarlige for organiseringen af deres egen læ­ ring.
 			- Ved at se lidt nærmere på ovenstående kendetegn kan man få en god fornemmelse af, hvad PBL er, og hvordan PBL kan sætte rammerne for læring.
-			-
+			- **Virkelige og ****komplekse ****problemer der knytter teori ****til** **praksis** ^^20^^
+			- **Et** **projekt** **på** **første** **semester**
 	- #KAPITEL2
 	- #KAPITEL3
 	- #KAPITEL4
