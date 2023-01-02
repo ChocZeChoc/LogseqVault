@@ -229,6 +229,10 @@
 					- Når man på denne måde har afdækket sin egen og gruppens sam­ lede viden, kan man gå på opdagelse i sin uvidenhed, eksempelvis ved at svare på følgende spørgsmål:
 						- Hvilke spørgsmål åbner denne vidensafklaring op for?
 						- Hvad er det, vi ikke kan svare på med vores nuværende viden? Hvad skal vi vide mere om for at kunne arbejde med problemet? Hvor kan vi skaffe denne viden?
+					- Ved at arbejde med ovenstående spørgsmål vil projektgruppen kunne arbejde systematisk med at afdække problemfeltet yderligere ved at læse relevante artikler, bøger og se på tidligere undersøgel­ ser inden for problemfeltets område. Det er en god ide med mellem­ rum at vende tilbage til ovennævnte spørgsmål for at afklare, hvilke videnshuller der bliver fyldt, og hvilke nye der opstår i processen.
+				- Arbejdet med at finde ud af, hvad det er, man ikke ved, men som man har behov for at vide for at kunne spørge ind til problemet, er første led i den nødvendige afgrænsning frem mod en egentlig pro­ blemformulering. Ethvert succesfyldt projektarbejde er afhængigt af, at problemfeltet afgrænses. Det er gennem denne afgrænsnings­ proces, at man finder frem til en egnet problemformulering, som projektgruppen kan besvare gennem projektarbejdet, og som både fagligt og i forhold til ressourcer og tid passer til projektperioden. Mange dårlige projekter bliver dårlige, fordi de studerende aldrig får lavet en tilstrækkelig afgrænsning af problemet og dermed ikke får præciseret deres problemformulering. Dette kan hurtigt medføre, at projektet får en vag og overordnet karakter, og dermed mister pro­ jektgruppen hurtigt overblik og retning for arbejdet. Bevægelsen fra problemfelt til problemformulering handler således om at snævre feltet ind - at konkretisere problemet og dermed udpege projektets retning.
+				- Umberto Eco har i sin bog *Kunsten at skrive speciale: hvordan man udarbejder skriftlige opgaver *(1997) beskrevet denne bevægelse. Han skriver således:
+					-
 			- **Fra problemfelt til problemformulering** ^^43^^
 			- **Problemformuleringen som projektets kompas** ^^44^^
 			- **Den gode problemformulering**	^^46^^
