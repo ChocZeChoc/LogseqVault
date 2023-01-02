@@ -88,7 +88,6 @@
 		  | Leaves drops & leaves death| | | |  |X | | |  |  |  |  |  |  |  |
 	- #Nutrient#Excess
 		- #Primary
-		  collapsed:: true
 			- #Nitrogen
 			  collapsed:: true
 				-
@@ -103,25 +102,10 @@
 			- #Magnesium
 			- #Sulfur
 		- #Trace-Elements
+			- #Boron
 			- #Cholrine
-				- Wilted & droop leaves.
 			- #Copper
-				- Leaf malformation, Pale pink between veins.
-				  collapsed:: true
-					- ![slice1.png](../assets/slice1_1672610083579_0.png){:height 147, :width 276}
 			- #Iron
-				- Yellow leaves between the veins, might appear striped. Veins might stays green.
-				  collapsed:: true
-					- ![slice7.png](../assets/slice7_1672610220215_0.png){:height 147, :width 278}
 			- #Maganese
-				- Yellow spots/patches between veins.
-				  collapsed:: true
-					- ![slice10.png](../assets/slice10_1672610234961_0.png){:height 144, :width 282}
 			- #Molybdenum
-				- Stunted growth or narrow leaves. Leaves may be light-green, yellow or orange. Spots may appear on the whole leaves except the veins.
-				  collapsed:: true
-					- ![slice4.png](../assets/slice4_1672610243211_0.png){:height 155, :width 289}
 			- #Zinc
-				- Yellow malformed short & narrow leaves, Veins dark-green, Dark spots on edges, abnormal roots.
-				  collapsed:: true
-					- ![slice9.png](../assets/slice9_1672610253586_0.png){:height 151, :width 289}
