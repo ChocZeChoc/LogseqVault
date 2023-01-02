@@ -7,7 +7,7 @@
 				- Stunted leaf growth, light-green/yellow leaves. Extreme deficiency appear burnt. Some Leaves may be up right.
 					- ![slice6.png](../assets/slice6_1672610144042_0.png){:height 141, :width 266}
 			- #Phosphorous
-				- Dark-green leaves. Extreme deficiency turn brown or black. Bronze under the leaves. Maybe purple or red in some plants.
+				- Dark-green leaves. Extreme deficiency turn brown or black. Bronze under the leaves. Maybe purple or red or yellow with brown patches in some plants.
 					- ![slice2.png](../assets/slice2_1672610160012_0.png){:height 142, :width 268}
 			- #Potassium
 				- Small spots and folded on the tip, pale at the edges. Spots turn rusty.
