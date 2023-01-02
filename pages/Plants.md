@@ -2,6 +2,7 @@
 	- #CO2#Deficiency
 	- #Light#Deficiency
 	- #Nutrient#Deficiency
+		- {:height 397, :width 716}
 		- #Primary
 			- #Nitrogen
 				- Stunted leaf growth, light-green/yellow leaves. Extreme deficiency appear burnt. Some Leaves may be up right.
