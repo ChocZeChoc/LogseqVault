@@ -306,8 +306,14 @@
 			- **Arbejdsorganisering - Gantt-skema** ^^63^^
 			- **Fordeling af arbejdet** ^^67^^
 			- **Afrunding** ^^72^^
-	- #KAPITEL4
-		-
+	- #KAPITEL4 ^^73^^
+		- **OPSTART AF SAMARBEJDET** ^^73^^
+			- **Godt begyndt - halvt fuldendt**	^^74^^
+			- **Projektgruppen som organisatorisk enhed og praksisfællesskab**	75
+			- Forventningsafklaring er første skridt	78
+			- Fra forventningsafstemning til samarbejdsaftale	81
+			- Samarbejdsaftalen med vejleder	83
+			- Afrunding	88
 	- #KAPITEL5
 	- #KAPITEL6
 	- #KAPITEL7
