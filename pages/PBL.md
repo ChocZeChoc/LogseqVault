@@ -275,14 +275,14 @@
 				  
 				  Hvornår kan man så sige, at problemformuleringen er tilstræk­ keligt "på plads" til, at man kan gå videre i projektarbejdet? Med ud­ gangspunkt i bl.a. Adolphsen og Qvist (1995), Grinsted og Olsen ^^51^^ (1994), Olsen og Pedersen (2003) samt Stray Jørgensen, Rienecker og Skov (2011) opfordrer vi til, at man holder sin problemformulering op mod nedenstående liste. Kan man nikke ja til de fleste punkter, er man godt på vej. I modsat fald er projektgruppen endnu ikke lan­ det helt på en problemformulering, som kan bære projektet videre.
 				- Er problemformuleringen:
-					- *Udfordrende? *Er der tale om et reelt problem, hvor svaret ikke gi­ ver sig selv?
-					- *Dokumenteret? *Er det overhovedet et problem? Hvilke kilder in­ dikerer, at der er tale om et problem? Eller har andre allerede sva­ ret fyldestgørende på problemet?
-					- *Klar og entydig? *Kan I kort og præcist forklare en udenforstå­ ende, hvad I vil med problemet?
-					- *Et spørgsmål? *Såfremt man vælger at have flere spørgsmål, er det vigtigt, at der er en klar prioritering af hovedspørgsmål og underspørgsmål, der skal hjælpe til at besvare hovedspørgsmålet.
-					- *Handlingsvisende? *Kan problemformuleringen fungere som pro­ jektets kompas? Giver den projektet retning og form?
-					- *Forskningsbar? *Er det muligt at besvare problemformuleringen ved at foretage en undersøgelse?
-					- *Gennemførlig i tid? *Ethvert projekt skal gennemføres inden for engiven tidsramme. Det er i den forbindelse vigtigt at vurdere, om den undersøgelse, der er nødvendig for at svare på problemfor­ muleringen, kan gennemføres inden for denne ramme. Er svaret på dette spørgsmål negativt, er en yderligere afgrænsning sand­ synligvis nødvendig.
-					- *Etisk forsvarlig? *Man skal altid overveje, hvilke konsekvenser un­ dersøgelsen eller projektets konklusioner kan få? Endvidere må man overveje, hvordan man indsamler sine data, og hvilken be­ tydning den valgte metode har for eventuelle respondenter m.m. Disse overvejelser er naturligvis særlig vigtige i sammenhænge, hvor projektarbejdet involverer andre aktører, men det er ligele
+					- *Udfordrende?* Er der tale om et reelt problem, hvor svaret ikke gi­ ver sig selv?
+					- *Dokumenteret?* Er det overhovedet et problem? Hvilke kilder in­ dikerer, at der er tale om et problem? Eller har andre allerede sva­ ret fyldestgørende på problemet?
+					- *Klar og entydig?* Kan I kort og præcist forklare en udenforstå­ ende, hvad I vil med problemet?
+					- *Et spørgsmål?* Såfremt man vælger at have flere spørgsmål, er det vigtigt, at der er en klar prioritering af hovedspørgsmål og underspørgsmål, der skal hjælpe til at besvare hovedspørgsmålet.
+					- *Handlingsvisende?* Kan problemformuleringen fungere som pro­ jektets kompas? Giver den projektet retning og form?
+					- *Forskningsbar?* Er det muligt at besvare problemformuleringen ved at foretage en undersøgelse?
+					- *Gennemførlig i tid? *Ethvert projekt skal gennemføres inden for en given tidsramme. Det er i den forbindelse vigtigt at vurdere, om den undersøgelse, der er nødvendig for at svare på problemfor­ muleringen, kan gennemføres inden for denne ramme. Er svaret på dette spørgsmål negativt, er en yderligere afgrænsning sand­ synligvis nødvendig.
+					- *Etisk forsvarlig?* Man skal altid overveje, hvilke konsekvenser un­ dersøgelsen eller projektets konklusioner kan få? Endvidere må man overveje, hvordan man indsamler sine data, og hvilken be­ tydning den valgte metode har for eventuelle respondenter m.m. Disse overvejelser er naturligvis særlig vigtige i sammenhænge, hvor projektarbejdet involverer andre aktører, men det er ligele
 			- **Afrunding** ^^52^^
 	- #KAPITEL3
 	- #KAPITEL4
