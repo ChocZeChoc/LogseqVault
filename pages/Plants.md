@@ -72,7 +72,7 @@
 		  | Pale green leaves          |X| | |  |  | | |  |  |  |  |X |  |  |
 		  | Molting                    | | | |  |  | | |  |  |  |  |  |X |  |
 		  | Spindly                    |X| | |  |  | | |  |  |  |  |  |  |  |
-		  | Soft Stem                  |X| |X|  |  | | |  |  |  |  |  |  |X |
+		  | Soft Stem                  |X| |X|  |  | | |  |  |  |  |  |  |  |
 		  | Hard/Brittle Stem          | |X|X|  |  | | |  |  |  |  |  |  |  |
 		  | New Growth dies            | | |X|X |  | |X|  |  |  |  |  |  |  |
 		  | Stunted Root Growth        | | | |  |  | | |  |  |  |  |  |X |  |
@@ -86,3 +86,4 @@
 		  | Brown/Black                | |X| |  |  | | |  |  |  |  |  |  |  |
 		  | Rusty Spots                | | |X|  |  | | |  |  |  |  |  |  |  |
 		  | Leaves drops & leaves death| | | |  |X | | |  |  |  |  |  |  |  |
+	-
