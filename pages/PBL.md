@@ -198,7 +198,9 @@
 						- ![image.png](../assets/image_1672698932791_0.png)
 					- Det er væsentligt, at man fra projektets start gør sig klart, hvorvidt det er et disciplinprojekt eller et problemprojekt, man forventes at gennemføre. Hvis metoderne er faste, er der skabt en ekstra binding på, hvilke problemer man kan adressere inden for et problemfelt. Det er centralt, at man ikke går på kompromis med egne interes­ ser for at komme hurtigt i gang. Hvis man arbejder med et problem, der ikke forekommer en vedkommende, meningsfyldt eller interes­ sant, kan det trække væsentlig energi ud af projektet og dermed give et dårligere resultat.
 					- ^^36^^ For såvel disciplinprojekter som problemprojekter gælder det, at de studerende selv skal arbejde med at definere den problemformu­ lering, som projektet tager udgangspunkt i. I det følgende beskriver vi, hvordan man kan strukturere arbejdet frem mod en brugbar pro­ blemformulering, samt hvad der kræves af en god problemformule­ ring. Første skridt består i at finde ud af, hvad et problem egentlig er.
-				-
+				- **Problemtyper** ^^36^^
+					-
+					- **Praktiske og teoretiske ****problemer** ^^36^^
 			- **Afgrænsning af problemet** ^^39^^
 			- **Fra problemfelt til problemformulering** ^^43^^
 			- **Problemformuleringen som projektets kompas** ^^44^^
