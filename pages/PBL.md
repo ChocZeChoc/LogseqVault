@@ -158,6 +158,7 @@
 				- Ud over at aktiv deltagelse er en forudsætning for at lære, så er det også en motiverende måde at lære på. Den indre motivation, som kendetegner den studentercentrerede læring, er afgørende fo , at man som studerende kan opnå en dyb tilgang til læring. En dyb
 				- ^^25^^ tilgang til læring ses, når studerende arbejder med det faglige stof, fordi de finder det meningsgivende og ønsker at forstå og anvende stoffet (Biggs og Tang 2007). Dette ses eksempelvis i arbejdet med projekter, hvor de studerende driver deres læreproces frem af nys­ gerrighed og motivation for at afdække problemstillingen.
 			- **Læring, der foregår **i **grupper** ^^26^^
+			- **Undervisere fungerer som vejledere** ^^25^^
 			- **Studerende er ansvarlige **for **organiseringen af deres egen læring** ^^26^^
 		- **HVAD BETYDER EN PBL-TILGANG KONKRET FOR DIG SOM STUDERENDE?** ^^27^^
 		- **Afrunding** ^^29^^
