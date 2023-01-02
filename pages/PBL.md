@@ -94,6 +94,7 @@
 		- Bogen kan læses kronologisk fra første til sidste side, men det emne­ opdelte indhold muliggør også, at man som læser vælger ud og hopper frem til kapitler, der er relevante i en konkret situation. Under­ vejs i bogen henvises der til bogens andre kapitler - dels for at illu­ strere sammenhængen mellem de forskellige elementer af det pro­ blembaserede arbejde, dels for at vise sammenhængen mellem ar­ bejdsprocessen og det produkt, man søger at realisere. God fornøjelse med læsningen, og held og lykke med det problem­ baserede arbejde!
 	- #KAPITEL1 ^^15^^
 		- **HVAD** **ER** **PROBLEMBASERET** **LÆRING?** ^^15^^
+		  collapsed:: true
 			- "Hvad er problembaseret læring?" og "Hvorfor skal vi arbejde pro­ blembaseret?" er nogle af de spørgsmål, som ofte møder undervi­ sere, vejledere og sekretærer, når nye studerende træder ind på de­ res videregående uddannelser. Nogle studerende har på forhånd un­ dersøgt, hvordan deres studie er tilrettelagt og har måske gjort sig tanker om, hvordan det vil være at arbejde problembaseret, og nogle har måske rig erfaring med at arbejde med projekter eller at arbejde problembaseret. Andre studerende oplever en vis overraskelse over, at rammerne for læring og undervisning måske slet ikke ligner det, de har været vant til i ungdomsuddannelsen. Det er derfor meget re­ levant at spørge: «Hvad er problembaseret læring, og hvad skal vi med det?"
 			- I de efterfølgende afsnit vil vi komme nærmere ind på de mange facetter ved det problembaserede arbejde og derigennem vise, hvad man som studerende kan forvente, når man står over for at skulle arbejde problembaseret. Før vi tager fat i en mere detaljeret præsen­ tation af PBL, er det dog relevant at se nærmere på, hvad det er for strukturelle rammer og perspektiver, der ligger til grund for, at en række danske uddannelsesinstitutioner, med Aalborg Universitet og Roskilde Universitet som de tidligste, har valgt en problembaseret tilgang til læring.
 		- **Hvorfor PBL ved de videregående uddannelser?** ^^15^^
@@ -112,7 +113,9 @@
 				- Krav om øget effektivisering og innovation på tværs af videns­ områder.
 				- Bedre sammenhæng mellem forskning og uddannelsestilbud.
 				- Ønsket om, at studerende i løbet af deres uddannelse ikke blot opnår stor faglig indsigt, men at de også udvikler kompetencer inden for kommunikation og samarbejde og til at arbejde selv­ stændigt med komplekse problemer og projekter.
-				- Studerende skal være lærende hele livet, og de må derfor tilby
+				- Studerende skal være lærende hele livet, og de må derfor tilbydes ^^18 mulighed for at udvikle kompetencer, der gør dem i stand til selvstændigt at identificere læringsbehov og handle ud fra disse behov efter endt uddannelse.
+				- Bedre sammenhæng mellem uddannelsesinstitution/universitet og det omkringliggende samfund.
+			- Vi vender i dette og i det afsluttende kapitel yderligere tilbage til cen­ trale kompetenceområder, som det er meningen, at man som stude­ rende kan erhverve sig igennem en PBL-tilgang. Med rammerne de­ fineret og scenen sat dykkes der nu lidt dybere ned i de principper, som ligger til grund for, at både undervisere og studerende kan til­ rettelægge arbejdet med udgangspunkt i PBL.
 	- #KAPITEL2
 	- #KAPITEL3
 	- #KAPITEL4
