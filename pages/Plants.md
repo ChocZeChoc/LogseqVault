@@ -91,7 +91,7 @@
 			- #Nitrogen
 				- Weak Stem & Leaves
 			- #Phosphorous
-				- New Growth develop internal
+				- New Growth develop internal chlorosis, Malformed leaves, leaves tip burns
 			- #Potassium
 			  collapsed:: true
 				-
