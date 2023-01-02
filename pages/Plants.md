@@ -89,11 +89,9 @@
 	- #Nutrient#Excess
 		- #Primary
 			- #Nitrogen
-			  collapsed:: true
-				-
+				- Weak Stem & Leaves
 			- #Phosphorous
-			  collapsed:: true
-				-
+				- New Growth develop internal
 			- #Potassium
 			  collapsed:: true
 				-
