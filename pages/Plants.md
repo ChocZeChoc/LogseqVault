@@ -89,9 +89,9 @@
 	- #Nutrient#Excess
 		- #Primary
 			- #Nitrogen
-				- Weak Stem & Leaves
+				- Weak Stem & Leaves. Dark-green plants overall.
 			- #Phosphorous
-				- New Growth develop internal chlorosis, Malformed leaves, leaves tip burns
+				- New Growth develop internal chlorosis, Malformed leaves, leaves tip burns. Yellow malformed short & narrow leaves, Veins dark-green, Dark spots on edges, abnormal roots. Yellow leaves between the veins, might appear striped. Veins might stays green.
 			- #Potassium
 			  collapsed:: true
 				-
