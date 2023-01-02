@@ -142,6 +142,7 @@
 			- **Læring, der foregår **i **grupper** ^^26^^
 			- **Studerende er ansvarlige **for **organiseringen af deres egen læring** ^^26^^
 		- **HVAD BETYDER EN PBL-TILGANG KONKRET FOR DIG SOM STUDERENDE?** ^^27^^
+		- **Afrunding** ^^29^^
 	- #KAPITEL2
 	- #KAPITEL3
 	- #KAPITEL4
