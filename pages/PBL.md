@@ -125,6 +125,13 @@
 				- Hvordan man kan arbejde sammen med andre om at skabe ny viden
 				- Hvordan man også efter endt uddannelse kan arbejde for at lære mere, i takt med at nye behov for viden melder sig i arbejdslivet.
 			- Grundlæggende hersker der en vis enighed om de fælles karakte­ ristika for læring, der danner udgangspunktet for PBL ved videre­ gående uddannelser (se fx Barrows 1996; Illeris 1974; Savin-Baden og Major 2004; Graaff og Kolmos 2007; Kjær-Rasmussen og Jensen 2013). PBL er således kendetegnet ved:
+				- Læring organiseret omkring virkelige og komplekse problemer, der knytter teori til praksis
+				- Det videnskabelige arbejde, de studerende udfører, er eksempla­ risk
+				- ^^20^^ Viden er ikke noget, man får overleveret, men skabes i en aktiv læreproces
+				- En læreproces, der tager udgangspunkt i de studerendes aktive deltagelse og medinddragelse
+				- Læring foregår i grupper
+				- Undervisere fungerer som vejledere
+				- De studerende er ansvarlige for organiseringen af deres egen læ­ ring.
 	- #KAPITEL2
 	- #KAPITEL3
 	- #KAPITEL4
