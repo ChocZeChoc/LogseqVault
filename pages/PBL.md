@@ -274,7 +274,7 @@
 				- "Nu ved vi, hvad der skal gøres, så er det bare om at komme i gang med at gøre det!". På denne måde effektiviserer den gode problem­ formulering det videre arbejde. Mange projektgrupper spilder kost­ bar tid med teori- og empiriindsamling, som efterfølgende viser sig som spildt arbejde, fordi problemformuleringen ikke var på plads, inden man gik i gang. 
 				  
 				  Hvornår kan man så sige, at problemformuleringen er tilstræk­ keligt "på plads" til, at man kan gå videre i projektarbejdet? Med ud­ gangspunkt i bl.a. Adolphsen og Qvist (1995), Grinsted og Olsen ^^51^^ (1994), Olsen og Pedersen (2003) samt Stray Jørgensen, Rienecker og Skov (2011) opfordrer vi til, at man holder sin problemformulering op mod nedenstående liste. Kan man nikke ja til de fleste punkter, er man godt på vej. I modsat fald er projektgruppen endnu ikke lan­ det helt på en problemformulering, som kan bære projektet videre.
-				- Er problemformuleringen: ^^
+				- Er problemformuleringen: ^^51^^
 					- *Udfordrende?* Er der tale om et reelt problem, hvor svaret ikke gi­ ver sig selv?
 					- *Dokumenteret?* Er det overhovedet et problem? Hvilke kilder in­ dikerer, at der er tale om et problem? Eller har andre allerede sva­ ret fyldestgørende på problemet?
 					- *Klar og entydig?* Kan I kort og præcist forklare en udenforstå­ ende, hvad I vil med problemet?
@@ -285,6 +285,8 @@
 					- *Etisk forsvarlig?* Man skal altid overveje, hvilke konsekvenser un­ dersøgelsen eller projektets konklusioner kan få? Endvidere må man overveje, hvordan man indsamler sine data, og hvilken be­ tydning den valgte metode har for eventuelle respondenter m.m. Disse overvejelser er naturligvis særlig vigtige i sammenhænge, hvor projektarbejdet involverer andre aktører, men det er ligeledes ^^52^^ relevant i sammenhænge, hvor man behandler eller udtaler sig om forhold, der vedrører andre.
 					- *Interessant?* Uanset om projektet varer tre dage, tre uger eller tre måneder, er det værd at overveje, om det, man skal bruge sin energi på og fordybe sig i gennem den nærmeste tid, er noget, man brænder for? Som udgangspunkt bliver projekter og pro­ jektforløb ofte bedst, hvis man beskæftiger sig med noget, man finder interessant og føler motivation for.
 					- *Studierelevant?* Det er dog ikke tilstrækkeligt, at den studerende og projektgruppen finder emnet interessant. Det skal naturligvis også være relevant i forhold til den givne faglige temaramme. I den forbindelse er det vigtigt at holde sin problemformulering op mod studieordningens formuleringer, ligesom det kan anbefales, at man (i tilfælde hvor det er muligt) får sin vejleder til at vurdere problemformuleringen, inden man går videre med arbejdet.
+				- **Skriv** **en** **problemformulering** ^^52^^
+					- Tidligere foreslog vi, at man indledningsvist i et projektarbejde defi­ nerer sin ikke-viden ved at beskrive det, man ved om et givet pro­ blemfelt, for på denne måde at nå frem til en problemdefinition. An­ det trin i denne proces er nu at gå fra problemdefinition til problem­ formulering. Start med at skrive en tre-fire problemformuleringer - spørgsmål, der spørger til det beskrevne problem. Hvis I arbejder i en gruppe, kan I hver skrive en problemformulering for derefter at diskutere styrker og svagheder ved hver enkelt formulering. Arbejder du alene, kan du med fordel nedskrive tre-fire formuleringer og deref­ ter vurdere kvaliteten af dine spørgsmål baseret på ovenstående li­ ste om den gode problemformulering.
 			- **Afrunding** ^^52^^
 	- #KAPITEL3
 	- #KAPITEL4
