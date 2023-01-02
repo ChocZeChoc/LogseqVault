@@ -118,7 +118,6 @@
 				- Bedre sammenhæng mellem uddannelsesinstitution/universitet og det omkringliggende samfund.
 			- Vi vender i dette og i det afsluttende kapitel yderligere tilbage til cen­ trale kompetenceområder, som det er meningen, at man som stude­ rende kan erhverve sig igennem en PBL-tilgang. Med rammerne de­ fineret og scenen sat dykkes der nu lidt dybere ned i de principper, som ligger til grund for, at både undervisere og studerende kan til­ rettelægge arbejdet med udgangspunkt i PBL.
 		- **OVERORDNEDE PRINCIPPER ****FOR ****PROBLEMBASERET ****LÆRING** ^^18^^
-		  collapsed:: true
 			- ^^18^^ Det problembaserede arbejde kan i praksis organiseres på mange måder og under meget forskelligartede organisatoriske rammer. Aalborg Universitet og Roskilde Universitet har valgt at organisere væsentlige dele af deres uddannelser omkring det problembaserede og projektorienterede arbejde. Her arbejder de studerende en be­ tragtelig del af hvert semester med at udforme et omfattende pro­ jekt, der tager udgangspunkt i en relevant problemstilling og afslut­ tes med eksamen. Ved nogle universitetsuddannelser anvendes en problembaseret tilgang til læring med udgangspunkt i de studeren­ des arbejde med casematerialer. Her er det fortsat de studerende, der i fællesskab afgrænser problemstillingerne, men forløbene er flere og kortere, typisk en uge, og afsluttes med fremlæggelse og diskussion. Fælles for de forskellige praksisser for PBL er dog, at man ud over projektarbejdet tilbydes supplerende måder at lære på, som eksem­ pelvis kurser organiseret omkring seminarer, workshops eller fore­ læsninger. Viden opnået gennem disse aktiviteter anvendes ofte som afsæt for projektarbejdet.
 			- ^^19^^ Problembaseret læring er en udfordrende, men også givende affære, der stiller krav både til de studerendes håndtering af fagligt stof og til deres etablering og fastholdelse af frugtbare arbejdsrela­ tioner. Det kan måske umiddelbart forekomme som en stor opgave, men erfaringerne er, at langt de fleste studerende ganske hurtigt fin­ der sig til rette i arbejdsformen. For at give mere mening og struk­ tur til en opstart, der indeholder mange nye elementer, er det vig­ tigt, at studerende, der arbejder problembaseret på deres uddannel­ ser, også har indsigt i, hvorfor denne læringstilgang er valgt. Herved bliver det tydeligt, hvilke intentioner og hensigter der er indbygget i tilgangen i forhold til de kompetencer, man som studerende skal stå med efter endt uddannelse. I en problembaseret tilgang til læring er der et indbygget ønske om, at man som studerende ikke blot tilegner sig en dyb faglig viden, men at man også kan forholde sig til:
 				- Hvilke problemstillinger der er relevante at adressere
@@ -136,6 +135,7 @@
 				- Undervisere fungerer som vejledere
 				- De studerende er ansvarlige for organiseringen af deres egen læ­ ring.
 			- Ved at se lidt nærmere på ovenstående kendetegn kan man få en god fornemmelse af, hvad PBL er, og hvordan PBL kan sætte rammerne for læring.
+			-
 	- #KAPITEL2
 	- #KAPITEL3
 	- #KAPITEL4
