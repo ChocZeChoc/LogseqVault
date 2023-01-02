@@ -10,7 +10,7 @@
 		- Hvad betyder en PBL-tilgang konkret for dig som studerende?	27
 		- Afrunding	29
 		- #KAPITEL2 · OM PROBLEMER OG PROBLEMFORMULERINGER	31
-		  Problemformuleringen - projektets første og sidste skridt	32
+		- Problemformuleringen - projektets første og sidste skridt	32
 		- Afgrænsning af problemet	39
 		- Fra problemfelt til problemformulering	43
 		- Problemformuleringen som projektets kompas	44
@@ -20,32 +20,32 @@
 		- #KAPITEL3 · AT PLANLÆGGE OG STYRE ET PBL-PROJEKT	55
 		- Afgrænsning af problemet via Mind Map	55
 		- Mål/middeldiagram	58
-		  Tidsplanlægning - flowdiagram	60
+		- Tidsplanlægning - flowdiagram	60
 		- Backcasting	62
-		  Arbejdsorganisering - Gantt-skema	63
+		- Arbejdsorganisering - Gantt-skema	63
 		- Fordeling af arbejdet	67
 		- Afrunding	72
 		- #KAPITEL4 · OPSTART AF SAMARBEJDET	73
-		  Godt begyndt - halvt fuldendt	74
+		- Godt begyndt - halvt fuldendt	74
 		- Projektgruppen som organisatorisk enhed og praksisfællesskab	75
 		- Forventningsafklaring er første skridt	78
 		- Fra forventningsafstemning til samarbejdsaftale	81
 		- Samarbejdsaftalen med vejleder	83
 		- Afrunding	88
-		  KAPITEL 5 · SAMARBEJDE - FRA HENSIGT TIL HANDLING	89
+		- #KAPITEL5 · SAMARBEJDE - FRA HENSIGT TIL HANDLING	89
 		- Samarbejde som et samspil af roller	89
 		- Om arbejdsgrupper, hyggegrupper og dysfunktionelle grupper	93
 		- Kommunikationen i gruppen	96
 		- Konflikter i gruppen	102
 		- Konflikthåndtering	104
 		- Afrunding	110
-		- KAPITEL 6 · PBL OG IT	113
+		- #KAPITEL6 · PBL OG IT	113
 		- Hvorfor bruge it i projektarbejdet og hvordan?	114
 		- Udforskning af undersøgelsesfeltet	117
 		- Ressourcehåndtering (opbevare, gemme og annotere)	120
 		- Dialog	123
 		- Afrunding	131
-		- KAPITEL 7 · EVALUERING AF DET PROBLEM BASEREDE ARBEJDE	133
+		- #KAPITEL7 · EVALUERING AF DET PROBLEM BASEREDE ARBEJDE	133
 		- Hvad er evaluering?	134
 		- Om feedback i evaluering	136
 		- Om at sætte mål og evaluere	140
@@ -53,7 +53,7 @@
 		- Den løbende evaluering	144
 		- Den afsluttende evaluering	148
 		- Afrunding	152
-		- KAPITEL 8 · PBL I ARBEJDSLIVET	155
+		- #KAPITEL8 · PBL I ARBEJDSLIVET	155
 		- PBL i videnssamfundet	155
 		- Afrunding	162
 		- FORFATTERPRÆSENTATION	165
