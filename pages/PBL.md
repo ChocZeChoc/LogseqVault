@@ -139,6 +139,9 @@
 			- **Et** **projekt** **på** **første** **semester** ^^21^^
 			- **Det videnskabelige arbejde, de studerende udfører, er eksemplarisk** ^^22^^
 			- **Læring** **sker** **ved** **de** **studerendes** **aktive** **deltagelse** ^^23^^
+			- **Læring, der foregår **i **grupper** ^^26^^
+			- **Studerende er ansvarlige **for **organiseringen af deres egen læring** ^^26^^
+		- **HVAD BETYDER EN PBL-TILGANG KONKRET FOR DIG SOM STUDERENDE?** ^^27^^
 	- #KAPITEL2
 	- #KAPITEL3
 	- #KAPITEL4
