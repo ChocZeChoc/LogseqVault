@@ -219,8 +219,16 @@
 					- Hvad vil det sige at finde huller i sin egen, andres og fagets viden? Og hvordan gør man i praksis? 
 					  
 					  At finde frem til det, man ikke ved om et emne eller et problemfelt, er en proces, som i princippet aldrig afsluttes, hvilket Sokrates' be­ rømte forsvarstalecitat om, at "jo mere jeg ved, jo mere ved jeg, at jeg intet ved", minder os om. Det handler derfor ikke om at afdække ens samlede "uvidenhed", men derimod om at skabe et fundament
-					- et udgangspunkt - for det videnskabelige arbejde. Det første skridt, man tager, når man har defineret et problemfelt, er at ekspli­ citere sin viden om feltet. Kort sagt: Skriv ned, hvad I ved om emnet:
-						-
+					- - et udgangspunkt - for det videnskabelige arbejde. Det første skridt, man tager, når man har defineret et problemfelt, er at ekspli­ citere sin viden om feltet. Kort sagt: Skriv ned, hvad I ved om emnet:
+						- Hvad er problemet?
+						- Hvem er det et problem for?
+						- I hvilke situationer er det et problem?
+						- Hvor observerer du/I problemet (praksis/teori)?
+						- Hvorfor er problemet relevant?
+						- Hvordan kan faget anvendes i relation til problemet?
+					- Når man på denne måde har afdækket sin egen og gruppens sam­ lede viden, kan man gå på opdagelse i sin uvidenhed, eksempelvis ved at svare på følgende spørgsmål:
+						- Hvilke spørgsmål åbner denne vidensafklaring op for?
+						- Hvad er det, vi ikke kan svare på med vores nuværende viden? Hvad skal vi vide mere om for at kunne arbejde med problemet? Hvor kan vi skaffe denne viden?
 			- **Fra problemfelt til problemformulering** ^^43^^
 			- **Problemformuleringen som projektets kompas** ^^44^^
 			- **Den gode problemformulering**	^^46^^
