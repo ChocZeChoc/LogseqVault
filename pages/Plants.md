@@ -86,23 +86,3 @@
 		  | Brown/Black                | |X| |  |  | | |  |  |  |  |  |  |  |
 		  | Rusty Spots                | | |X|  |  | | |  |  |  |  |  |  |  |
 		  | Leaves drops & leaves death| | | |  |X | | |  |  |  |  |  |  |  |
-	- #Nutrient#Excess
-		- #Primary
-			- #Nitrogen
-				- Weak Stem & Leaves. Dark-green plants overall.
-			- #Phosphorous
-				- New Growth develop internal chlorosis, Malformed leaves, leaves tip burns. Yellow malformed short & narrow leaves, Veins dark-green, Dark spots on edges, abnormal roots. Yellow leaves between the veins, might appear striped. Veins might stays green. Dark-green on new leaves, lead to new growth death. Pale edges, no spots, cup shaped folds. Lead to leaves drop/death in extreme deficiency. Yellow between leave veins.
-			- #Potassium
-				-
-		- #Secondary
-			- #Calcium
-			- #Magnesium
-			- #Sulfur
-		- #Trace-Elements
-			- #Boron
-			- #Cholrine
-			- #Copper
-			- #Iron
-			- #Maganese
-			- #Molybdenum
-			- #Zinc
