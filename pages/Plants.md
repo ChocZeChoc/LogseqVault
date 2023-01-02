@@ -67,22 +67,22 @@
 		  | Old Leaves tip burns    |X| | |  |  | | |  |  |  |  |  |X |  |
 		  | New Leaves Wrinkle/Curl | | |X|  |  | |X|  |  |  |  |X |X |  |
 		  | Necrosis                | | |X|  |X | | |  |  |  |X |  |X |  |
-		  | Leaf growth stunted     |X|X| |  |  | | |  |  |  |  |X |  |  |
-		  | Dark-green/Purple leaves| |X| |X |  | | |  |  |  |  |  |  |  |
-		  | Pale green leaves       |X| | |  |  | | |  |  |  |  |X |  |  |
-		  | Molting                 | | | |  |  | | |  |  |  |  |  |X |  |
-		  | Spindly                 |X| | |  |  | | |  |  |  |  |  |  |  |
-		  | Soft Stem               |X| |X|  |  | | |  |  |  |  |  |  |  |
-		  | Hard/Brittle Stem       | |X|X|  |  | | |  |  |  |  |  |  |  |
-		  | New Growth dies         | | |X|X |  | |X|  |  |  |  |  |  |  |
-		  | Stunted Root Growth     | | | |  |  | | |  |  |  |  |  |X |  |
-		  | Wilting                        | | | |  |  | | |X |X |  |  |  |  |  |
-		  | Pale Edges                     | | | |  |X | | |  |  |  |  |  |  |  |
-		  | Up-right Leaves                |X| | |  |  | | |  |  |  |  |  |  |  |
-		  | Patches                        | | | |  |  | | |  |  |  |X |  |  |  |
-		  | Spots                          | | |X|  |  | | |  |  |  |  |X |X |  |
-		  | Extreme                        |N|P|K|Ca|Mg|S|B|Cl|Cu|Fe|Mn|Mo|Zn|OF|
-		  | Burnt Leaves                   |X| | |  |  | | |  |  |  |  |  |  |  |
-		  | Brown/Black                    | |X| |  |  | | |  |  |  |  |  |  |  |
-		  | Rusty Spots                    | | |X|  |  | | |  |  |  |  |  |  |  |
-		  | Leaves drops & leaves death    | | | |  |X | | |  |  |  |  |  |  |  |
+		  | Leaf growth stunted        |X|X| |  |  | | |  |  |  |  |X |  |  |
+		  | Dark-green/Purple leaves   | |X| |X |  | | |  |  |  |  |  |  |  |
+		  | Pale green leaves          |X| | |  |  | | |  |  |  |  |X |  |  |
+		  | Molting                    | | | |  |  | | |  |  |  |  |  |X |  |
+		  | Spindly                    |X| | |  |  | | |  |  |  |  |  |  |  |
+		  | Soft Stem                  |X| |X|  |  | | |  |  |  |  |  |  |  |
+		  | Hard/Brittle Stem          | |X|X|  |  | | |  |  |  |  |  |  |  |
+		  | New Growth dies            | | |X|X |  | |X|  |  |  |  |  |  |  |
+		  | Stunted Root Growth        | | | |  |  | | |  |  |  |  |  |X |  |
+		  | Wilting                    | | | |  |  | | |X |X |  |  |  |  |  |
+		  | Pale Edges                 | | | |  |X | | |  |  |  |  |  |  |  |
+		  | Up-right Leaves            |X| | |  |  | | |  |  |  |  |  |  |  |
+		  | Patches                    | | | |  |  | | |  |  |  |X |  |  |  |
+		  | Spots                      | | |X|  |  | | |  |  |  |  |X |X |  |
+		  | Extreme                    |N|P|K|Ca|Mg|S|B|Cl|Cu|Fe|Mn|Mo|Zn|OF|
+		  | Burnt Leaves               |X| | |  |  | | |  |  |  |  |  |  |  |
+		  | Brown/Black                | |X| |  |  | | |  |  |  |  |  |  |  |
+		  | Rusty Spots                | | |X|  |  | | |  |  |  |  |  |  |  |
+		  | Leaves drops & leaves death| | | |  |X | | |  |  |  |  |  |  |  |
