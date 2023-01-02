@@ -299,7 +299,13 @@
 		- **AT PLANLÆGGE OG STYRE ET PBL-PROJEKT** ^^55^^
 			- Et centralt element i det problemorienterede projektarbejde er na­ turligvis selve projektet. I forbindelse med projekter af kortere varig­ hed, såsom en uge eller to, er planlægning og styring ikke så vigtig, eftersom perioden vil være ganske overskuelig. I forbindelse med længerevarende projekter på eksempelvis tre-fire måneder er der derimod ofte behov for at styre projektarbejdet nøjere for at sikre, at man når i mål inden for den normerede tid. I dette kapitel vil vi der­ for præsentere en række konkrete værktøjer, som kan hjælpe stu­ derende med at skabe sig et overblik over problemfeltet, planlægge og styre projektet samt fordele de respektive arbejdsopgaver på bag­ grund af rationelle og strategiske valg.
 			- Vi indleder kapitlet med at se på nogle redskaber, der beskæfti­ ger sig med, hvad man kunne kalde problemafklaring eller problem­ afgrænsning, hvilket er en essentiel del af ethvert projektarbejde. På denne vis trækker vi tråde tilbage til kapitel 2, som netop beskrev processen fra problemfelt til problemformulering, men i dette ka­ pitel søger vi nu at give nogle mere konkrete visuelle styringsred­ skaber, der kan benyttes i arbejdet med at gå fra problemfelt til pro­ blemformulering. Styringsredskaberne kan naturligvis også anven­ des senere i projektforløbet.
-			-
+			- **Afgrænsning af problemet via Mind Map**	^^55^^
+			- **Mål/middeldiagram**	^^58^^
+			- **Tidsplanlægning - flowdiagram**	^^60^^
+			- **Backcasting**	^^62^^
+			- **Arbejdsorganisering - Gantt-skema**	^^63^^
+			- **Fordeling af arbejdet**	^^67^^
+			- **Afrunding**	^^72^^
 	- #KAPITEL4
 	- #KAPITEL5
 	- #KAPITEL6
