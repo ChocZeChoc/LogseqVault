@@ -1,6 +1,5 @@
 - #PBL
 	- #INDHOLD
-	  collapsed:: true
 		- #INDLEDNING	7
 		- #Bogensintentioner	7
 		- #Bogensstruktur	11
@@ -95,10 +94,9 @@
 		- Bogen kan læses kronologisk fra første til sidste side, men det emne­ opdelte indhold muliggør også, at man som læser vælger ud og hopper frem til kapitler, der er relevante i en konkret situation. Under­ vejs i bogen henvises der til bogens andre kapitler - dels for at illu­ strere sammenhængen mellem de forskellige elementer af det pro­ blembaserede arbejde, dels for at vise sammenhængen mellem ar­ bejdsprocessen og det produkt, man søger at realisere. God fornøjelse med læsningen, og held og lykke med det problem­ baserede arbejde!
 	- #KAPITEL1
 	- #KAPITEL2
-	- #KAPITEL
-	- #KAPITEL1
-	- #KAPITEL1
-	- #KAPITEL1
-	- #KAPITEL1
-	- #KAPITEL1
-	- #KAPITEL1
+	- #KAPITEL3
+	- #KAPITEL4
+	- #KAPITEL5
+	- #KAPITEL6
+	- #KAPITEL7
+	- #KAPITEL8
