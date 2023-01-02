@@ -46,7 +46,7 @@
 		- | Symptoms                   |N|P|K|Ca|Mg|S|B|Cl|Cu|Fe|Mn|Mo|Zn|OF|
 		  | Yellow New growth          | | | |  |  |X|X|  |  |  |X |  |  |  |
 		  | Yellow Middle growth       | | | |  |  |X| |  |  |  |  |X |  |  |
-		  | Yellow Old growth          |X| |X|  |X |X| |  |  |  |  |  |X |  |
+		  | Yellow Old growth          |X|X|X|  |X |X| |  |  |  |  |  |X |  |
 		  | Yellow Between Veins       | | | |  |X |X| |  |X |X |X |  |  |  |
 		  | Old Leaves drop            |X| | |  |  | | |  |  |  |  |  |  |  |
 		  | Leaves Curl over           | | | |  |X | | |  |  |  |  |  |  |  |
@@ -67,7 +67,7 @@
 		  | Wilting                    | | | |  |  | | |X |X |  |  |  |  |  |
 		  | Pale Edges                 | | | |  |X | | |  |  |  |  |  |  |  |
 		  | Up-right Leaves            |X| | |  |  | | |  |  |  |  |  |  |  |
-		  | Patches                    | | | |  |  | | |  |  |  |X |  |  |  |
+		  | Patches                    | |X| |  |  | | |  |  |  |X |  |  |  |
 		  | Spots                      | | |X|  |  | | |  |  |  |  |X |X |  |
 		  | Holes                      | | |X|  |  | | |  |  |  |  |  |  |  |
 		  | Extreme--------------------|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
