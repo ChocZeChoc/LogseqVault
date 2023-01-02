@@ -81,7 +81,7 @@
 		  | Up-right Leaves            |X| | |  |  | | |  |  |  |  |  |  |  |
 		  | Patches                    | | | |  |  | | |  |  |  |X |  |  |  |
 		  | Spots                      | | |X|  |  | | |  |  |  |  |X |X |  |
-		  | Extreme                    |N|P|K|Ca|Mg|S|B|Cl|Cu|Fe|Mn|Mo|Zn|OF|
+		  | Extreme--------------------|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 		  | Burnt Leaves               |X| | |  |  | | |  |  |  |  |  |  |  |
 		  | Brown/Black                | |X| |  |  | | |  |  |  |  |  |  |  |
 		  | Rusty Spots                | | |X|  |  | | |  |  |  |  |  |  |  |
