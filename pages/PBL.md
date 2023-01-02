@@ -188,7 +188,7 @@
 				  collapsed:: true
 				  Som kapitlets indledende eksempel illustrerer, kan et PBL-pro­ jekt begynde med en interesse for et felt, som overordnet er afgræn­ set i studieordningens læringsmål for projektet. Der er noget, pro­ jektgruppen brænder for, og som man samtidig gerne vil blive klo­ gere på. Imidlertid er interesse for et emne ikke nødvendigvis ensbe­ tydende med, at der forekommer et problem - hvorfor mulige pro­ blemer må identificeres og problemfeltet foldes ud. Problemfeltet be­ står af dokumenterede problemer inden for det overordnede tema. Gruppen afdækker problemfeltet indtil det øjeblik, hvor de finder *problemet. *Det er, når der er noget, de ikke ved, noget, de undres ^^33^^ over, og som ikke umiddelbart lader sig forklare, beskrive eller løse med forhåndenværende viden og antagelser - og hvor gruppen in­ den for deres interessefelt kan bidrage. Derfor vil der i et PBL-pro­ jekts første fase være en proces, hvor de studerende skal identificere det, de ikke ved, og det, der ikke umiddelbart lader sig forklare, men som de gerne ville kunne forklare eller behandle. Det problemba­ serede arbejde tager dermed udgangspunkt i de erfaringer, et indi­ vid eller en samlet projektgruppe allerede har, og gør disse erfarin­ ger til afsæt for videre læring og udvikling både af den enkelte, men også af det sociale og samfundsmæssige rum, den enkelte er en del af (Dewey 1916).
 					- ![image.png](../assets/image_1672698668323_0.png)
-				-
+				- ^^34^^
 			- **Afgrænsning af problemet** ^^39^^
 			- **Fra problemfelt til problemformulering** ^^43^^
 			- **Problemformuleringen som projektets kompas** ^^44^^
