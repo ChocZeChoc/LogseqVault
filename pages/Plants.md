@@ -88,33 +88,21 @@
 		  | Leaves drops & leaves death| | | |  |X | | |  |  |  |  |  |  |  |
 	- #Nutrient#Excess
 		- #Primary
+		  collapsed:: true
 			- #Nitrogen
+			  collapsed:: true
 				-
 			- #Phosphorous
+			  collapsed:: true
 				-
-					- ![slice2.png](../assets/slice2_1672610160012_0.png){:height 142, :width 268}
 			- #Potassium
-				- Small spots and folded on the tip, pale at the edges. Spots turn rusty.
-				  collapsed:: true
-					- ![slice5.png](../assets/slice5_1672610166079_0.png){:height 143, :width 270}
+			  collapsed:: true
+				-
 		- #Secondary
 			- #Calcium
-				- Dark-green on new leaves, lead to new growth death.
-				  collapsed:: true
-					- ![slice3.png](../assets/slice3_1672610182703_0.png){:height 144, :width 272}
 			- #Magnesium
-				- Pale edges, no spots, cup shaped folds. Lead to leaves drop/death in extreme deficiency. Yellow between leave veins.
-				  collapsed:: true
-					- ![slice8.png](../assets/slice8_1672610191798_0.png){:height 145, :width 273}
 			- #Sulfur
-				- Light-green veins & leaves, no spots. Overall plants is yellow.
-				  collapsed:: true
-					- ![slice11.png](../assets/slice11_1672610200804_0.png){:height 141, :width 274}
 		- #Trace-Elements
-			- #Boron
-				- Discoloration of new leaves, Breaking and dropping of new growth.
-				  collapsed:: true
-					- ![slice12.png](../assets/slice12_1672610207854_0.png){:height 143, :width 271}
 			- #Cholrine
 				- Wilted & droop leaves.
 			- #Copper
