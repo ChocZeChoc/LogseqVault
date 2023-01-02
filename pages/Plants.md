@@ -2,7 +2,8 @@
 	- #CO2#Deficiency
 	- #Light#Deficiency
 	- #Nutrient#Deficiency
-		- ![image.png](../assets/image_1672621315498_0.png) {:height 397, :width 716}
+		- #Aquarium
+			- ![image.png](../assets/image_1672621315498_0.png)
 		- #Primary
 			- #Nitrogen
 				- Stunted leaf growth, light-green/yellow leaves. Extreme deficiency appear burnt. Some Leaves may be up right.
