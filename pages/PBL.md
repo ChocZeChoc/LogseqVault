@@ -397,16 +397,14 @@
 					- Hvor ofte kan vi forvente vejledermøde?
 					- ^^88^^ Hvor lang tid i forvejen skal vi have aftalt møder?
 					- Hvad er forventningerne til mødeledelsen, som fx til dagsorde­ ner, referater, ordstyrer?
-					- Hvad forventes vi at sende af materiale til forberedelse ud over tekst til rapporten: billeder af tavle, referater fra gruppemøder, opdaterede tidsplaner, gruppens noter osv. 
-					  
-					  ·	Hvor færdig skal en tekst være, før den kan sendes til vejleder? Hvor meget læsevejledning skal der være til de tekster, der sen­ des? 
-					  
-					  Hvor mange gange vil vejlederen se den samme tekst? 
-					  
-					  Hvornår skal vejlederen have teksten for at sikre en fornuftig for­ beredelse? 
-					  
-					  I hvilket filformat foretrækker vejlederen teksten?
-			- Afrunding	88
+					- Hvad forventes vi at sende af materiale til forberedelse ud over tekst til rapporten: billeder af tavle, referater fra gruppemøder, opdaterede tidsplaner, gruppens noter osv.
+					- Hvor færdig skal en tekst være, før den kan sendes til vejleder? Hvor meget læsevejledning skal der være til de tekster, der sen­ des?
+					- Hvor mange gange vil vejlederen se den samme tekst?
+					- Hvornår skal vejlederen have teksten for at sikre en fornuftig for­ beredelse?
+					- I hvilket filformat foretrækker vejlederen teksten?
+				- På samme vis som ved gruppens samarbejdsaftale anbefaler vi, at samarbejdsaftalen med vejlederen skrives ned og godkendes af alle parter.
+			- **Afrunding** ^^88^^
+				-
 	- #KAPITEL5
 	- #KAPITEL6
 	- #KAPITEL7 ^^133^^
