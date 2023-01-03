@@ -644,28 +644,27 @@
 					- Endelig er det vigtigt, at man også husker at nævne det, der fun­gerer, og det, vi lykkes med. Som vi skal vende tilbage til senere i kapitlet, rummer vore succeser et stort læringspotentiale. Efter at have gennemgået praksis i feedbackprocessen er det nu tid
 					  til at se på nogle konkrete evalueringsområder og evaluerings modeller.
 			- **Om at sætte mål og evaluere** ^^140^^
-		- En effektiv evaluering begynder ikke med selve evalueringen, men inden: nemlig med en diskussion af og refleksion over målsætnin­ger. Elliot og Dweck (1988) skelner i den forbindelse mellem to for­ skellige former for mål i studiesammenhænge:
-		- I) *Præstationsmål, *hvor man som studerende primært har fokus på at sikre sig positive evalueringer af sine præstationer. I traditionel uddannelsessammenhæng vil dette ske gennem karaktergivning. Præstationsmål indfris i udgangspunktet ved, at *en anden *end den lærende afgør, hvad der regnes for en god præstation.
-		- 2)
-		  *Læringsmål, *hvor man primært fokuserer på at forbedre egne eller gruppens præstationer i forhold til opgaven. Læringsmål er mål, som de studerende selv formulerer på baggrund af et oplevet
-		  behovs- eller vigtighedskriterium. Læringsmål
-		  eller procesmål er således også **mål, **som de studerende selv kan kontrollere. Derfor ta­ ger de studerende i langt højere grad ansvar for evalueringen af de­res proces- og uddannelsesforløb, når det er læringsmål, der skal evalueres: "Har vi levet op til vores målsætninger om arbejdsmåder,
-		  arbejdsindsats, mødekultur, udvikling af faglige kompetencer osv.?,, Når vi som vejledere ved første
-		  vejledningsmøde spørger de stu­derende om, hvad deres
-		  mål med projektet er, hører vi tit udsagn
-		  så­ som: "Vi vil gerne lave et rigtig godt projekt."
-		  Spørger man ind til betydningen bag dette udsagn, finder man ofte ud af, at det, de studerende egentlig siger, er: "Vi vil gerne lave et projekt, som censor og eksaminator synes, er rigtig godt, så vi kan få en høj karakter." Mål­ sætningen for det problembaserede arbejde kommer på denne måde til at ligge uden for de
-		  studerendes kontrol, hvilket vil medføre et evalueringsunderskud. Hvis man ikke opstiller mål, som det er muligt selv at evaluere på, giver det jo ikke megen mening at evaluere i det hele taget. Derfor er en vigtig opgave i forbindelse med problem­ baseret arbejde at diskutere, hvilke mål deltagerne har for arbejdet vel at mærke mål, der kan evalueres
-		  på! Sådanne mål vil typisk være læringsmål eller procesmål. Men tag ikke fejl: man kan sagtens
-		  som studerende evaluere projektarbejdets produkt. Faktisk kan det være vældig lærerigt at foretage interne produktevalueringer, hvilket vi vender tilbage til senere i kapitlet. Før vi når dertil, vil vi imidlertid give en række eksempler på mu­lige
-		  evalueringsformer og komme med forslag til, hvordan det pro­blembaserede arbejde kan kvalificeres gennem evaluering, for selv­ følgelig er evaluering
-		  ikke noget, der bare skal foretages "for sjov". Den eneste grund til, at vi anbefaler, at alle studerende arbejder mål­ rettet med evaluering, er, at
-		  løbende evaluering fører til indsigt både omkring håndteringen af fagligt stof og processen omkring samar­bejdet. Det vil bidrage til, at den enkelte og gruppen opbygger sta­dig mere viden om og kompetence til at få størst muligt læringsud­bytte af det problembaseret arbejde. Evaluering er i *sidste *ende et produktoptimerende redskab (Rasmussen 2007).
-		- **Om løbende evaluering af gruppearbejdet** ^^141^^
-		- Vi hører af og til studerende sige, at "vi behøver ikke evaluere, for det går jo rigtig godt i vores gruppe". Men måske er det netop, når det går allerbedst, at en evaluering kan bidrage med mest
-		  læring. For det første er det jo meget sjældent, at
-		  tingene går skidt fra star­ ten. I langt de fleste tilfælde bliver samarbejdet, enigheden, energi­ niveauet osv. ringere med tiden. Men til tider kan dette rent faktisk forhindres, såfremt gruppen evaluerer samarbejdet undervejs, og in­ den den store krise opstår. Dermed får gruppen lejlighed til at spotte eventuelle faresignaler og ikke mindst erkende, hvad det er, der bi­ drager til gruppens gode samarbejde. For det andet er evaluering en tids- og energikrævende aktivitet. Pro­ jekter og grupper, der er ved at køre af sporet, er sjældent energi gi­vende. I sådan en situation kan det være vanskeligt at finde den nødvendige energi til at starte en evalueringsproces. Har man imid­lertid allerede oparbejdet en evalueringskultur, kan det være lettere at fastholde den i de hårde og knap så sjove perioder. Endelig er det faktum, at "tingene går godt" jo ikke nogen undskyld­ning for ikke at lære noget! Som kapitlets indledende eksempel sø­ger at illustrere, kan der være masser af læring forbundet med det, vi lykkes med. Faktisk kan vi have en tendens til at være alt for op­ satte på
-		  at lære af vores fejl og ignorere det videnspotentiale, der ligger gemt i vores succeser.
+				- En effektiv evaluering begynder ikke med selve evalueringen, men inden: nemlig med en diskussion af og refleksion over målsætnin­ger. Elliot og Dweck (1988) skelner i den forbindelse mellem to forskellige former for mål i studiesammenhænge:
+				- I) *Præstationsmål, *hvor man som studerende primært har fokus på at sikre sig positive evalueringer af sine præstationer. I traditionel uddannelsessammenhæng vil dette ske gennem karaktergivning. Præstationsmål indfris i udgangspunktet ved, at *en anden *end den lærende afgør, hvad der regnes for en god præstation.
+				- 2) *Læringsmål, *hvor man primært fokuserer på at forbedre egne eller gruppens præstationer i forhold til opgaven. Læringsmål er mål, som de studerende selv formulerer på baggrund af et oplevet
+				  behovs- eller vigtighedskriterium. Læringsmål
+				  eller procesmål er således også **mål, **som de studerende selv kan kontrollere. Derfor ta­ ger de studerende i langt højere grad ansvar for evalueringen af de­res proces- og uddannelsesforløb, når det er læringsmål, der skal evalueres: "Har vi levet op til vores målsætninger om arbejdsmåder,
+				  arbejdsindsats, mødekultur, udvikling af faglige kompetencer osv.?,, Når vi som vejledere ved første
+				  vejledningsmøde spørger de stu­derende om, hvad deres
+				  mål med projektet er, hører vi tit udsagn
+				  så­ som: "Vi vil gerne lave et rigtig godt projekt."
+				  Spørger man ind til betydningen bag dette udsagn, finder man ofte ud af, at det, de studerende egentlig siger, er: "Vi vil gerne lave et projekt, som censor og eksaminator synes, er rigtig godt, så vi kan få en høj karakter." Mål­ sætningen for det problembaserede arbejde kommer på denne måde til at ligge uden for de
+				  studerendes kontrol, hvilket vil medføre et evalueringsunderskud. Hvis man ikke opstiller mål, som det er muligt selv at evaluere på, giver det jo ikke megen mening at evaluere i det hele taget. Derfor er en vigtig opgave i forbindelse med problem­ baseret arbejde at diskutere, hvilke mål deltagerne har for arbejdet vel at mærke mål, der kan evalueres
+				  på! Sådanne mål vil typisk være læringsmål eller procesmål. Men tag ikke fejl: man kan sagtens
+				  som studerende evaluere projektarbejdets produkt. Faktisk kan det være vældig lærerigt at foretage interne produktevalueringer, hvilket vi vender tilbage til senere i kapitlet. Før vi når dertil, vil vi imidlertid give en række eksempler på mu­lige
+				  evalueringsformer og komme med forslag til, hvordan det pro­blembaserede arbejde kan kvalificeres gennem evaluering, for selv­ følgelig er evaluering
+				  ikke noget, der bare skal foretages "for sjov". Den eneste grund til, at vi anbefaler, at alle studerende arbejder mål­ rettet med evaluering, er, at
+				  løbende evaluering fører til indsigt både omkring håndteringen af fagligt stof og processen omkring samar­bejdet. Det vil bidrage til, at den enkelte og gruppen opbygger sta­dig mere viden om og kompetence til at få størst muligt læringsud­bytte af det problembaseret arbejde. Evaluering er i *sidste *ende et produktoptimerende redskab (Rasmussen 2007).
+				- **Om løbende evaluering af gruppearbejdet** ^^141^^
+					- Vi hører af og til studerende sige, at "vi behøver ikke evaluere, for det går jo rigtig godt i vores gruppe". Men måske er det netop, når det går allerbedst, at en evaluering kan bidrage med mest
+					  læring. For det første er det jo meget sjældent, at
+					  tingene går skidt fra star­ ten. I langt de fleste tilfælde bliver samarbejdet, enigheden, energi­ niveauet osv. ringere med tiden. Men til tider kan dette rent faktisk forhindres, såfremt gruppen evaluerer samarbejdet undervejs, og in­ den den store krise opstår. Dermed får gruppen lejlighed til at spotte eventuelle faresignaler og ikke mindst erkende, hvad det er, der bi­ drager til gruppens gode samarbejde. For det andet er evaluering en tids- og energikrævende aktivitet. Pro­ jekter og grupper, der er ved at køre af sporet, er sjældent energi gi­vende. I sådan en situation kan det være vanskeligt at finde den nødvendige energi til at starte en evalueringsproces. Har man imid­lertid allerede oparbejdet en evalueringskultur, kan det være lettere at fastholde den i de hårde og knap så sjove perioder. Endelig er det faktum, at "tingene går godt" jo ikke nogen undskyld­ning for ikke at lære noget! Som kapitlets indledende eksempel sø­ger at illustrere, kan der være masser af læring forbundet med det, vi lykkes med. Faktisk kan vi have en tendens til at være alt for op­ satte på
+					  at lære af vores fejl og ignorere det videnspotentiale, der ligger gemt i vores succeser.
 		- **Evalueringsforhold** ^^142^^
 		- Ikke alle evalueringsformer er nødvendigvis
 		  relevante i alle dele af det problembaserede arbejde.
