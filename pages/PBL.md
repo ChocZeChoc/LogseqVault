@@ -3,7 +3,6 @@
 	  collapsed:: true
 		- Problem-based learning (PBL) is an educational approach that involves having students work through real-world problems in order to learn new content and skills. This approach is often used in higher education, particularly in fields such as medicine, engineering, and law, but it can also be used in other subject areas. In a PBL approach, students are presented with a problem or challenge and are then asked to work through it using the knowledge and skills they have acquired. As they work through the problem, they may need to research additional information, think critically, and collaborate with their peers. PBL is a student-centered approach that is designed to encourage active learning and to help students apply their knowledge to real-world situations.
 	- #INDHOLD
-	  collapsed:: true
 		- #INDLEDNING	7
 		- #Bogensintentioner	7
 		- #Bogensstruktur	11
@@ -494,7 +493,7 @@
 			- **Afrunding** ^^88^^
 			  collapsed:: true
 				- Inden vi afslutter dette kapitel, er der et sidste punkt vedrørende disse forskellige skriftlige aftaler, der er vigtigt at forholde sig til. Når man har færdiggjort de forskellige samarbejdsaftaler, er det nemlig vigtigt at give dem et realitetstjek. Fremstår aftalerne rea­ listiske og gennemførlige? Er det i højere grad et nytårsforsæt eller idealbetragtninger, man har produceret? I så fald er der stor sand­ synlighed for, at det går samarbejdsaftalen, som det går med de fle­ ste andre nytårsforsætter! Et andet væsentligt forhold at holde sig for øje er, at samarbejdsaftalerne skal være så konkrete, at gruppen kan evaluere (se #kapitel7 ) på, om aftalerne rent faktisk bliver overholdt. En aftale om et godt samarbejde er jo i princippet udmærket, men hvis "det gode samarbejde" ikke konkretiseres, kan der være mange fortolkninger heraf, hvilket i sidste ende kan lede til misforståelser, uenigheder og dermed alt andet end et godt samarbejde. Mere om dette i næste kapitel.
-	- #KAPITEL5
+	- #KAPITEL5 ^^89^^
 	  collapsed:: true
 		- **SAMARBEJDE - FRA HENSIGT TIL HANDLING** ^^89^^
 		  collapsed:: true
@@ -674,9 +673,7 @@
 			  collapsed:: true
 				- I kapitlet har vi gennemgået it-værktøjer til udforskning, ressource­ håndtering, dialog og selve skriveprocessen, og vi har understreget, at værktøjerne ikke automatisk løser forskellige opgaver. Derimod er det vigtigt, at gruppen overvejer, om og hvordan de vil benytte de forskellige værktøjer, samt at gruppen opbygger fælles praksis­ ser omkring brugen af disse værktøjer. Som vi har nævnt flere gange i bogen, er det svært at opstille nagelfaste retningslinjer for brug af forskellige ressourcer, modeller og værktøjer, da præferencer kan va­ riere fra gruppe til gruppe (og internt i gruppen). Dette gælder selv­ følgelig også for it-værktøjer. Nogle har det fint med at mødes ion­ line synkrone konferencer, mens andre foretrækker at mødes fysisk og mestendels bruger it-værktøjerne til at koordinere, hvor og hos hvem man mødes. Nogle synes, det er smart og tidsbesparende, at man kan dele ressourcer online og bruge social bookmarking, mens det for andre er fremmed territorium og virker til at være for stort ^^132^^ besvær med for stejl læringskurve. Det er således noget, gruppen må diskutere og løbende evaluere for at sikre, at gruppens it-brug med­ virker til at optimere projektarbejdet.
 	- #KAPITEL7 ^^133^^
-	  collapsed:: true
 		- **EVALUERING AF DET PROBLEM BASEREDE ARBEJDE**	^^133^^
-		  collapsed:: true
 			- Når man hører ordet "evaluering", tænker
 			  mange på noget,
 			  man gør, når en aktivitet er afsluttet, og man skal se på, om man så har opnået
@@ -868,7 +865,6 @@
 					  ikke lave grundige mødeevalueringer hver gang, eftersom man hurtigt risikerer at komme til at "evaluere sig ihjel" og sidde med så mange ønsker og krav om forandring, at det vil være næsten
 					  umuligt at tilgodese alle gruppemedlemmernes behov.
 			- **Den afsluttende evaluering** ^^148^^
-			  collapsed:: true
 				- Det er naturligvis ikke kun undervejs i forløbet, at man skal evalu­ere. Den løbende evaluering skal støtte op om det problembaserede projektarbejde, men i sidste ende er det værd at huske på, at ethvert projekt altid munder ud i et
 				  produkt eller en præstation. Modsat processen
 				  undervejs vil dette produkt ofte blive evalueret af under­ viserne i form af en eksamen.
@@ -932,7 +928,6 @@
 				- Hermed slutter kapitel 7, som er det sidste
 				  af bogens kapitler, der beskæftiger sig med det praktiske PBL-arbejde. I det følgende
 				  kapitel rundes bogen af, og det sker ved at kaste et blik på tiden efter studiet for i stedet at se på sammenhængen mellem PBL og de krav, som er­hvervslivet stiller til den moderne medarbejder.
-		-
 	- #KAPITEL8 ^^155^^
 	  collapsed:: true
 		- **PBL I ARBEJDSLIVET**	^^155^^
