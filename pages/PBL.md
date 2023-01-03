@@ -496,9 +496,9 @@
 				- Det kan virke ømtåleligt at italesætte en uoverensstemmelse mel­ lem gruppe og vejleder, eftersom vejlederen i sidste ende skal be­ dømme ens arbejde. Hvis man sørger for at tale ud fra egne oplevel­ ser og tanker og desuden tager udgangspunkt i trinnene som skitse­ ret ovenfor, er vores oplevelse, at det i langt de fleste tilfælde vil blive positivt modtaget. Præcis som med samarbejdet internt kan det fak­ tisk medvirke til at forbedre samarbejdet efterfølgende. I hvert fald er det stort set altid en dårlig ide ikke at gøre noget og blot lade util­ fredshed og mistillid vokse sig større og større med potentielt yderst alvorlige følger for det endelige resultat.
 				- I dette kapitel har vi beskæftiget os med vigtigheden af at have et kontinuerligt fokus på samarbejdet gennem hele projektforløbet. At skabe og vedligeholde samarbejdet er præcis lige så vigtigt for det endelige resultat af processen som den faglige fordybelse. Samtidig er det vigtigt at være opmærksom på, at der ikke findes en rigtig måde at samarbejde på. Hvad der virker for nogle, virker ikke for andre. Netop derfor er det ikke muligt at lave en standardskabelon, som alle grupper kan proppes ned i. Vi har i dette kapitel forsøgt at ^^112^^ give nogle bud på, hvorledes man kan sætte samarbejdet på dagsor­ denen, men det er som sagt ikke modellerne, der kan stå som garan­ ter for et succesfuldt samarbejde. Det kan kun skabes ved gentagne samtaler samt en fælles bestræbelse på at skabe det bedste fælles ud­ gangspunkt for gruppens arbejde.
 	- #KAPITEL6 ^^113^^
-		-
+		- **PBL OG IT** ^^113^^
+			-
 	- #KAPITEL7 ^^133^^
-	  collapsed:: true
 		- **EVALUERING AF DET PROBLEM BASEREDE ARBEJDE**	^^133^^
 		- Når man hører ordet "evaluering", tænker
 		  mange på noget,
@@ -665,7 +665,6 @@
 		  fungere som inspiration for den fælles drøftelse.
 		-
 	- #KAPITEL8 ^^155^^
-	  collapsed:: true
 		- **PBL I ARBEJDSLIVET**	^^155^^
 			- I denne bog har vi givet en introduktion til, hvordan man kan ar­bejde problembaseret og projektorganiseret. Vi har beskrevet
 			  histo­ rikken og pædagogikken bag PBL. Endvidere har vi givet
