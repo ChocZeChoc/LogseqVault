@@ -624,25 +624,26 @@
 				  Det er derfor væsentligt, at man overvejer, hvordan den feedback, man giver, kan virke læringsbefordrende for modtageren. Kort sagt: hvad skal
 				  han eller hun have ud af min tilbagemelding? Feedback, som udelukkende gives for ens egen skyld, skader typisk mere end den gavner.
 				  Endelig er det vigtigt at overveje, *hvordan *man
-				  giver feedback. Her kan det være relevant at skele til Alrø og Kristiansens (1997 og 1998) bud på en konstruktiv feedbackmodel, som deler feedback op i fire niveauer: Iagttagelse - Oplevelse - Fortolkning - Forslag (se fi­gur 7.1). ![image.png](../assets/image_1672705767600_0.png)
-		- Modellen tager, kort fortalt, udgangspunkt i det
-		  forhold, at megen feedback kommer til at fremstå som objektive beskrivelser (sandheder) af den
-		  anden ("Du gør det forkert"), eller den andens arbejde ("Det, du har skrevet, giver ingen mening"). Problemet med denne form for feedback
-		  er, at den negligerer det subjektive element i
-		  feed­ backen, nemlig det forhold, at det er *mig, *der synes, at du gør det for­kert, og det er *mig, *for hvem teksten ingen mening giver. Derfor minder Alrø og Kristiansen os om, at konstruktiv feed­ back altid bør tage udgangspunkt i en selv og ens egne iagttagelser. Feedback bliver således en spejling
-		  af, hvad man har set eller hørt. Vel at mærke en spejling, der i første instans forudsætter, at man undlader at fortolke på det sete eller hørte;
-		  man formidler blot sin iagttagelse. Næste skridt i modellen er at beskrive, hvordan man selv oplever sin iagttagelse. Altså hvilke tanker iagttagelsen sætter i gang hos en selv. Dette er et vigtigt skridt i
-		  forbindelse med feed­ back, idet man derved sikrer, at feedbacken opleves som vedkom­mende og personlig, eftersom man refererer til egen oplevelse og de tanker, oplevelsen fører med sig. Herefter kan man komme med sine fortolkninger af det iagttagede, altså sine subjektive vurderinger ba­seret på ens iagttagelse og oplevelse. Endelig kan man komme med
-		  ændringsforslag. Man kan dog også vælge at afstå fra dette sidste skridt. Som Alrø og Kristiansen (1998) skriver, kan efterspurgte for­ slag baseret på de tre foregående trin være særdeles hjælpsomme, men er de ikke efterspurgte, kan forslagene opleves som irriterende og ikke brugbare. Som det fremgår af ovenstående, er det altså vigtigt at:
-		- Feedback
-		  tager udgangspunkt i det, man umiddelbart kan se og
-		  høre.
-		- Feedback er konkret og specifik.
-		- Man tager ejerskab
-		  for sin feedback - feedback siger lige så me­get om den, der giver feedback, som om den, der modtager den.
-		- Endelig er det vigtigt, at man også husker at nævne det, der fun­gerer, og det, vi lykkes med. Som vi skal vende tilbage til senere i kapitlet, rummer vore succeser et stort læringspotentiale. Efter at have gennemgået praksis i feedbackprocessen er det nu tid
-		  til at se på nogle konkrete evalueringsområder og evaluerings modeller.
-		- **Om at sætte mål og evaluere** ^^140^^
+				  giver feedback. Her kan det være relevant at skele til Alrø og Kristiansens (1997 og 1998) bud på en konstruktiv feedbackmodel, som deler feedback op i fire niveauer: Iagttagelse - Oplevelse - Fortolkning - Forslag (se fi­gur 7.1).
+					- ![image.png](../assets/image_1672705767600_0.png)
+				- Modellen tager, kort fortalt, udgangspunkt i det
+				  forhold, at megen feedback kommer til at fremstå som objektive beskrivelser (sandheder) af den
+				  anden ("Du gør det forkert"), eller den andens arbejde ("Det, du har skrevet, giver ingen mening"). Problemet med denne form for feedback
+				  er, at den negligerer det subjektive element i
+				  feed­ backen, nemlig det forhold, at det er *mig, *der synes, at du gør det for­kert, og det er *mig, *for hvem teksten ingen mening giver. Derfor minder Alrø og Kristiansen os om, at konstruktiv feed­ back altid bør tage udgangspunkt i en selv og ens egne iagttagelser. Feedback bliver således en spejling
+				  af, hvad man har set eller hørt. Vel at mærke en spejling, der i første instans forudsætter, at man undlader at fortolke på det sete eller hørte;
+				  man formidler blot sin iagttagelse. Næste skridt i modellen er at beskrive, hvordan man selv oplever sin iagttagelse. Altså hvilke tanker iagttagelsen sætter i gang hos en selv. Dette er et vigtigt skridt i
+				  forbindelse med feed­ back, idet man derved sikrer, at feedbacken opleves som vedkom­mende og personlig, eftersom man refererer til egen oplevelse og de tanker, oplevelsen fører med sig. Herefter kan man komme med sine fortolkninger af det iagttagede, altså sine subjektive vurderinger ba­seret på ens iagttagelse og oplevelse. Endelig kan man komme med
+				  ændringsforslag. Man kan dog også vælge at afstå fra dette sidste skridt. Som Alrø og Kristiansen (1998) skriver, kan efterspurgte for­ slag baseret på de tre foregående trin være særdeles hjælpsomme, men er de ikke efterspurgte, kan forslagene opleves som irriterende og ikke brugbare. Som det fremgår af ovenstående, er det altså vigtigt at:
+					- Feedback
+					  tager udgangspunkt i det, man umiddelbart kan se og
+					  høre.
+					- Feedback er konkret og specifik.
+					- Man tager ejerskab
+					  for sin feedback - feedback siger lige så me­get om den, der giver feedback, som om den, der modtager den.
+					- Endelig er det vigtigt, at man også husker at nævne det, der fun­gerer, og det, vi lykkes med. Som vi skal vende tilbage til senere i kapitlet, rummer vore succeser et stort læringspotentiale. Efter at have gennemgået praksis i feedbackprocessen er det nu tid
+					  til at se på nogle konkrete evalueringsområder og evaluerings modeller.
+			- **Om at sætte mål og evaluere** ^^140^^
 		- En effektiv evaluering begynder ikke med selve evalueringen, men inden: nemlig med en diskussion af og refleksion over målsætnin­ger. Elliot og Dweck (1988) skelner i den forbindelse mellem to for­ skellige former for mål i studiesammenhænge:
 		- I) *Præstationsmål, *hvor man som studerende primært har fokus på at sikre sig positive evalueringer af sine præstationer. I traditionel uddannelsessammenhæng vil dette ske gennem karaktergivning. Præstationsmål indfris i udgangspunktet ved, at *en anden *end den lærende afgør, hvad der regnes for en god præstation.
 		- 2)
