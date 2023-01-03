@@ -665,80 +665,80 @@
 					  læring. For det første er det jo meget sjældent, at
 					  tingene går skidt fra star­ ten. I langt de fleste tilfælde bliver samarbejdet, enigheden, energi­ niveauet osv. ringere med tiden. Men til tider kan dette rent faktisk forhindres, såfremt gruppen evaluerer samarbejdet undervejs, og in­ den den store krise opstår. Dermed får gruppen lejlighed til at spotte eventuelle faresignaler og ikke mindst erkende, hvad det er, der bi­ drager til gruppens gode samarbejde. For det andet er evaluering en tids- og energikrævende aktivitet. Pro­ jekter og grupper, der er ved at køre af sporet, er sjældent energi gi­vende. I sådan en situation kan det være vanskeligt at finde den nødvendige energi til at starte en evalueringsproces. Har man imid­lertid allerede oparbejdet en evalueringskultur, kan det være lettere at fastholde den i de hårde og knap så sjove perioder. Endelig er det faktum, at "tingene går godt" jo ikke nogen undskyld­ning for ikke at lære noget! Som kapitlets indledende eksempel sø­ger at illustrere, kan der være masser af læring forbundet med det, vi lykkes med. Faktisk kan vi have en tendens til at være alt for op­ satte på
 					  at lære af vores fejl og ignorere det videnspotentiale, der ligger gemt i vores succeser.
-		- **Evalueringsforhold** ^^142^^
-		- Ikke alle evalueringsformer er nødvendigvis
-		  relevante i alle dele af det problembaserede arbejde.
-		  Der findes nemlig ikke en rigtig måde at
-		  evaluere på. Den ,c rigtige" evaluering afhænger af en række ind­ byrdes forbundne forhold, som man er nødt til at overveje forud for evalueringen:
-		- Hvad er evalueringens objekt? Hvilke for­ hold er vi optagede af? Gruppens samarbejde, skriveprocessen, ens egen læring og faglige udbytte som studerende, gruppens læ­ring eller projektet som produkt?
-		- Hvornår der evalueres: *Hvornår er det muligt at evaluere? Hvor­ når er det mest hensigtsmæssigt at evaluere?
-		  Skal der evalueres undervejs i et forløb
-		  med faste intervaller, skal der evalueres ef­ter specifikke hændelser som eks. en konflikt,
-		  eller skal der først evalueres efter afslutningen af en opgave?
-		- Hvem der evaluerer: Er det de studerende i en gruppe,
-		  vejlederen, censor eller andre medstuderende uden for gruppen? Ved at in­volvere flere parter i evalueringen kan man få mange forskellige perspektiver på det,
-		  der skal evalueres, hvilket kan være en for­ del.
-		  Dog kan det også i visse sammenhænge medvirke til at gøre billedet uskarpt eller så komplekst,
-		  at det er vanskeligt at se, hvad evalueringen
-		  egentlig fortæller.
-		- Hvilke kriterier der ligger til grund for evalueringen: *Hvad er vigtigt, når der evalueres? At man får så mange synspunkter på bordet som muligt? At alle kommer til orde? At man kommer frem til et resultat? At evalueringen er handlingsanvisende? At
-		  der gives konstruktiv feedback? At man tør kalde en spade for en spade?
-		- Hvilke metoder man benytter: *Empiriske,
-		  vurderende, dialogiske, fremadrettede, tilbageskuende. Metoder kan variere. Man
-		  kan udfylde et spørgeskema, tage en rundbordssnak, registrere tale­ eller mødetid osv. Tit kan det være en hjælp at have en skriftlig refleksiv del *og *en kollektiv dialogisk del i en evaluering for på denne vis at få flere perspektiver på evalueringens tema og der­ med kvalificere evalueringen.
-		- Hvad formålet med evalueringen er:
-		  Evaluering er en aktivitet, der altid skal pege videre på noget andet end sig selv. Evaluerin­gen gennemføres altid med et sigte, der ligger uden
-		  for evaluerin­gen selv. Hvis dette sigte
-		  kommer ud af syne, mister evalueringen sin betydning. Den bliver opfattet som meningsløs, hvilket er de­
-		  motiverende og i værste fald modstridende i forhold til det op­rindelige formål. Derfor må man altid huske at spørge sig selv og gruppen, om evalueringen faktisk tjener det formål, som den er tænkt at tjene. Hvis dette ikke er tilfældet, må man overveje, om man skal ændre på nogen af de ovenstående parametre
-		  eller slet og ret opgive evalueringer.
-		- Når man påbegynder et problembaseret projektforløb, er det en rigtig god ide at indlægge en drøftelse om brugen og betydningen af evaluering.
-		  Dette er særligt relevant i problembaseret læring, da man som studerende selv er ansvarlig for at skabe en udbytterig læ­reproces. Denne drøftelse bør ligge tidligt i forløbet og kan tage ud­gangspunkt i ovenstående punkter, der tilsammen danner rammen om evalueringsplanen. Denne plan kan derefter skrives ind i grup­pekontrakten (kapitel 4). Arbejder man selvstændigt eller med min­dre projekter eller cases, er det naturligvis ligeledes vigtigt at over­
-		  veje, hvordan arbejdet skal evalueres. Nogle af de evalueringsmodeller, der beskrives
-		  nedenfor, egner sig bedst til længere forløb, mens andre kan bruges til alle former for problembaseret arbejde. Ligele­des er visse modeller mest velegnede
-		  til arbejdsgrupper, mens ad­skillige modeller kan overføres til individuelt arbejde. Uanset om man arbejder alene eller i grupper, med lange eller korte projekter, er det imidlertid vigtigt at indlægge
-		  evalueringsprocesser under­ vejs i forløbet
-		  såvel som efter forløbets afslutning for på den måde at sikre, at resultatet bliver så godt som muligt, og at man samtidig læ­rer mest muligt af selve forløbet, uanset hvor godt resultatet ender med at blive. I de følgende to afsnit skal vi se på forskellige evalueringsområ­der, der fokuserer på henholdsvis forløbsevaluering og produkteva­luering.
-		- **Den løbende evaluering** ^^144^^
-			- Evaluering kan ses som en rød tråd, der binder et forløb sammen. Det er et redskab, man tager frem fra tid til anden for at tjekke, om man er på rette vej. Om arbejdet går efter planen, om der er noget, der skal justeres på, eller forhold, der helt skal droppes. Alt for ofte medfører manglende forløbsevaluering, at grupper først for sent i projektforløbe bliver opmærksomme på, at de ikke er enige om, hvad målet med projektet er, hvordan projektet skal følges i mål, hvem der skal
-			  gøre hvad, osv. Løbende evalueringer hjælper med at holde fokus på væsentlige områder og gør det muligt at foretage væ­sentlige justeringer for at imødegå opståede problemer, inden de ud­ vikler sig til potentielle katastrofer. Evalueringer kan
-			  have fokus på samarbejdet, men kan også have karakter af statusopdateringer på projektarbejdet og udviklingen af et endeligt produkt. Denne sidste evalueringsform har dog i sit ud­gangspunkt en
-			  del til fælles med de projektstyringsredskaber, der blev præsenteret i kapitel 3. Derfor vil vi i det følgende kun beskæf­tige os med evalueringer af samarbejde. Studerende, der arbejder alene, kan derfor med fordel hoppe frem til afsnittet "Den
-			  afslut­tende evaluering - produktevaluering''
-			  (s. ^^148^^). Som vi så i #KAPITEL5 , er samarbejdets
-			  kvalitet afgørende for kva­liteten af løsningen af den
-			  konkrete opgave, som gruppen er samlet
-			  for at løse. Grupper (som alle andre former for organisationer) er al­tid dannet med et mål for øje. Tabes dette mål af syne, bliver grup­pen ineffektiv og vil uundgåeligt levere et dårligt produkt, såfremt den i det hele taget får skabt et produkt. Evaluering af samarbejdet er således ikke en aktivitet, der indlægges i projektarbejdet for hyg­gens skyld. Evaluering har altid et klart formål, nemlig at skabe læ­ring, forøget bevidsthed, flere handlemuligheder og dermed i sid­ste ende - et bedre produkt. Derfor kan evaluering også ses som en fortløbende proces, der hjælper gruppen med at holde fokus, som ty­deliggør konflikter, inden de udvikler sig til uoverstigelige barrierer, og som fungerer som kreativ idegenerator og projektudvikler (Ben­ der 2012). Nedenfor følger nogle generelle råd om forløbsevaluering:
-		- **Forløbsevaluering** ^^145^^
-			- I projektplanen (kapitel 3) indlægges fra starten datoer, hvor gruppen vil evaluere. Hvis datoer ikke er fastlagt, er det vores er­ faring, at
-			  evalueringer ryger i baggrunden til fordel for andre umiddelbart mere presserende opgaver eller opgaver med et mere håndgribeligt mål som eks at skrive et kapitel.
-			- Gruppen kan med fordel have flere evalueringer tidligt i forløbet og færre senere. Det er i starten af projektet, at samarbejdet skal finde sin form. Finder man først frem til en samarbejdsform, der fungerer for alle, bliver det lettere at lave små og løbende ju­steringer senere.
-			- Afsæt et afgrænset tidsrum til evalueringer, og overhold tiden. Alt for lange evalueringsrunder
-			  dræber energien og lysten til at evaluere igen. Hellere kortere evalueringer, der gentages jævn­ ligt. Eksempelvis bruger mange grupper fredagsmøder til at
-			  eva­luere ugens arbejde, projektets fremdrift og håndteringen af de udfordringer, der aktuelt er i arbejdsprocessen - såvel faglige som sociale.
-			- Sørg for, at alle har lejlighed til at gøre sig deres
-			  egne overvejel­ser, inden der evalueres i plenum. Ideelt set kender alle til evalu­eringens formål
-			  og form, inden gruppen går i gang, men af og til er
-			  der også behov for en mere spontan evaluering. Her er det vig­tigt, at alle får lejlighed til at tænke sig om og overveje egne indspil, før man må ytre sig for hele gruppen. Sørg for, at alle får lejlighed til at ytre sig, også de, der ikke råber højest.
-			- Brug gerne et individuelt skriftligt afsæt for den fælles drøftelse. I kan eksempelvis konstruere
-			  et udfyldningsark med udvalgte spørgsmål, som deltagerne udfylder forud for den fælles evalue­ring. Dette kan medvirke til, at hver enkelt får lejlighed til at gøre sig sine egne tanker inden drøftelsen i gruppen, og til at alle kan komme til orde.
-			- Sørg for, at det skriftlige ikke fylder for meget. Arket skal være hurtigt at udfylde og primært
-			  fungere som inspiration for den fælles drøftelse.
-			- Forløbsevalueringer vil typisk finde sted i forbindelse med gruppens øvrige møder. Gruppemøder er i mange tilfælde (som vi så i kapitel 4) rygraden i gruppens arbejde, hvorfor det også er vigtigt
-			  at evalu­ere og dermed kvalitetssikre denne essentielle del af projektarbejdet. Derfor handler næste afsnit om evaluering af gruppemøder.
-		- **Evaluering af gruppemøder** ^^146^^
-			- I de fleste tilfælde er gruppemødet både et kreativt, hyggeligt og energifyldt rum, hvor nye ideer skabes, og venskaber opstår. I få til­ fælde udvikler gruppemøder sig desværre til lange, frustrations skabende timer af oplevet meningsløshed, hvor diskussionerne kører i ring, og gruppen kommer længere og længere væk fra det, den er sat i verden for at gøre - at skabe læring
-			  gennem arbejdet med at løse et problem. De fleste grupper oplever både de positive og de mere pro­ blemfyldte sider ved projektarbejdet. Derfor er det, ligesom ved for­ løbsevaluering, vigtigt, at man fra starten aftaler, hvordan og hvor­ når gruppens mødeaktivitet skal evalueres. En
-			  typisk, men ikke nødvendigvis særlig givende, mødeevaluering består i, at man af­ slutningsvist spørger ud i gruppen, om der er mere, der skal siges, inden mødet hæves, eller om hvordan
-			  den enkelte har oplevet ud­ byttet af mødet. Imidlertid er sådanne hurtige drøftelser sjældent en konstruktiv måde at lave en evaluering
-			  på. Dels kan folk være i tvivl: Er spørgsmålet en reel invitation til evaluering, eller sidder de andre bare og venter på at komme hjem, hvis jeg begynder at disku­tere vores møder?"
-			- Dels har sådanne åbne spørgerunder tendens til at blive præget af det første, der bliver sagt. Således begynder resten af gruppen at forholde sig til den første talers perspektiv frem for at fokusere på, hvad han eller hun egentligt selv
-			  mener og tænker om mødet. Et alternativ til denne type evaluering findes i planlægningen, hvor gruppen, på samme vis som ved den løbende proces evaluering, også planlægger evalueringen af gruppemøder. Evalueringen standardiseres med brug af såvel skriftlig som mundtlig evaluering.
-			  I figur 7.2 ses et eksempel på et standardiseret evalueringsskema. ![image.png](../assets/image_1672707950555_0.png)
-			- Selvom man vælger en struktureret tilgang til evaluering, betyder en planlagt evaluering dog ikke, at man helt skal
-			  undgå de hurtige op­summerende afrundinger, der kan være gode til lige at fange noget, som var gået i glemmebogen undervejs i mødedagsordenen. Det er derfor vigtigt, at man aftaler, på hvilke møder man laver en grundi­gere evaluering. Man skal
-			  ikke lave grundige mødeevalueringer hver gang, eftersom man hurtigt risikerer at komme til at "evaluere sig ihjel" og sidde med så mange ønsker og krav om forandring, at det vil være næsten
-			  umuligt at tilgodese alle gruppemedlemmernes behov.
+			- **Evalueringsforhold** ^^142^^
+				- Ikke alle evalueringsformer er nødvendigvis
+				  relevante i alle dele af det problembaserede arbejde.
+				  Der findes nemlig ikke en rigtig måde at
+				  evaluere på. Den ,c rigtige" evaluering afhænger af en række ind­ byrdes forbundne forhold, som man er nødt til at overveje forud for evalueringen:
+				- Hvad er evalueringens objekt? Hvilke for­ hold er vi optagede af? Gruppens samarbejde, skriveprocessen, ens egen læring og faglige udbytte som studerende, gruppens læ­ring eller projektet som produkt?
+				- Hvornår der evalueres: *Hvornår er det muligt at evaluere? Hvor­ når er det mest hensigtsmæssigt at evaluere?
+				  Skal der evalueres undervejs i et forløb
+				  med faste intervaller, skal der evalueres ef­ter specifikke hændelser som eks. en konflikt,
+				  eller skal der først evalueres efter afslutningen af en opgave?
+				- Hvem der evaluerer: Er det de studerende i en gruppe,
+				  vejlederen, censor eller andre medstuderende uden for gruppen? Ved at in­volvere flere parter i evalueringen kan man få mange forskellige perspektiver på det,
+				  der skal evalueres, hvilket kan være en for­ del.
+				  Dog kan det også i visse sammenhænge medvirke til at gøre billedet uskarpt eller så komplekst,
+				  at det er vanskeligt at se, hvad evalueringen
+				  egentlig fortæller.
+				- Hvilke kriterier der ligger til grund for evalueringen: *Hvad er vigtigt, når der evalueres? At man får så mange synspunkter på bordet som muligt? At alle kommer til orde? At man kommer frem til et resultat? At evalueringen er handlingsanvisende? At
+				  der gives konstruktiv feedback? At man tør kalde en spade for en spade?
+				- Hvilke metoder man benytter: *Empiriske,
+				  vurderende, dialogiske, fremadrettede, tilbageskuende. Metoder kan variere. Man
+				  kan udfylde et spørgeskema, tage en rundbordssnak, registrere tale­ eller mødetid osv. Tit kan det være en hjælp at have en skriftlig refleksiv del *og *en kollektiv dialogisk del i en evaluering for på denne vis at få flere perspektiver på evalueringens tema og der­ med kvalificere evalueringen.
+				- Hvad formålet med evalueringen er:
+				  Evaluering er en aktivitet, der altid skal pege videre på noget andet end sig selv. Evaluerin­gen gennemføres altid med et sigte, der ligger uden
+				  for evaluerin­gen selv. Hvis dette sigte
+				  kommer ud af syne, mister evalueringen sin betydning. Den bliver opfattet som meningsløs, hvilket er de­
+				  motiverende og i værste fald modstridende i forhold til det op­rindelige formål. Derfor må man altid huske at spørge sig selv og gruppen, om evalueringen faktisk tjener det formål, som den er tænkt at tjene. Hvis dette ikke er tilfældet, må man overveje, om man skal ændre på nogen af de ovenstående parametre
+				  eller slet og ret opgive evalueringer.
+				- Når man påbegynder et problembaseret projektforløb, er det en rigtig god ide at indlægge en drøftelse om brugen og betydningen af evaluering.
+				  Dette er særligt relevant i problembaseret læring, da man som studerende selv er ansvarlig for at skabe en udbytterig læ­reproces. Denne drøftelse bør ligge tidligt i forløbet og kan tage ud­gangspunkt i ovenstående punkter, der tilsammen danner rammen om evalueringsplanen. Denne plan kan derefter skrives ind i grup­pekontrakten (kapitel 4). Arbejder man selvstændigt eller med min­dre projekter eller cases, er det naturligvis ligeledes vigtigt at over­
+				  veje, hvordan arbejdet skal evalueres. Nogle af de evalueringsmodeller, der beskrives
+				  nedenfor, egner sig bedst til længere forløb, mens andre kan bruges til alle former for problembaseret arbejde. Ligele­des er visse modeller mest velegnede
+				  til arbejdsgrupper, mens ad­skillige modeller kan overføres til individuelt arbejde. Uanset om man arbejder alene eller i grupper, med lange eller korte projekter, er det imidlertid vigtigt at indlægge
+				  evalueringsprocesser under­ vejs i forløbet
+				  såvel som efter forløbets afslutning for på den måde at sikre, at resultatet bliver så godt som muligt, og at man samtidig læ­rer mest muligt af selve forløbet, uanset hvor godt resultatet ender med at blive. I de følgende to afsnit skal vi se på forskellige evalueringsområ­der, der fokuserer på henholdsvis forløbsevaluering og produkteva­luering.
+			- **Den løbende evaluering** ^^144^^
+				- Evaluering kan ses som en rød tråd, der binder et forløb sammen. Det er et redskab, man tager frem fra tid til anden for at tjekke, om man er på rette vej. Om arbejdet går efter planen, om der er noget, der skal justeres på, eller forhold, der helt skal droppes. Alt for ofte medfører manglende forløbsevaluering, at grupper først for sent i projektforløbe bliver opmærksomme på, at de ikke er enige om, hvad målet med projektet er, hvordan projektet skal følges i mål, hvem der skal
+				  gøre hvad, osv. Løbende evalueringer hjælper med at holde fokus på væsentlige områder og gør det muligt at foretage væ­sentlige justeringer for at imødegå opståede problemer, inden de ud­ vikler sig til potentielle katastrofer. Evalueringer kan
+				  have fokus på samarbejdet, men kan også have karakter af statusopdateringer på projektarbejdet og udviklingen af et endeligt produkt. Denne sidste evalueringsform har dog i sit ud­gangspunkt en
+				  del til fælles med de projektstyringsredskaber, der blev præsenteret i kapitel 3. Derfor vil vi i det følgende kun beskæf­tige os med evalueringer af samarbejde. Studerende, der arbejder alene, kan derfor med fordel hoppe frem til afsnittet "Den
+				  afslut­tende evaluering - produktevaluering''
+				  (s. ^^148^^). Som vi så i #KAPITEL5 , er samarbejdets
+				  kvalitet afgørende for kva­liteten af løsningen af den
+				  konkrete opgave, som gruppen er samlet
+				  for at løse. Grupper (som alle andre former for organisationer) er al­tid dannet med et mål for øje. Tabes dette mål af syne, bliver grup­pen ineffektiv og vil uundgåeligt levere et dårligt produkt, såfremt den i det hele taget får skabt et produkt. Evaluering af samarbejdet er således ikke en aktivitet, der indlægges i projektarbejdet for hyg­gens skyld. Evaluering har altid et klart formål, nemlig at skabe læ­ring, forøget bevidsthed, flere handlemuligheder og dermed i sid­ste ende - et bedre produkt. Derfor kan evaluering også ses som en fortløbende proces, der hjælper gruppen med at holde fokus, som ty­deliggør konflikter, inden de udvikler sig til uoverstigelige barrierer, og som fungerer som kreativ idegenerator og projektudvikler (Ben­ der 2012). Nedenfor følger nogle generelle råd om forløbsevaluering:
+				- **Forløbsevaluering** ^^145^^
+					- I projektplanen (kapitel 3) indlægges fra starten datoer, hvor gruppen vil evaluere. Hvis datoer ikke er fastlagt, er det vores er­ faring, at
+					  evalueringer ryger i baggrunden til fordel for andre umiddelbart mere presserende opgaver eller opgaver med et mere håndgribeligt mål som eks at skrive et kapitel.
+					- Gruppen kan med fordel have flere evalueringer tidligt i forløbet og færre senere. Det er i starten af projektet, at samarbejdet skal finde sin form. Finder man først frem til en samarbejdsform, der fungerer for alle, bliver det lettere at lave små og løbende ju­steringer senere.
+					- Afsæt et afgrænset tidsrum til evalueringer, og overhold tiden. Alt for lange evalueringsrunder
+					  dræber energien og lysten til at evaluere igen. Hellere kortere evalueringer, der gentages jævn­ ligt. Eksempelvis bruger mange grupper fredagsmøder til at
+					  eva­luere ugens arbejde, projektets fremdrift og håndteringen af de udfordringer, der aktuelt er i arbejdsprocessen - såvel faglige som sociale.
+					- Sørg for, at alle har lejlighed til at gøre sig deres
+					  egne overvejel­ser, inden der evalueres i plenum. Ideelt set kender alle til evalu­eringens formål
+					  og form, inden gruppen går i gang, men af og til er
+					  der også behov for en mere spontan evaluering. Her er det vig­tigt, at alle får lejlighed til at tænke sig om og overveje egne indspil, før man må ytre sig for hele gruppen. Sørg for, at alle får lejlighed til at ytre sig, også de, der ikke råber højest.
+					- Brug gerne et individuelt skriftligt afsæt for den fælles drøftelse. I kan eksempelvis konstruere
+					  et udfyldningsark med udvalgte spørgsmål, som deltagerne udfylder forud for den fælles evalue­ring. Dette kan medvirke til, at hver enkelt får lejlighed til at gøre sig sine egne tanker inden drøftelsen i gruppen, og til at alle kan komme til orde.
+					- Sørg for, at det skriftlige ikke fylder for meget. Arket skal være hurtigt at udfylde og primært
+					  fungere som inspiration for den fælles drøftelse.
+					- Forløbsevalueringer vil typisk finde sted i forbindelse med gruppens øvrige møder. Gruppemøder er i mange tilfælde (som vi så i kapitel 4) rygraden i gruppens arbejde, hvorfor det også er vigtigt
+					  at evalu­ere og dermed kvalitetssikre denne essentielle del af projektarbejdet. Derfor handler næste afsnit om evaluering af gruppemøder.
+				- **Evaluering af gruppemøder** ^^146^^
+					- I de fleste tilfælde er gruppemødet både et kreativt, hyggeligt og energifyldt rum, hvor nye ideer skabes, og venskaber opstår. I få til­ fælde udvikler gruppemøder sig desværre til lange, frustrations skabende timer af oplevet meningsløshed, hvor diskussionerne kører i ring, og gruppen kommer længere og længere væk fra det, den er sat i verden for at gøre - at skabe læring
+					  gennem arbejdet med at løse et problem. De fleste grupper oplever både de positive og de mere pro­ blemfyldte sider ved projektarbejdet. Derfor er det, ligesom ved for­ løbsevaluering, vigtigt, at man fra starten aftaler, hvordan og hvor­ når gruppens mødeaktivitet skal evalueres. En
+					  typisk, men ikke nødvendigvis særlig givende, mødeevaluering består i, at man af­ slutningsvist spørger ud i gruppen, om der er mere, der skal siges, inden mødet hæves, eller om hvordan
+					  den enkelte har oplevet ud­ byttet af mødet. Imidlertid er sådanne hurtige drøftelser sjældent en konstruktiv måde at lave en evaluering
+					  på. Dels kan folk være i tvivl: Er spørgsmålet en reel invitation til evaluering, eller sidder de andre bare og venter på at komme hjem, hvis jeg begynder at disku­tere vores møder?"
+					- Dels har sådanne åbne spørgerunder tendens til at blive præget af det første, der bliver sagt. Således begynder resten af gruppen at forholde sig til den første talers perspektiv frem for at fokusere på, hvad han eller hun egentligt selv
+					  mener og tænker om mødet. Et alternativ til denne type evaluering findes i planlægningen, hvor gruppen, på samme vis som ved den løbende proces evaluering, også planlægger evalueringen af gruppemøder. Evalueringen standardiseres med brug af såvel skriftlig som mundtlig evaluering.
+					  I figur 7.2 ses et eksempel på et standardiseret evalueringsskema. ![image.png](../assets/image_1672707950555_0.png)
+					- Selvom man vælger en struktureret tilgang til evaluering, betyder en planlagt evaluering dog ikke, at man helt skal
+					  undgå de hurtige op­summerende afrundinger, der kan være gode til lige at fange noget, som var gået i glemmebogen undervejs i mødedagsordenen. Det er derfor vigtigt, at man aftaler, på hvilke møder man laver en grundi­gere evaluering. Man skal
+					  ikke lave grundige mødeevalueringer hver gang, eftersom man hurtigt risikerer at komme til at "evaluere sig ihjel" og sidde med så mange ønsker og krav om forandring, at det vil være næsten
+					  umuligt at tilgodese alle gruppemedlemmernes behov.
 		- **Den afsluttende evaluering** ^^148^^
 			- Det er naturligvis ikke kun undervejs i forløbet, at man skal evalu­ere. Den løbende evaluering skal støtte op om det problembaserede projektarbejde, men i sidste ende er det værd at huske på, at ethvert projekt altid munder ud i et
 			  produkt eller en præstation. Modsat processen
