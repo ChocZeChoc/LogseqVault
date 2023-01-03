@@ -3,7 +3,6 @@
 	  collapsed:: true
 		- Problem-based learning (PBL) is an educational approach that involves having students work through real-world problems in order to learn new content and skills. This approach is often used in higher education, particularly in fields such as medicine, engineering, and law, but it can also be used in other subject areas. In a PBL approach, students are presented with a problem or challenge and are then asked to work through it using the knowledge and skills they have acquired. As they work through the problem, they may need to research additional information, think critically, and collaborate with their peers. PBL is a student-centered approach that is designed to encourage active learning and to help students apply their knowledge to real-world situations.
 	- #INDHOLD
-	  collapsed:: true
 		- #INDLEDNING	7
 		- #Bogensintentioner	7
 		- #Bogensstruktur	11
@@ -495,9 +494,11 @@
 				- Inden vi slutter dette kapitel, vil vi kort følge op på et tema, som vi tog hul på i sidste kapitel, nemlig samarbejdet med vejlederen. Som vi så i sidste kapitel, bør samarbejdet med vejlederen indledes på nogenlunde samme måde, som man indleder samarbejdet i gruppen gennem en forventningsafstemningsproces, der munder ud i en samarbejdskontrakt. Dog forholder det sig med samarbejdet med vejlederen på samme vis som det interne samarbejde i gruppen - det er ikke nødvendigvis gjort med en samarbejdskontrakt. I mange tilfælde vil samarbejdet køre ganske gnidningsfrit. Der er sjældent så mange ting, man skal blive enige om gruppen og vejlederen imel­ lem, som der er internt i gruppen, og endvidere er magtforholdene helt anderledes klare, hvilket ligeledes medvirker til at minimere konflikter.
 				- Dog sker det fra tid til anden, at der opstår utilfredshed og uenig­ hed i forholdet mellem gruppe og vejleder. Måske er kommunikatio­ nen med vejleder ikke så klar, som I kunne ønske, måske hælder vej lederen til en vejledningstype, som I ikke forstår meningen med el­ ler finder hjælpsom, måske er forventninger til mødefrekvens ikke afstemt, osv. Under alle omstændigheder kan det være en god ide at skele til ovenstående skitserede konfliktløsningsstrategi - og få sam­ arbejdet med vejleder sat på dagsordenen ved et vejledermøde. Igen skal I tænke på projektet og det læringsudbytte, som I skal have ud af projektet. Forbered, hvad I selv kan bidrage med, forbered løs­ ningsmuligheder, argumenter for, hvordan det ville gavne projektet, og vær aktivt lyttende i forhold til vejlederen standpunkt.
 				- Det kan virke ømtåleligt at italesætte en uoverensstemmelse mel­ lem gruppe og vejleder, eftersom vejlederen i sidste ende skal be­ dømme ens arbejde. Hvis man sørger for at tale ud fra egne oplevel­ ser og tanker og desuden tager udgangspunkt i trinnene som skitse­ ret ovenfor, er vores oplevelse, at det i langt de fleste tilfælde vil blive positivt modtaget. Præcis som med samarbejdet internt kan det fak­ tisk medvirke til at forbedre samarbejdet efterfølgende. I hvert fald er det stort set altid en dårlig ide ikke at gøre noget og blot lade util­ fredshed og mistillid vokse sig større og større med potentielt yderst alvorlige følger for det endelige resultat.
-				- I dette kapitel har vi beskæftiget os med vigtigheden af at have et kontinuerligt fokus på samarbejdet gennem hele projektforløbet. At skabe og vedligeholde samarbejdet er præcis lige så vigtigt for det endelige resultat af processen som den faglige fordybelse. Samtidig er det vigtigt at være opmærksom på, at der ikke findes en rigtig måde at samarbejde på. Hvad der virker for nogle, virker ikke for andre. Netop derfor er det ikke muligt at lave en standardskabelon, som alle grupper kan proppes ned i. Vi har i dette kapitel forsøgt at ^^112^^
-	- #KAPITEL6
+				- I dette kapitel har vi beskæftiget os med vigtigheden af at have et kontinuerligt fokus på samarbejdet gennem hele projektforløbet. At skabe og vedligeholde samarbejdet er præcis lige så vigtigt for det endelige resultat af processen som den faglige fordybelse. Samtidig er det vigtigt at være opmærksom på, at der ikke findes en rigtig måde at samarbejde på. Hvad der virker for nogle, virker ikke for andre. Netop derfor er det ikke muligt at lave en standardskabelon, som alle grupper kan proppes ned i. Vi har i dette kapitel forsøgt at ^^112^^ give nogle bud på, hvorledes man kan sætte samarbejdet på dagsor­ denen, men det er som sagt ikke modellerne, der kan stå som garan­ ter for et succesfuldt samarbejde. Det kan kun skabes ved gentagne samtaler samt en fælles bestræbelse på at skabe det bedste fælles ud­ gangspunkt for gruppens arbejde.
+	- #KAPITEL6 ^^113^^
+		-
 	- #KAPITEL7 ^^133^^
+	  collapsed:: true
 		- **EVALUERING AF DET PROBLEM BASEREDE ARBEJDE**	^^133^^
 		- Når man hører ordet "evaluering", tænker
 		  mange på noget,
@@ -548,6 +549,7 @@
 		  arbejdsprocessen såvel som produktet og det ende­ lige resultat. Men inden da er det imidlertid nødvendigt at diskutere spørgsmålet om feedback, hvilket er en central del af enhver forma­
 		  tiv evalueringsproces.
 	- #KAPITEL8 ^^155^^
+	  collapsed:: true
 		- **PBL I ARBEJDSLIVET**	^^155^^
 			- I denne bog har vi givet en introduktion til, hvordan man kan ar­bejde problembaseret og projektorganiseret. Vi har beskrevet
 			  histo­ rikken og pædagogikken bag PBL. Endvidere har vi givet
