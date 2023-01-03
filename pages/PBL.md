@@ -674,7 +674,6 @@
 			  collapsed:: true
 				- I kapitlet har vi gennemgået it-værktøjer til udforskning, ressource­ håndtering, dialog og selve skriveprocessen, og vi har understreget, at værktøjerne ikke automatisk løser forskellige opgaver. Derimod er det vigtigt, at gruppen overvejer, om og hvordan de vil benytte de forskellige værktøjer, samt at gruppen opbygger fælles praksis­ ser omkring brugen af disse værktøjer. Som vi har nævnt flere gange i bogen, er det svært at opstille nagelfaste retningslinjer for brug af forskellige ressourcer, modeller og værktøjer, da præferencer kan va­ riere fra gruppe til gruppe (og internt i gruppen). Dette gælder selv­ følgelig også for it-værktøjer. Nogle har det fint med at mødes ion­ line synkrone konferencer, mens andre foretrækker at mødes fysisk og mestendels bruger it-værktøjerne til at koordinere, hvor og hos hvem man mødes. Nogle synes, det er smart og tidsbesparende, at man kan dele ressourcer online og bruge social bookmarking, mens det for andre er fremmed territorium og virker til at være for stort ^^132^^ besvær med for stejl læringskurve. Det er således noget, gruppen må diskutere og løbende evaluere for at sikre, at gruppens it-brug med­ virker til at optimere projektarbejdet.
 	- #KAPITEL7 ^^133^^
-	  collapsed:: true
 		- **EVALUERING AF DET PROBLEM BASEREDE ARBEJDE**	^^133^^
 			- Når man hører ordet "evaluering", tænker
 			  mange på noget,
