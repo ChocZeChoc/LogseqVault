@@ -497,7 +497,11 @@
 				- I dette kapitel har vi beskæftiget os med vigtigheden af at have et kontinuerligt fokus på samarbejdet gennem hele projektforløbet. At skabe og vedligeholde samarbejdet er præcis lige så vigtigt for det endelige resultat af processen som den faglige fordybelse. Samtidig er det vigtigt at være opmærksom på, at der ikke findes en rigtig måde at samarbejde på. Hvad der virker for nogle, virker ikke for andre. Netop derfor er det ikke muligt at lave en standardskabelon, som alle grupper kan proppes ned i. Vi har i dette kapitel forsøgt at ^^112^^ give nogle bud på, hvorledes man kan sætte samarbejdet på dagsor­ denen, men det er som sagt ikke modellerne, der kan stå som garan­ ter for et succesfuldt samarbejde. Det kan kun skabes ved gentagne samtaler samt en fælles bestræbelse på at skabe det bedste fælles ud­ gangspunkt for gruppens arbejde.
 	- #KAPITEL6 ^^113^^
 		- **PBL OG IT** ^^113^^
-			-
+			- Hvorfor bruge it i projektarbejdet og hvordan?	114
+			- Udforskning af undersøgelsesfeltet	117
+			- Ressourcehåndtering (opbevare, gemme og annotere)	120
+			- Dialog	123
+			- Afrunding	131
 	- #KAPITEL7 ^^133^^
 		- **EVALUERING AF DET PROBLEM BASEREDE ARBEJDE**	^^133^^
 		- Når man hører ordet "evaluering", tænker
