@@ -407,12 +407,14 @@
 				- Inden vi afslutter dette kapitel, er der et sidste punkt vedrørende disse forskellige skriftlige aftaler, der er vigtigt at forholde sig til. Når man har færdiggjort de forskellige samarbejdsaftaler, er det nemlig vigtigt at give dem et realitetstjek. Fremstår aftalerne rea­ listiske og gennemførlige? Er det i højere grad et nytårsforsæt eller idealbetragtninger, man har produceret? I så fald er der stor sand­ synlighed for, at det går samarbejdsaftalen, som det går med de fle­ ste andre nytårsforsætter! Et andet væsentligt forhold at holde sig for øje er, at samarbejdsaftalerne skal være så konkrete, at gruppen kan evaluere (se #kapitel7 ) på, om aftalerne rent faktisk bliver overholdt. En aftale om et godt samarbejde er jo i princippet udmærket, men hvis "det gode samarbejde" ikke konkretiseres, kan der være mange fortolkninger heraf, hvilket i sidste ende kan lede til misforståelser, uenigheder og dermed alt andet end et godt samarbejde. Mere om dette i næste kapitel.
 	- #KAPITEL5
 		- **SAMARBEJDE - FRA HENSIGT TIL HANDLING** ^^89^^
+			- Når samarbejdsaftalen er på plads, har gruppen fået et pejlemærke for interaktionen i gruppen. Dette er et vigtigt skridt, men langt fra en garanti for et succesfuldt samarbejde og et vellykket projekt. Samarbejdet kræver en fortsat opmærksomhed gennem hele forlø­ bet for på denne vis at sikre, at aftaler overholdes og løbende ud­ vikles. Derfor vil vi i dette kapitel sætte fokus på det gode samar­ bejde samt på, hvorledes man kontinuerligt kan arbejde på at finju­ stere og optimere samarbejdet. Først vil vi belyse, hvordan samar­ bejde kan betragtes som et velfungerende samspil mellem forskel­ lige roller og mellem henholdsvis det sociale og det opgaverelate­ rede. Herefter vi se nærmere på kommunikationen i gruppen som den lim, der binder rollerne sammen til en helhed og danner den velfungerende gruppe. Det er dog ikke altid, at kommunikation og samarbejde forløber gnidningsløst, hvorfor vi i det sidste afsnit giver et bud på, hvordan man kan spotte og håndtere usunde konflikter, hvis de opstår. Som en afrunding på kapitlet diskuterer vi samarbej­ det ud af gruppen.
 			- **Samarbejde som et samspil af roller**	^^89^^
+				- Roller kan betegnes *som *adfærdsmønstre, som vi grundet egne el­ ler andres forventninger forsøger at følge mere eller mindre bevidst. Roller er som jakker, vi kan tage af og på alt efter situationen. Der­ med er en rolle også noget ganske andet end vores personlighed, som så at sige hænger ved. Jakkerne kan føles for store (vi kan ikke udfylde rollen), for små (rollen giver os ikke mulighed for at udleve
 			- **Om arbejdsgrupper, hyggegrupper og dysfunktionelle grupper** ^^93^^
-			- **Kommunikationen i gruppen**^^96^^
-			- Konflikter i gruppen	102
-			- Konflikthåndtering	104
-			- Afrunding	110
+			- **Kommunikationen i gruppen** ^^96^^
+			- **Konflikter i gruppen** ^^102^^
+			- **Konflikthåndtering** ^^104^^
+			- **Afrunding** ^^110^^
 	- #KAPITEL6
 	- #KAPITEL7 ^^133^^
 		- **EVALUERING AF DET PROBLEM BASEREDE ARBEJDE**	^^133^^
