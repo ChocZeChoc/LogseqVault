@@ -1,5 +1,5 @@
 - #PBL
-	- Hvad er PBL?
+	- ^^Hvad er PBL^^
 	  collapsed:: true
 		- Problem-based learning (PBL) is an educational approach that involves having students work through real-world problems in order to learn new content and skills. This approach is often used in higher education, particularly in fields such as medicine, engineering, and law, but it can also be used in other subject areas. In a PBL approach, students are presented with a problem or challenge and are then asked to work through it using the knowledge and skills they have acquired. As they work through the problem, they may need to research additional information, think critically, and collaborate with their peers. PBL is a student-centered approach that is designed to encourage active learning and to help students apply their knowledge to real-world situations.
 	- #INDHOLD
@@ -674,6 +674,7 @@
 			  collapsed:: true
 				- I kapitlet har vi gennemgået it-værktøjer til udforskning, ressource­ håndtering, dialog og selve skriveprocessen, og vi har understreget, at værktøjerne ikke automatisk løser forskellige opgaver. Derimod er det vigtigt, at gruppen overvejer, om og hvordan de vil benytte de forskellige værktøjer, samt at gruppen opbygger fælles praksis­ ser omkring brugen af disse værktøjer. Som vi har nævnt flere gange i bogen, er det svært at opstille nagelfaste retningslinjer for brug af forskellige ressourcer, modeller og værktøjer, da præferencer kan va­ riere fra gruppe til gruppe (og internt i gruppen). Dette gælder selv­ følgelig også for it-værktøjer. Nogle har det fint med at mødes ion­ line synkrone konferencer, mens andre foretrækker at mødes fysisk og mestendels bruger it-værktøjerne til at koordinere, hvor og hos hvem man mødes. Nogle synes, det er smart og tidsbesparende, at man kan dele ressourcer online og bruge social bookmarking, mens det for andre er fremmed territorium og virker til at være for stort ^^132^^ besvær med for stejl læringskurve. Det er således noget, gruppen må diskutere og løbende evaluere for at sikre, at gruppens it-brug med­ virker til at optimere projektarbejdet.
 	- #KAPITEL7 ^^133^^
+	  collapsed:: true
 		- **EVALUERING AF DET PROBLEM BASEREDE ARBEJDE**	^^133^^
 			- Når man hører ordet "evaluering", tænker
 			  mange på noget,
@@ -699,6 +700,7 @@
 					  fordi alle kunne se, at det gik fremad. Resultatet blev en overbevi­sende projektopgave og en høj karakter. På næste semester kom Peter i en ny gruppe. Gruppen fandt sam­men, fordi de alle brændte for det samme faglige område. Imidlertid gik tingene væsentligt anderledes denne gang. Pludselig var det svært at blive enige. Gruppesamarbejdet gik trægt, der var langt mellem smil og latter, og møderne blev en pine, hvor den ene ende­ løse
 					  diskussion afløste den anden. Ikke helt overraskende blev grup­pens samarbejdsproces afspejlet i eksamenen, som bestemt ikke var tilfredsstillende i forhold til Peters høje forventninger til sig selv og sit arbejde. Efterfølgende reflekterede Peter over sine to meget forskellige ople­velser med problembaseret arbejde. Hvilke faktorer lå til grund for disse forskellige processer og resultater? Kunne resultatet af det andet gruppearbejde være blevet anderledes, hvis gruppen havde gjort noget af det, som tilsyneladende virkede for den første gruppe? Og hvad var det i grunden, der havde virket så godt i det første grup­pearbejde?
 			- **Hvad er evaluering** ^^134^^
+			  collapsed:: true
 				- Evaluering beskrives ofte som en vurdering, igennem hvilken man tillægger noget værdi. Altså en handling, der sætter en i stand til at afsige en værdimæssig dom (Andreasen m.fl. 2011). Således kan man i
 				  Den Danske Ordbog læse, at evaluering er en "systematisk, faglig vurdering af fx en institutions
 				  formåen eller kvaliteten af et forløb". Imidlertid indfanger disse begrebsliggørelser kun en del af evalue­ringens muligheder. Det er klart, at et vigtigt formål med evalue­ring er at vurdere og bedømme
@@ -721,6 +723,7 @@
 				  ikke i sig selv giver bud på, hvor­ dan eller hvorfor noget tilskrives en bestemt talmæssig værdi. Der­ for vil vi ikke beskæftige os yderligere med denne evalueringsform. I stedet vil vi i det
 				  følgende give en række bud på, hvordan den en­kelte studerende, projektgruppen, casegruppen, og andre grupper, der arbejder problembaseret, kan arbejde med formativ evaluering både undervejs og efter afslutningen af deres arbejde for derigennem at forbedre arbejdsprocessen såvel som produktet og det ende­ lige resultat. Men inden da er det imidlertid nødvendigt at diskutere spørgsmålet om feedback, hvilket er en central del af enhver forma­tiv evalueringsproces.
 			- **Om feedback i evaluering** ^^136^^
+			  collapsed:: true
 				- Et væsentligt element i forbindelse
 				  collapsed:: true
 				  med formativ evaluering er, at man lærer gennem feedback. Feedback kan beskrives som det for­ hold, at en person vurderer noget specifikt (afsiger en værdimæs­sig dom) for derefter at give en tilbagemelding til en anden person om, hvorledes det vurderede opfattes (Paludan 2013). Feedback er en ganske naturlig del af måden, vi indgår i
@@ -762,6 +765,7 @@
 					- Endelig er det vigtigt, at man også husker at nævne det, der fun­gerer, og det, vi lykkes med. Som vi skal vende tilbage til senere i kapitlet, rummer vore succeser et stort læringspotentiale. Efter at have gennemgået praksis i feedbackprocessen er det nu tid
 					  til at se på nogle konkrete evalueringsområder og evaluerings modeller.
 			- **Om at sætte mål og evaluere** ^^140^^
+			  collapsed:: true
 				- En effektiv evaluering begynder ikke med selve evalueringen, men inden: nemlig med en diskussion af og refleksion over målsætnin­ger. Elliot og Dweck (1988) skelner i den forbindelse mellem to forskellige former for mål i studiesammenhænge:
 				- I) *Præstationsmål, *hvor man som studerende primært har fokus på at sikre sig positive evalueringer af sine præstationer. I traditionel uddannelsessammenhæng vil dette ske gennem karaktergivning. Præstationsmål indfris i udgangspunktet ved, at *en anden *end den lærende afgør, hvad der regnes for en god præstation.
 				- 2) *Læringsmål, *hvor man primært fokuserer på at forbedre egne eller gruppens præstationer i forhold til opgaven. Læringsmål er mål, som de studerende selv formulerer på baggrund af et oplevet
@@ -779,11 +783,13 @@
 				  ikke noget, der bare skal foretages "for sjov". Den eneste grund til, at vi anbefaler, at alle studerende arbejder mål­ rettet med evaluering, er, at
 				  løbende evaluering fører til indsigt både omkring håndteringen af fagligt stof og processen omkring samar­bejdet. Det vil bidrage til, at den enkelte og gruppen opbygger sta­dig mere viden om og kompetence til at få størst muligt læringsud­bytte af det problembaseret arbejde. Evaluering er i *sidste *ende et produktoptimerende redskab (Rasmussen 2007).
 				- **Om løbende evaluering af gruppearbejdet** ^^141^^
+				  collapsed:: true
 					- Vi hører af og til studerende sige, at "vi behøver ikke evaluere, for det går jo rigtig godt i vores gruppe". Men måske er det netop, når det går allerbedst, at en evaluering kan bidrage med mest
 					  læring. For det første er det jo meget sjældent, at
 					  tingene går skidt fra star­ ten. I langt de fleste tilfælde bliver samarbejdet, enigheden, energi­ niveauet osv. ringere med tiden. Men til tider kan dette rent faktisk forhindres, såfremt gruppen evaluerer samarbejdet undervejs, og in­ den den store krise opstår. Dermed får gruppen lejlighed til at spotte eventuelle faresignaler og ikke mindst erkende, hvad det er, der bi­ drager til gruppens gode samarbejde. For det andet er evaluering en tids- og energikrævende aktivitet. Pro­ jekter og grupper, der er ved at køre af sporet, er sjældent energi gi­vende. I sådan en situation kan det være vanskeligt at finde den nødvendige energi til at starte en evalueringsproces. Har man imid­lertid allerede oparbejdet en evalueringskultur, kan det være lettere at fastholde den i de hårde og knap så sjove perioder. Endelig er det faktum, at "tingene går godt" jo ikke nogen undskyld­ning for ikke at lære noget! Som kapitlets indledende eksempel sø­ger at illustrere, kan der være masser af læring forbundet med det, vi lykkes med. Faktisk kan vi have en tendens til at være alt for op­ satte på
 					  at lære af vores fejl og ignorere det videnspotentiale, der ligger gemt i vores succeser.
 			- **Evalueringsforhold** ^^142^^
+			  collapsed:: true
 				- Ikke alle evalueringsformer er nødvendigvis
 				  relevante i alle dele af det problembaserede arbejde.
 				  Der findes nemlig ikke en rigtig måde at
@@ -818,6 +824,7 @@
 				  evalueringsprocesser under­ vejs i forløbet
 				  såvel som efter forløbets afslutning for på den måde at sikre, at resultatet bliver så godt som muligt, og at man samtidig læ­rer mest muligt af selve forløbet, uanset hvor godt resultatet ender med at blive. I de følgende to afsnit skal vi se på forskellige evalueringsområ­der, der fokuserer på henholdsvis forløbsevaluering og produkteva­luering.
 			- **Den løbende evaluering** ^^144^^
+			  collapsed:: true
 				- Evaluering kan ses som en rød tråd, der binder et forløb sammen. Det er et redskab, man tager frem fra tid til anden for at tjekke, om man er på rette vej. Om arbejdet går efter planen, om der er noget, der skal justeres på, eller forhold, der helt skal droppes. Alt for ofte medfører manglende forløbsevaluering, at grupper først for sent i projektforløbe bliver opmærksomme på, at de ikke er enige om, hvad målet med projektet er, hvordan projektet skal følges i mål, hvem der skal
 				  gøre hvad, osv. Løbende evalueringer hjælper med at holde fokus på væsentlige områder og gør det muligt at foretage væ­sentlige justeringer for at imødegå opståede problemer, inden de ud­ vikler sig til potentielle katastrofer. Evalueringer kan
 				  have fokus på samarbejdet, men kan også have karakter af statusopdateringer på projektarbejdet og udviklingen af et endeligt produkt. Denne sidste evalueringsform har dog i sit ud­gangspunkt en
@@ -828,6 +835,7 @@
 				  konkrete opgave, som gruppen er samlet
 				  for at løse. Grupper (som alle andre former for organisationer) er al­tid dannet med et mål for øje. Tabes dette mål af syne, bliver grup­pen ineffektiv og vil uundgåeligt levere et dårligt produkt, såfremt den i det hele taget får skabt et produkt. Evaluering af samarbejdet er således ikke en aktivitet, der indlægges i projektarbejdet for hyg­gens skyld. Evaluering har altid et klart formål, nemlig at skabe læ­ring, forøget bevidsthed, flere handlemuligheder og dermed i sid­ste ende - et bedre produkt. Derfor kan evaluering også ses som en fortløbende proces, der hjælper gruppen med at holde fokus, som ty­deliggør konflikter, inden de udvikler sig til uoverstigelige barrierer, og som fungerer som kreativ idegenerator og projektudvikler (Ben­ der 2012). Nedenfor følger nogle generelle råd om forløbsevaluering:
 				- **Forløbsevaluering** ^^145^^
+				  collapsed:: true
 					- I projektplanen (kapitel 3) indlægges fra starten datoer, hvor gruppen vil evaluere. Hvis datoer ikke er fastlagt, er det vores er­ faring, at
 					  evalueringer ryger i baggrunden til fordel for andre umiddelbart mere presserende opgaver eller opgaver med et mere håndgribeligt mål som eks at skrive et kapitel.
 					- Gruppen kan med fordel have flere evalueringer tidligt i forløbet og færre senere. Det er i starten af projektet, at samarbejdet skal finde sin form. Finder man først frem til en samarbejdsform, der fungerer for alle, bliver det lettere at lave små og løbende ju­steringer senere.
@@ -845,6 +853,7 @@
 					- Forløbsevalueringer vil typisk finde sted i forbindelse med gruppens øvrige møder. Gruppemøder er i mange tilfælde (som vi så i kapitel 4) rygraden i gruppens arbejde, hvorfor det også er vigtigt
 					  at evalu­ere og dermed kvalitetssikre denne essentielle del af projektarbejdet. Derfor handler næste afsnit om evaluering af gruppemøder.
 				- **Evaluering af gruppemøder** ^^146^^
+				  collapsed:: true
 					- I de fleste tilfælde er gruppemødet både et kreativt, hyggeligt og energifyldt rum, hvor nye ideer skabes, og venskaber opstår. I få til­ fælde udvikler gruppemøder sig desværre til lange, frustrations skabende timer af oplevet meningsløshed, hvor diskussionerne kører i ring, og gruppen kommer længere og længere væk fra det, den er sat i verden for at gøre - at skabe læring
 					  gennem arbejdet med at løse et problem. De fleste grupper oplever både de positive og de mere pro­ blemfyldte sider ved projektarbejdet. Derfor er det, ligesom ved for­ løbsevaluering, vigtigt, at man fra starten aftaler, hvordan og hvor­ når gruppens mødeaktivitet skal evalueres. En
 					  typisk, men ikke nødvendigvis særlig givende, mødeevaluering består i, at man af­ slutningsvist spørger ud i gruppen, om der er mere, der skal siges, inden mødet hæves, eller om hvordan
@@ -858,16 +867,19 @@
 					  ikke lave grundige mødeevalueringer hver gang, eftersom man hurtigt risikerer at komme til at "evaluere sig ihjel" og sidde med så mange ønsker og krav om forandring, at det vil være næsten
 					  umuligt at tilgodese alle gruppemedlemmernes behov.
 			- **Den afsluttende evaluering** ^^148^^
+			  collapsed:: true
 				- Det er naturligvis ikke kun undervejs i forløbet, at man skal evalu­ere. Den løbende evaluering skal støtte op om det problembaserede projektarbejde, men i sidste ende er det værd at huske på, at ethvert projekt altid munder ud i et
 				  produkt eller en præstation. Modsat processen
 				  undervejs vil dette produkt ofte blive evalueret af under­ viserne i form af en eksamen.
 				  Imidlertid bør man, for at fremme sin egen læring samt mulighed for at gentage succeser og eliminere fia­skoer, ikke udelukkende overlade denne produktevaluering til un­dervisningsinstitutionen. Der "gemmer sig" ofte alt for megen læ­ ring i evaluering som aktivitet til udelukkende at overlade det til an­dre at evaluere ens arbejde (Andersen 2004). Derfor vil vi i det føl­gende komme med eksempler på, hvorledes man som studerende kan engagere sig i afsluttende evalueringer af det problemorienteret­ arbejde
 				- **Forløbsevaluering** ^^148^^
+				  collapsed:: true
 					- Vi har tidligere diskuteret, hvorledes man
 					  løbende kan bruge evalu­ering til at justere og forfine gruppens samarbejde. Som vi så i kapit­lets indledende eksempel, er det imidlertid også vigtigt at evaluere samarbejdet, når forløbet er afsluttet, for at trække mest mulig læ­ring ud af det. En sådan evaluering vil gøre det muligt for gruppens medlemmer (uanset om man skal arbejde sammen igen eller i nye konstellationer) at begynde næste projektarbejde med et andet og bedre udgangspunkt. Dette kan medføre, at man skal bruge mindre tid på at finde sig til rette i gruppearbejde; tid, der derfor kan anven­des til fordybelse i projektets faglige områder. Nedenfor ses et ek­sempel på spørgsmål, man kan behandle i en afsluttende evaluering.
 					  Spørgsmålene besvares før mødet af hver enkelt deltager, som skri­ver et kort svar
 					  (to-tre linjer) til hvert spørgsmål, hvorefter spørgs­målene danner udgangspunkt for en fælles drøftelse.
 				- **Produktevaluering** ^^149^^
+				  collapsed:: true
 					- Når man har indleveret resultatet af sit projektarbejde, vil man som tidligere nævnt ofte modtage en
 					  evaluering i form af en karakter.
 					  Problemet med denne evaluering er for det første, at selve karakte­ren kommer
@@ -887,6 +899,7 @@
 					  divergens skyldes? Hvad fortæller divergen­sen mig/os om kravene på studiet?
 					  Hvordan kan jeg/vi bruge denne viden fremadrettet?
 				- **Den sidste feedback fra vejleder** ^^151^^
+				  collapsed:: true
 					- Som nævnt er eksamenssituationen ikke altid det mest fremad­ skuende og læringsskabende evalueringsrum. Dette skyldes flere forhold. For det første er der kun et vist tidsinterval til hele eksa­menshandlingen - herunder feedback på den enkeltes mundtlige og skriftlige præstation. For det andet er der ofte mange forskellige for­ hold at adressere, og for det tredje kan det være svært som stude­ rende at koncentrere sig om at tage feedback ind, samtidig med at man skal koncentrere sig om at præstere det
 					  yderste. Det er vores erfaring, at den begrænsede tid til eksamen er den største udfordring, men i de tilfælde, hvor skriftligt arbejde er en del af eksamensgrundlaget, er en overordnet feedback ofte en del af begrundelsen for bedømmelsen, da vejleder og censor typisk har spurgt til det, der "mangler". Der er også eksempler på vejledere, der tager noget af den allokerede tid af vejledningen for at kunne give feedback efter eksamenshandlingen, fx til en gruppes arbejde på et projekt - men det er dog langt fra normen. Den begrænsede tid
 					  står i kontrast til de mange forskellige om­ råder, der kan være for feedback,
@@ -901,6 +914,7 @@
 					  spørger ind til mulige forbedringer af bedømmelsesgrundlaget. På denne måde kan
 					  man som studerende selv være med til at sikre, at viden og læring i et forløb bringes med til næste forløb og helst vi­dere ind i arbejdslivet efter endt studie
 			- **Afrunding** ^^152^^
+			  collapsed:: true
 				- Som det er fremgået gennem dette kapitel, er
 				  evaluering som akti­vitet både en tilbageskuende og en fremadrettet aktivitet. Det er en vurdering af et forløb, en proces eller et produkt foretaget med det mål for øje at kunne forbedre det nuværende eller
 				  fremtidige forløb, processer og produkter. Ud over at være en proces, der skaber læring om noget, lærer man selvfølgelig også
