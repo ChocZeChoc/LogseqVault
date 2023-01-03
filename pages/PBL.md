@@ -3,7 +3,6 @@
 	  collapsed:: true
 		- Problem-based learning (PBL) is an educational approach that involves having students work through real-world problems in order to learn new content and skills. This approach is often used in higher education, particularly in fields such as medicine, engineering, and law, but it can also be used in other subject areas. In a PBL approach, students are presented with a problem or challenge and are then asked to work through it using the knowledge and skills they have acquired. As they work through the problem, they may need to research additional information, think critically, and collaborate with their peers. PBL is a student-centered approach that is designed to encourage active learning and to help students apply their knowledge to real-world situations.
 	- #INDHOLD
-	  collapsed:: true
 		- #INDLEDNING	7
 		- #Bogensintentioner	7
 		- #Bogensstruktur	11
@@ -562,27 +561,27 @@
 				- I kapitlet har vi gennemgået it-værktøjer til udforskning, ressource­ håndtering, dialog og selve skriveprocessen, og vi har understreget, at værktøjerne ikke automatisk løser forskellige opgaver. Derimod er det vigtigt, at gruppen overvejer, om og hvordan de vil benytte de forskellige værktøjer, samt at gruppen opbygger fælles praksis­ ser omkring brugen af disse værktøjer. Som vi har nævnt flere gange i bogen, er det svært at opstille nagelfaste retningslinjer for brug af forskellige ressourcer, modeller og værktøjer, da præferencer kan va­ riere fra gruppe til gruppe (og internt i gruppen). Dette gælder selv­ følgelig også for it-værktøjer. Nogle har det fint med at mødes ion­ line synkrone konferencer, mens andre foretrækker at mødes fysisk og mestendels bruger it-værktøjerne til at koordinere, hvor og hos hvem man mødes. Nogle synes, det er smart og tidsbesparende, at man kan dele ressourcer online og bruge social bookmarking, mens det for andre er fremmed territorium og virker til at være for stort ^^132^^ besvær med for stejl læringskurve. Det er således noget, gruppen må diskutere og løbende evaluere for at sikre, at gruppens it-brug med­ virker til at optimere projektarbejdet.
 	- #KAPITEL7 ^^133^^
 		- **EVALUERING AF DET PROBLEM BASEREDE ARBEJDE**	^^133^^
-		- Når man hører ordet "evaluering", tænker
-		  mange på noget,
-		  man gør, når en aktivitet er afsluttet, og man skal se på, om man så har opnået
-		  det, der var aktivitetens
-		  oprindelige mål. Der er imidlertid
-		  ikke no­ get i betydningen af evaluering, der tilsiger,
-		  at man først kan fore­ tage evaluering, når et projekt eller en opgave er endelig afsluttet. Faktisk kan man
-		  med stor fordel evaluere løbende og dermed lø­ bende holde øje med, om
-		  kvaliteten i arbejdet nu også er som øn­ sket,
-		  eller om der kan være grund
-		  til at justere eller omprioritere.
-		- Evaluering er en aktivitet, som ikke i alle tilfælde
-		  får tilstrække­lig opmærksomhed i det problembaserede arbejde. Ofte bliver den eneste form for evaluering, som den studerende eller gruppen
-		  del­ tager i, den af uddannelsesinstitutionen påkrævede evaluering gen­ nem eksamen. Dette er uheldigt, eftersom denne evalueringsform muligvis er den mindst velegnede til at sikre fortsat læring og fag­ lig udvikling, når projekter eller andre PBL-forløb er afsluttet. Der­ for beskæftiger dette kapitel sig med, hvordan man som studerende og projektgruppe løbende kan indlægge evalueringer,
-		  der både kan medvirke til at forbedre det problembaserede arbejde og samtidig pege ud over den aktuelle arbejdsopgave og give vigtig
-		  viden, som kan bruges i det videre studie og arbejdsliv.
-		- **2 semestre - vidt forskellige oplevelser** ^^133^^
-		- Peter kom på sit første semester i en gruppe med fire andre stude­ rende. Fra starten gik samarbejdet vældig godt. Gruppen arbejdede sig frem mod et emne,
-		  som alle fandt interessant, og gruppen kom hurtigt ind i en fornuftig arbejdsrytme. Alle arbejdede engageret på projektet. Selvfølgelig var der mindre uoverensstemmelser under­vejs, men de blev hurtigt løst og skabte blot yderligere motivation,
-		  fordi alle kunne se, at det gik fremad. Resultatet blev en overbevi­sende projektopgave og en høj karakter. På næste semester kom Peter i en ny gruppe. Gruppen fandt sam­men, fordi de alle brændte for det samme faglige område. Imidlertid gik tingene væsentligt anderledes denne gang. Pludselig var det svært at blive enige. Gruppesamarbejdet gik trægt, der var langt mellem smil og latter, og møderne blev en pine, hvor den ene ende­ løse
-		  diskussion afløste den anden. Ikke helt overraskende blev grup­pens samarbejdsproces afspejlet i eksamenen, som bestemt ikke var tilfredsstillende i forhold til Peters høje forventninger til sig selv og sit arbejde. Efterfølgende reflekterede Peter over sine to meget forskellige ople­velser med problembaseret arbejde. Hvilke faktorer lå til grund for disse forskellige processer og resultater? Kunne resultatet af det andet gruppearbejde være blevet anderledes, hvis gruppen havde gjort noget af det, som tilsyneladende virkede for den første gruppe? Og hvad var det i grunden, der havde virket så godt i det første grup­pearbejde?
+			- Når man hører ordet "evaluering", tænker
+			  mange på noget,
+			  man gør, når en aktivitet er afsluttet, og man skal se på, om man så har opnået
+			  det, der var aktivitetens
+			  oprindelige mål. Der er imidlertid
+			  ikke no­ get i betydningen af evaluering, der tilsiger,
+			  at man først kan fore­ tage evaluering, når et projekt eller en opgave er endelig afsluttet. Faktisk kan man
+			  med stor fordel evaluere løbende og dermed lø­ bende holde øje med, om
+			  kvaliteten i arbejdet nu også er som øn­ sket,
+			  eller om der kan være grund
+			  til at justere eller omprioritere.
+			- Evaluering er en aktivitet, som ikke i alle tilfælde
+			  får tilstrække­lig opmærksomhed i det problembaserede arbejde. Ofte bliver den eneste form for evaluering, som den studerende eller gruppen
+			  del­ tager i, den af uddannelsesinstitutionen påkrævede evaluering gen­ nem eksamen. Dette er uheldigt, eftersom denne evalueringsform muligvis er den mindst velegnede til at sikre fortsat læring og fag­ lig udvikling, når projekter eller andre PBL-forløb er afsluttet. Der­ for beskæftiger dette kapitel sig med, hvordan man som studerende og projektgruppe løbende kan indlægge evalueringer,
+			  der både kan medvirke til at forbedre det problembaserede arbejde og samtidig pege ud over den aktuelle arbejdsopgave og give vigtig
+			  viden, som kan bruges i det videre studie og arbejdsliv.
+			- **2 semestre - vidt forskellige oplevelser** ^^133^^
+			- Peter kom på sit første semester i en gruppe med fire andre stude­ rende. Fra starten gik samarbejdet vældig godt. Gruppen arbejdede sig frem mod et emne,
+			  som alle fandt interessant, og gruppen kom hurtigt ind i en fornuftig arbejdsrytme. Alle arbejdede engageret på projektet. Selvfølgelig var der mindre uoverensstemmelser under­vejs, men de blev hurtigt løst og skabte blot yderligere motivation,
+			  fordi alle kunne se, at det gik fremad. Resultatet blev en overbevi­sende projektopgave og en høj karakter. På næste semester kom Peter i en ny gruppe. Gruppen fandt sam­men, fordi de alle brændte for det samme faglige område. Imidlertid gik tingene væsentligt anderledes denne gang. Pludselig var det svært at blive enige. Gruppesamarbejdet gik trægt, der var langt mellem smil og latter, og møderne blev en pine, hvor den ene ende­ løse
+			  diskussion afløste den anden. Ikke helt overraskende blev grup­pens samarbejdsproces afspejlet i eksamenen, som bestemt ikke var tilfredsstillende i forhold til Peters høje forventninger til sig selv og sit arbejde. Efterfølgende reflekterede Peter over sine to meget forskellige ople­velser med problembaseret arbejde. Hvilke faktorer lå til grund for disse forskellige processer og resultater? Kunne resultatet af det andet gruppearbejde være blevet anderledes, hvis gruppen havde gjort noget af det, som tilsyneladende virkede for den første gruppe? Og hvad var det i grunden, der havde virket så godt i det første grup­pearbejde?
 		- **Hvad er evaluering** ^^134^^
 		- Evaluering beskrives ofte som en vurdering, igennem hvilken man tillægger noget værdi. Altså en handling, der sætter en i stand til at afsige en værdimæssig dom (Andreasen m.fl. 2011). Således kan man i
 		  Den Danske Ordbog læse, at evaluering er en "systematisk, faglig vurdering af fx en institutions
