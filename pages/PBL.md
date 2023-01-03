@@ -367,7 +367,11 @@
 				- En forventningsafklaring kan forstås som en måde, hvorpå projektgruppen (praksisfællesskabet) søger at integrere de enkelte medlem­ mers viden i gruppen og derved gøre det til fællesskabets viden. Ef­ter denne proces er næste skridt at forankre den frembragte viden gennem en fremadrettet, kollektiv meningsforhandling. Denne me­ ningsforhandling skal munde ud i retningslinjer for kollektiv hand­ ling: en konkret samarbejdsaftale. Samarbejdsaftalen kan med for­ del struktureres med udgangspunkt i nedenstående elementer:
 					- **Samarbejdsaftalens elementer** ^^81^^
 						- Aftaler om organisering af arbejdet (se #kapitel3 ), fx ift. arbejdsde­ ling, arbejdstid, logbog, tidsplaner, mødeledelse, prædefinerede rol­ ler (sekretær, ordstyrer, kontakt til vejleder osv.) og filhåndtering (se #kapitel6 ).
-						- Aftaler om gensidighed i samarbejdet, fx i forhold til mødetider, deadlines, indberetning af sygdom, brug af grupperum til andre aktiviteter end arbejde (fx computerspil eller andet), sociale akti­ viteter, oprydning i grupperummet samt mere bredt kommunikati
+						- Aftaler om gensidighed i samarbejdet, fx i forhold til mødetider, deadlines, indberetning af sygdom, brug af grupperum til andre aktiviteter end arbejde (fx computerspil eller andet), sociale akti­ viteter, oprydning i grupperummet samt mere bredt kommunikationen i gruppen og konfliktforebyggelse (se #kapitel5 ).
+						- Aftaler om at understøtte personlig udvikling, fx igennem "peer learning-aktiviteter", samt ved at eksperimentere med nye roller og læringsstile (se #kapitel5 ).
+						- Beskrivelse af, hvorledes uenigheder og konflikter skal håndte­ res (se #kapitel5 ). 
+						  
+						  · Fastlæggelse af milepæle (se kapitel 3), som beskriver, hvornår og hvordan der skal følges op på samarbejdsaftalen. En løbende evaluering (se kapitel 7) sikrer, at aftalens aktualitet og relevans bevares gennem hele projektperioden.
 			- Samarbejdsaftalen med vejleder	83
 			- Afrunding	88
 	- #KAPITEL5
