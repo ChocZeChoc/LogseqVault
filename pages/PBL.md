@@ -433,7 +433,7 @@
 				  undersøgelser dokumente­rer sammenhængen mellem et lands gennemsnitlige uddannelses ni­veau og samfundets vækst. (Sohlman 1986; OECD 2001; Krueger og Linddahl 2001; Kristensen og Skipper 2010).
 				  Fokus på sammenhængen mellem de videregående uddannel­ser og
 				  erhvervslivet var også en af bevæggrundene for at introdu­cere PBL ved danske
-				  universiteter, hvilket (som beskrevet i kapi­tel 1) skete med åbningen
+				  universiteter, hvilket (som beskrevet i #kapi­tel1 ) skete med åbningen
 				  af Roskilde Universitet i 1972 og Aalborg
 				  Universitet i 1974. Der var to
 				  overordnede grunde til, at disse nye universiteter valgte PBL som primær pædagogisk model. Den ene grund
@@ -540,7 +540,7 @@
 						- I ovenstående citat udtaler direktøren, at erfaring med PBL medfø­rer, at "man
 						  lærer at forstå problemer og selv finde en løsning". Kom­petencen til
 						  at forstå problemer kan trækkes
-						  tilbage til arbejdet med at definere en problemformulering (se kapitel 2). Et problem skal de­fineres, inden man kan løse det. Hermed menes, at man på struk­tureret vis skal kunne indsamle den viden, der er nødvendig for at klarlægge problemet og efterfølgende at kunne vælge den rette me­tode eller teori til at løse dette problem. Donald Schon (1987) argu­menterer i sin bog *Educating the Reflective Practitioner* for vigtig­ heden af, at studerende ikke uddannes til hovedsageligt at kunne løse prædefinerede problemstillinger, men til selv at kunne identifi­cere problemet. For Schon er det at arbejde med problemer en pro­ces, gennem hvilken man interaktivt sætter
+						  tilbage til arbejdet med at definere en problemformulering (se #kapitel2 ). Et problem skal de­fineres, inden man kan løse det. Hermed menes, at man på struk­tureret vis skal kunne indsamle den viden, der er nødvendig for at klarlægge problemet og efterfølgende at kunne vælge den rette me­tode eller teori til at løse dette problem. Donald Schon (1987) argu­menterer i sin bog *Educating the Reflective Practitioner* for vigtig­ heden af, at studerende ikke uddannes til hovedsageligt at kunne løse prædefinerede problemstillinger, men til selv at kunne identifi­cere problemet. For Schon er det at arbejde med problemer en pro­ces, gennem hvilken man interaktivt sætter
 						  navn på de ting, man vil ofre opmærksomhed (Schon 2001: 44). Ud over at kunne identifi­cere problemet er PBL kendetegnet ved, at man ganske ofte arbejder ud fra en praktisk
 						  problemstilling, der søges løst ved at inddrage re­levante teorier og metoder. Dermed opnår man som studerende er­ faring med at anvende teori og metoder
 						  til at løse problemer, der ud­ springer fra praksis en erfaring, der jf. ovenstående citat ikke blot kan overføres til, men også efterspørges i arbejdslivet. Samtidig vil man i mange sammenhænge opleve, at de problemer, der arbejdes med i praksis, er komplekse og ikke altid lader sig løse på samme vis som de tænkte eksempler i lærebøgerne. Arbejder man sammen med en virksomhed, får man som studerende erfaring med, hvor­ dan virksomheder udvikler og forandrer sig, og ikke mindst hvor­ dan den problemstilling, man arbejder
