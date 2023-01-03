@@ -393,7 +393,19 @@
 				- **Fra aftale til kontrakt** ^^87^^
 					- En anden måde at få klarhed over forventninger til vejleder på kan være at samle op på erfaringer fra tidligere vejledningsrelationer og dermed skabe bevidsthed om, hvordan disse erfaringer afspejles i forventningerne til den nye vejlederrelation. Hvis man tidligere har været i en vejlederrelation, som man har oplevet som yderst givende, er der naturligvis god grund til at gentage noget af det, der virkede tidligere. Når vejlederrollen på denne måde personificeres i kraft af ens tidligere erfaringer, bliver bevidstheden om den hjælpsomme vejledning ofte mere konkret, og dermed bliver det nemmere at pege på ønsker til vejlederen. Et eksempel kan være, at en tidligere vejle­ der i god tid informerede om, hvornår vedkommende ikke var til­ gængelig på grund af ferie, konferencer eller en periode med spids­ belastning. Med dette in mente kan gruppen bede en ny vejleder om på samme vis at give sådanne informationer i så god tid som mu­ ligt. Når gruppens perspektiver på god vejledning fremlægges for den nye vejleder, giver det ofte et godt udgangspunkt for dialog. Man skal ikke forvente (eller ønske sig), at den nye vejleder straks og ganske ukritisk lægger sin normale vejledningsstil fra sig og gi­ ver sig hen til alle gruppens ønsker. Derimod kan gruppens frem­ stilling fungere som udgangspunkt for en snak om, hvad henholds­ vis gruppen og vejlederen forstår ved god vejledning, hvorved man kan udvikle sin forståelse for den andens synspunkter og holdninger til gavn for det videre samarbejde.
 					- Diskussionen om vejledningsrelationen kan i sidste ende munde ud i en samarbejdsaftale med vejleder.
-				-
+				- **Elementer** **til** **samarbejdsaftale** **med** **vejleder** ^^87^^
+					- Hvor ofte kan vi forvente vejledermøde?
+					- ^^88^^ Hvor lang tid i forvejen skal vi have aftalt møder?
+					- Hvad er forventningerne til mødeledelsen, som fx til dagsorde­ ner, referater, ordstyrer?
+					- Hvad forventes vi at sende af materiale til forberedelse ud over tekst til rapporten: billeder af tavle, referater fra gruppemøder, opdaterede tidsplaner, gruppens noter osv. 
+					  
+					  ·	Hvor færdig skal en tekst være, før den kan sendes til vejleder? Hvor meget læsevejledning skal der være til de tekster, der sen­ des? 
+					  
+					  Hvor mange gange vil vejlederen se den samme tekst? 
+					  
+					  Hvornår skal vejlederen have teksten for at sikre en fornuftig for­ beredelse? 
+					  
+					  I hvilket filformat foretrækker vejlederen teksten?
 			- Afrunding	88
 	- #KAPITEL5
 	- #KAPITEL6
