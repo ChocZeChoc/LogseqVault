@@ -406,7 +406,13 @@
 			- **Afrunding** ^^88^^
 				- Inden vi afslutter dette kapitel, er der et sidste punkt vedrørende disse forskellige skriftlige aftaler, der er vigtigt at forholde sig til. Når man har færdiggjort de forskellige samarbejdsaftaler, er det nemlig vigtigt at give dem et realitetstjek. Fremstår aftalerne rea­ listiske og gennemførlige? Er det i højere grad et nytårsforsæt eller idealbetragtninger, man har produceret? I så fald er der stor sand­ synlighed for, at det går samarbejdsaftalen, som det går med de fle­ ste andre nytårsforsætter! Et andet væsentligt forhold at holde sig for øje er, at samarbejdsaftalerne skal være så konkrete, at gruppen kan evaluere (se #kapitel7 ) på, om aftalerne rent faktisk bliver overholdt. En aftale om et godt samarbejde er jo i princippet udmærket, men hvis "det gode samarbejde" ikke konkretiseres, kan der være mange fortolkninger heraf, hvilket i sidste ende kan lede til misforståelser, uenigheder og dermed alt andet end et godt samarbejde. Mere om dette i næste kapitel.
 	- #KAPITEL5
-		- SAMARBEJDE - FRA HENSIGT TIL HANDLING	89
+		- **SAMARBEJDE - FRA HENSIGT TIL HANDLING** ^^89^^
+			- **Samarbejde som et samspil af roller**	^^89^^
+			- **Om arbejdsgrupper, hyggegrupper og dysfunktionelle grupper** ^^93^^
+			- **Kommunikationen i gruppen**^^96^^
+			- Konflikter i gruppen	102
+			- Konflikthåndtering	104
+			- Afrunding	110
 	- #KAPITEL6
 	- #KAPITEL7 ^^133^^
 		- **EVALUERING AF DET PROBLEM BASEREDE ARBEJDE**	^^133^^
