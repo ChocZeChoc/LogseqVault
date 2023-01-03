@@ -739,66 +739,66 @@
 					  undgå de hurtige op­summerende afrundinger, der kan være gode til lige at fange noget, som var gået i glemmebogen undervejs i mødedagsordenen. Det er derfor vigtigt, at man aftaler, på hvilke møder man laver en grundi­gere evaluering. Man skal
 					  ikke lave grundige mødeevalueringer hver gang, eftersom man hurtigt risikerer at komme til at "evaluere sig ihjel" og sidde med så mange ønsker og krav om forandring, at det vil være næsten
 					  umuligt at tilgodese alle gruppemedlemmernes behov.
-		- **Den afsluttende evaluering** ^^148^^
-			- Det er naturligvis ikke kun undervejs i forløbet, at man skal evalu­ere. Den løbende evaluering skal støtte op om det problembaserede projektarbejde, men i sidste ende er det værd at huske på, at ethvert projekt altid munder ud i et
-			  produkt eller en præstation. Modsat processen
-			  undervejs vil dette produkt ofte blive evalueret af under­ viserne i form af en eksamen.
-			  Imidlertid bør man, for at fremme sin egen læring samt mulighed for at gentage succeser og eliminere fia­skoer, ikke udelukkende overlade denne produktevaluering til un­dervisningsinstitutionen. Der "gemmer sig" ofte alt for megen læ­ ring i evaluering som aktivitet til udelukkende at overlade det til an­dre at evaluere ens arbejde (Andersen 2004). Derfor vil vi i det føl­gende komme med eksempler på, hvorledes man som studerende kan engagere sig i afsluttende evalueringer af det problemorienteret­ arbejde
-			- **Forløbsevaluering** ^^148^^
-				- Vi har tidligere diskuteret, hvorledes man
-				  løbende kan bruge evalu­ering til at justere og forfine gruppens samarbejde. Som vi så i kapit­lets indledende eksempel, er det imidlertid også vigtigt at evaluere samarbejdet, når forløbet er afsluttet, for at trække mest mulig læ­ring ud af det. En sådan evaluering vil gøre det muligt for gruppens medlemmer (uanset om man skal arbejde sammen igen eller i nye konstellationer) at begynde næste projektarbejde med et andet og bedre udgangspunkt. Dette kan medføre, at man skal bruge mindre tid på at finde sig til rette i gruppearbejde; tid, der derfor kan anven­des til fordybelse i projektets faglige områder. Nedenfor ses et ek­sempel på spørgsmål, man kan behandle i en afsluttende evaluering.
-				  Spørgsmålene besvares før mødet af hver enkelt deltager, som skri­ver et kort svar
-				  (to-tre linjer) til hvert spørgsmål, hvorefter spørgs­målene danner udgangspunkt for en fælles drøftelse.
-				- **Produktevaluering** ^^149^^
-					- Når man har indleveret resultatet af sit projektarbejde, vil man som tidligere nævnt ofte modtage en
-					  evaluering i form af en karakter.
-					  Problemet med denne evaluering er for det første, at selve karakte­ren kommer
-					  til at skygge for alt andet og i sig selv ikke fortæller me­get om, hvor meget man har lært i forløbet. Endvidere er et tal sjæl­ dent særlig informativt. Hvilke kvaliteter ligger til grund for karak­teren? Hvad lægger censor vægt på? Til tider er der mulighed
-					  for en kort feedback efter en eksamen. Dette er ofte tilfældet i forbindelse med mundtlige eksamener. Er dette en mulighed, bør man i høj grad takke ja for på denne vis at få mere information om censors og eksa­minators tanker, end tallet giver i sig selv. Har man tid og overskud, kan det ligeledes være en god ide at spørge ind til forhold ved ek­samenssituationen, man selv blev opmærksom på undervejs. Lader man blot bedømmerne tale, er det også dem, der bestemmer, hvad der er vigtigt for dig/jer at vide.
-					  Netop den intense stemning, og den yderst
-					  begrænsede tid, som typisk forbindes
-					  med en eksamenssituation, gør dette rum mindre velegnet som lærings- og evalueringsressource (Ramsden 2003). Det kan derfor være fornuftigt at iværksætte nogle
-					  evalueringer rundt om selve eksamenssituationen. Eksempelvis kan man inden eksa­men lave en intern produktevaluering. Dette kan gøres ved, at alle læser produktet igennem, hvorefter hver enkelt skriftligt svarer på følgende
-					  fire spørgsmål (spørgsmålene er vejledende og kan ændres, alt efter hvad gruppen finder relevant):
-					- Hvad vil du karakterisere som det, du/I lykkedes bedst med i det arbejde, du/I netop har afsluttet?
-					- Hvis du havde muligheden for at lave opgaven forfra, hvad ville du så vælge, at du/I skulle gøre anderledes (om noget)?
-					- Hvad var det sværeste ved det netop afsluttede arbejde?
-					- I hvilken grad og på hvilke områder
-					  finder du/I, at projektet op­ fylder læringsmålene i studieordningen?
-					- Efterfølgende mødes man i projektgruppen. Her læses svarene for spørgsmål 1 op, hvorefter hver enkelt deltager får lejlighed til at ud­ dybe sit svar. Herefter fortsættes med spørgsmål 2, osv. Således får man lejlighed til at danne sig et indtryk af det produkt, som efter­ følgende skal evalueres til eksamen. Denne evaluering kan efter­ følgende danne udgangspunkt for yderligere refleksion: På hvilke punkter var der forskel mellem min/vores vurdering og censor/vej­ leders? Hvad kan denne
-					  divergens skyldes? Hvad fortæller divergen­sen mig/os om kravene på studiet?
-					  Hvordan kan jeg/vi bruge denne viden fremadrettet?
-				- **Den sidste feedback fra vejleder** ^^151^^
-					- Som nævnt er eksamenssituationen ikke altid det mest fremad­ skuende og læringsskabende evalueringsrum. Dette skyldes flere forhold. For det første er der kun et vist tidsinterval til hele eksa­menshandlingen - herunder feedback på den enkeltes mundtlige og skriftlige præstation. For det andet er der ofte mange forskellige for­ hold at adressere, og for det tredje kan det være svært som stude­ rende at koncentrere sig om at tage feedback ind, samtidig med at man skal koncentrere sig om at præstere det
-					  yderste. Det er vores erfaring, at den begrænsede tid til eksamen er den største udfordring, men i de tilfælde, hvor skriftligt arbejde er en del af eksamensgrundlaget, er en overordnet feedback ofte en del af begrundelsen for bedømmelsen, da vejleder og censor typisk har spurgt til det, der "mangler". Der er også eksempler på vejledere, der tager noget af den allokerede tid af vejledningen for at kunne give feedback efter eksamenshandlingen, fx til en gruppes arbejde på et projekt - men det er dog langt fra normen. Den begrænsede tid
-					  står i kontrast til de mange forskellige om­ råder, der kan være for feedback,
-					  som gruppens måde at lede et projekt på, gruppens engagement, evt. skriftligt
-					  materiale mv. Det er fx sjældent, at en gruppe får lejlighed til at evaluere samarbejdet med vejlederen i tilknytning til
-					  eksamen. På nogle uddannelsesinstituti­oner udarbejder de studerende procesanalyser som en del af bedøm­melses grundlaget, og herved bliver vejlederrelationen sat på dags­
-					  ordenen i eksamensakten. I langt de fleste situationer vil vejlede­ rens samspil med gruppen dog alene diskuteres løbende i henhold til samarbejdsaftalen (jf. #KAPITEL4 ): Hvordan er vejlederens oplevelse af gruppen? Hvordan er gruppens oplevelse
-					  af vejleder? På trods af den
-					  begrænsede tid, og de mange mulige kilder til feedback, er der dog mange studerende, der oplever, at de også får nye erkendelser i eksamenssituationen.
-					  Da man, som tidligere nævnt, i en stresset eksamenssituation kan have svært ved at tage feedback ind, er det dog også sket, at hukommelsen fejler i gengivel­sen af, hvad der i situationen fremstod som en "ahaoplevelse". Derfor er det helt centralt,
-					  at man forbereder sig på at notere vejlederens og censors kommentarer - og inden for den tid, der er til rådighed,
-					  spørger ind til mulige forbedringer af bedømmelsesgrundlaget. På denne måde kan
-					  man som studerende selv være med til at sikre, at viden og læring i et forløb bringes med til næste forløb og helst vi­dere ind i arbejdslivet efter endt studie
-				- **Afrunding** ^^152^^
-					- Som det er fremgået gennem dette kapitel, er
-					  evaluering som akti­vitet både en tilbageskuende og en fremadrettet aktivitet. Det er en vurdering af et forløb, en proces eller et produkt foretaget med det mål for øje at kunne forbedre det nuværende eller
-					  fremtidige forløb, processer og produkter. Ud over at være en proces, der skaber læring om noget, lærer man selvfølgelig også
-					  noget om evaluering ved at evaluere. Man finder ud af, hvilke former der virker godt for en selv. Hvad der fremmer gruppens arbejde, og dermed virker produktop­timerende. Vi har i dette kapitel præsenteret en række forskellige til­ gange og modeller, som kan bringes i spil, men hvilke der er de rig­tige i det konkrete tilfælde, er kun noget, man kan finde
-					  ud af ved at prøve sig frem. Vi vil derfor opfordre jer til at forholde jer eksperi­menterende til evalueringsprocessen. Find ud af, hvad der passer for jer. Hvis I oplever, at det at evaluere ikke forekommer særlig hjælp­somt, er det ikke nødvendigvis
-					  et udtryk for, at evaluering som ge­nerelt fænomen er spildt på jeres proces.
-					  Det kunne også handle om, at I endnu ikke har fundet den rette form og metode.
-					  Samtidig er det også vigtigt at huske på, at
-					  evaluering ikke er noget, man mestrer fra fødslen, men derimod et håndværk, der
-					  skal læres. Igennem et studie vil man blive stadig bedre til denne del af PBL-arbejdet.
-					  Vo­ res opfordring er derfor, at man ikke skal give op, selvom det i be­gyndelsen kan virke både svært, akavet og tidskrævende at evaluere. Alting er svært i starten, men
-					  i takt med at man øver sig, bliver det mere almindeligt og dermed også lettere, hvilket
-					  samtidig er med til at øge evalueringens effekt.
-					- Hermed slutter kapitel 7, som er det sidste
-					  af bogens kapitler, der beskæftiger sig med det praktiske PBL-arbejde. I det følgende
-					  kapitel rundes bogen af, og det sker ved at kaste et blik på tiden efter studiet for i stedet at se på sammenhængen mellem PBL og de krav, som er­hvervslivet stiller til den moderne medarbejder.
+			- **Den afsluttende evaluering** ^^148^^
+				- Det er naturligvis ikke kun undervejs i forløbet, at man skal evalu­ere. Den løbende evaluering skal støtte op om det problembaserede projektarbejde, men i sidste ende er det værd at huske på, at ethvert projekt altid munder ud i et
+				  produkt eller en præstation. Modsat processen
+				  undervejs vil dette produkt ofte blive evalueret af under­ viserne i form af en eksamen.
+				  Imidlertid bør man, for at fremme sin egen læring samt mulighed for at gentage succeser og eliminere fia­skoer, ikke udelukkende overlade denne produktevaluering til un­dervisningsinstitutionen. Der "gemmer sig" ofte alt for megen læ­ ring i evaluering som aktivitet til udelukkende at overlade det til an­dre at evaluere ens arbejde (Andersen 2004). Derfor vil vi i det føl­gende komme med eksempler på, hvorledes man som studerende kan engagere sig i afsluttende evalueringer af det problemorienteret­ arbejde
+				- **Forløbsevaluering** ^^148^^
+					- Vi har tidligere diskuteret, hvorledes man
+					  løbende kan bruge evalu­ering til at justere og forfine gruppens samarbejde. Som vi så i kapit­lets indledende eksempel, er det imidlertid også vigtigt at evaluere samarbejdet, når forløbet er afsluttet, for at trække mest mulig læ­ring ud af det. En sådan evaluering vil gøre det muligt for gruppens medlemmer (uanset om man skal arbejde sammen igen eller i nye konstellationer) at begynde næste projektarbejde med et andet og bedre udgangspunkt. Dette kan medføre, at man skal bruge mindre tid på at finde sig til rette i gruppearbejde; tid, der derfor kan anven­des til fordybelse i projektets faglige områder. Nedenfor ses et ek­sempel på spørgsmål, man kan behandle i en afsluttende evaluering.
+					  Spørgsmålene besvares før mødet af hver enkelt deltager, som skri­ver et kort svar
+					  (to-tre linjer) til hvert spørgsmål, hvorefter spørgs­målene danner udgangspunkt for en fælles drøftelse.
+					- **Produktevaluering** ^^149^^
+						- Når man har indleveret resultatet af sit projektarbejde, vil man som tidligere nævnt ofte modtage en
+						  evaluering i form af en karakter.
+						  Problemet med denne evaluering er for det første, at selve karakte­ren kommer
+						  til at skygge for alt andet og i sig selv ikke fortæller me­get om, hvor meget man har lært i forløbet. Endvidere er et tal sjæl­ dent særlig informativt. Hvilke kvaliteter ligger til grund for karak­teren? Hvad lægger censor vægt på? Til tider er der mulighed
+						  for en kort feedback efter en eksamen. Dette er ofte tilfældet i forbindelse med mundtlige eksamener. Er dette en mulighed, bør man i høj grad takke ja for på denne vis at få mere information om censors og eksa­minators tanker, end tallet giver i sig selv. Har man tid og overskud, kan det ligeledes være en god ide at spørge ind til forhold ved ek­samenssituationen, man selv blev opmærksom på undervejs. Lader man blot bedømmerne tale, er det også dem, der bestemmer, hvad der er vigtigt for dig/jer at vide.
+						  Netop den intense stemning, og den yderst
+						  begrænsede tid, som typisk forbindes
+						  med en eksamenssituation, gør dette rum mindre velegnet som lærings- og evalueringsressource (Ramsden 2003). Det kan derfor være fornuftigt at iværksætte nogle
+						  evalueringer rundt om selve eksamenssituationen. Eksempelvis kan man inden eksa­men lave en intern produktevaluering. Dette kan gøres ved, at alle læser produktet igennem, hvorefter hver enkelt skriftligt svarer på følgende
+						  fire spørgsmål (spørgsmålene er vejledende og kan ændres, alt efter hvad gruppen finder relevant):
+						- Hvad vil du karakterisere som det, du/I lykkedes bedst med i det arbejde, du/I netop har afsluttet?
+						- Hvis du havde muligheden for at lave opgaven forfra, hvad ville du så vælge, at du/I skulle gøre anderledes (om noget)?
+						- Hvad var det sværeste ved det netop afsluttede arbejde?
+						- I hvilken grad og på hvilke områder
+						  finder du/I, at projektet op­ fylder læringsmålene i studieordningen?
+						- Efterfølgende mødes man i projektgruppen. Her læses svarene for spørgsmål 1 op, hvorefter hver enkelt deltager får lejlighed til at ud­ dybe sit svar. Herefter fortsættes med spørgsmål 2, osv. Således får man lejlighed til at danne sig et indtryk af det produkt, som efter­ følgende skal evalueres til eksamen. Denne evaluering kan efter­ følgende danne udgangspunkt for yderligere refleksion: På hvilke punkter var der forskel mellem min/vores vurdering og censor/vej­ leders? Hvad kan denne
+						  divergens skyldes? Hvad fortæller divergen­sen mig/os om kravene på studiet?
+						  Hvordan kan jeg/vi bruge denne viden fremadrettet?
+					- **Den sidste feedback fra vejleder** ^^151^^
+						- Som nævnt er eksamenssituationen ikke altid det mest fremad­ skuende og læringsskabende evalueringsrum. Dette skyldes flere forhold. For det første er der kun et vist tidsinterval til hele eksa­menshandlingen - herunder feedback på den enkeltes mundtlige og skriftlige præstation. For det andet er der ofte mange forskellige for­ hold at adressere, og for det tredje kan det være svært som stude­ rende at koncentrere sig om at tage feedback ind, samtidig med at man skal koncentrere sig om at præstere det
+						  yderste. Det er vores erfaring, at den begrænsede tid til eksamen er den største udfordring, men i de tilfælde, hvor skriftligt arbejde er en del af eksamensgrundlaget, er en overordnet feedback ofte en del af begrundelsen for bedømmelsen, da vejleder og censor typisk har spurgt til det, der "mangler". Der er også eksempler på vejledere, der tager noget af den allokerede tid af vejledningen for at kunne give feedback efter eksamenshandlingen, fx til en gruppes arbejde på et projekt - men det er dog langt fra normen. Den begrænsede tid
+						  står i kontrast til de mange forskellige om­ råder, der kan være for feedback,
+						  som gruppens måde at lede et projekt på, gruppens engagement, evt. skriftligt
+						  materiale mv. Det er fx sjældent, at en gruppe får lejlighed til at evaluere samarbejdet med vejlederen i tilknytning til
+						  eksamen. På nogle uddannelsesinstituti­oner udarbejder de studerende procesanalyser som en del af bedøm­melses grundlaget, og herved bliver vejlederrelationen sat på dags­
+						  ordenen i eksamensakten. I langt de fleste situationer vil vejlede­ rens samspil med gruppen dog alene diskuteres løbende i henhold til samarbejdsaftalen (jf. #KAPITEL4 ): Hvordan er vejlederens oplevelse af gruppen? Hvordan er gruppens oplevelse
+						  af vejleder? På trods af den
+						  begrænsede tid, og de mange mulige kilder til feedback, er der dog mange studerende, der oplever, at de også får nye erkendelser i eksamenssituationen.
+						  Da man, som tidligere nævnt, i en stresset eksamenssituation kan have svært ved at tage feedback ind, er det dog også sket, at hukommelsen fejler i gengivel­sen af, hvad der i situationen fremstod som en "ahaoplevelse". Derfor er det helt centralt,
+						  at man forbereder sig på at notere vejlederens og censors kommentarer - og inden for den tid, der er til rådighed,
+						  spørger ind til mulige forbedringer af bedømmelsesgrundlaget. På denne måde kan
+						  man som studerende selv være med til at sikre, at viden og læring i et forløb bringes med til næste forløb og helst vi­dere ind i arbejdslivet efter endt studie
+					- **Afrunding** ^^152^^
+						- Som det er fremgået gennem dette kapitel, er
+						  evaluering som akti­vitet både en tilbageskuende og en fremadrettet aktivitet. Det er en vurdering af et forløb, en proces eller et produkt foretaget med det mål for øje at kunne forbedre det nuværende eller
+						  fremtidige forløb, processer og produkter. Ud over at være en proces, der skaber læring om noget, lærer man selvfølgelig også
+						  noget om evaluering ved at evaluere. Man finder ud af, hvilke former der virker godt for en selv. Hvad der fremmer gruppens arbejde, og dermed virker produktop­timerende. Vi har i dette kapitel præsenteret en række forskellige til­ gange og modeller, som kan bringes i spil, men hvilke der er de rig­tige i det konkrete tilfælde, er kun noget, man kan finde
+						  ud af ved at prøve sig frem. Vi vil derfor opfordre jer til at forholde jer eksperi­menterende til evalueringsprocessen. Find ud af, hvad der passer for jer. Hvis I oplever, at det at evaluere ikke forekommer særlig hjælp­somt, er det ikke nødvendigvis
+						  et udtryk for, at evaluering som ge­nerelt fænomen er spildt på jeres proces.
+						  Det kunne også handle om, at I endnu ikke har fundet den rette form og metode.
+						  Samtidig er det også vigtigt at huske på, at
+						  evaluering ikke er noget, man mestrer fra fødslen, men derimod et håndværk, der
+						  skal læres. Igennem et studie vil man blive stadig bedre til denne del af PBL-arbejdet.
+						  Vo­ res opfordring er derfor, at man ikke skal give op, selvom det i be­gyndelsen kan virke både svært, akavet og tidskrævende at evaluere. Alting er svært i starten, men
+						  i takt med at man øver sig, bliver det mere almindeligt og dermed også lettere, hvilket
+						  samtidig er med til at øge evalueringens effekt.
+						- Hermed slutter kapitel 7, som er det sidste
+						  af bogens kapitler, der beskæftiger sig med det praktiske PBL-arbejde. I det følgende
+						  kapitel rundes bogen af, og det sker ved at kaste et blik på tiden efter studiet for i stedet at se på sammenhængen mellem PBL og de krav, som er­hvervslivet stiller til den moderne medarbejder.
 		-
 	- #KAPITEL8 ^^155^^
 		- **PBL I ARBEJDSLIVET**	^^155^^
