@@ -12,6 +12,7 @@
 					  Extra explanation as Appendices (Doesn't get evaluated)
 					  10% total IKDU-grade
 			- 2D Sprite Animation
-				-
+				- Max: 400word
+					- Choice of ActionMaps, Actions & Binding Properties
 		- ZIP: GameJam, Unity, Animation
-			-
+			- 2D Sprite Animation
