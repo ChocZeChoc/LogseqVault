@@ -1,4 +1,5 @@
 - IKDU
-	- PDF: LastName_StudentNUmber_
+	- PDF: LastName_StudentNUmber_AVS
+	- ZIP: GameJam, Unity, Animation
 	- Poster
 		-
