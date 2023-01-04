@@ -33,6 +33,8 @@
 					- How to Fix out of sync C# & Unity
 						-
 				- 2.2
+					- What is Variables use for
+					-
 				- 2.3
 					- Access Modifiers
 						- Public
