@@ -12,5 +12,6 @@
 					  Extra explanation as Appendices (Doesn't get evaluated)
 					  10% total IKDU-grade
 			- 2D Sprite Animation
-				- ZIP
+				-
 		- ZIP: GameJam, Unity, Animation
+			-
