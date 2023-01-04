@@ -54,7 +54,11 @@
 						- Example
 				- 2.5
 					- Explain If, Else If, Else & Switch
+						- Example
 				- 2.6
+					- Explain and Compare Arrays & List
+						- When to use Array, When List
+						-
 				- 2.7
 				- 2.8
 				- 2.9
