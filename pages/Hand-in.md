@@ -10,4 +10,6 @@
 					  4. Explain the composition
 					- Use Figure text
 					  Extra explanation as Appendices (Doesn't get evaluated)
+					  10% total IKDU-grade
+			- 2D Sprite Animation
 		- ZIP: GameJam, Unity, Animation
