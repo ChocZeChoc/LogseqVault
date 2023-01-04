@@ -22,4 +22,7 @@
 				-
 		- ZIP: GameJam, Unity, Animation
 			- 2D Sprite Animation
+			- 2D Inverse kinematic Animation
 		- Youtube Video: Unlisted/Public
+			- 2D Sprite Animation
+			- 2D Inverse kinematic Animation
