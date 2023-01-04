@@ -9,5 +9,5 @@
 					  3. Explain color
 					  4. Explain the composition
 					- Use Figure text
-					  Extra explanation as Appendices (Doesn't get )
+					  Extra explanation as Appendices (Doesn't get evaluated)
 		- ZIP: GameJam, Unity, Animation
