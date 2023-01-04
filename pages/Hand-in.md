@@ -25,7 +25,7 @@
 					- Describe the Keyframe animations
 					- How did you use IK mananger2D
 			- GameJam
-				- Max:
+				-
 		- ZIP: IKDU_Eksame2023_UnityProjects_LastName_StudentNUmber
 			- 2D Sprite Animation
 			- 2D Inverse kinematic Animation
