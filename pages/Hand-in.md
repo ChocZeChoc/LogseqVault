@@ -13,6 +13,7 @@
 					  10% total IKDU-grade
 			- 2D Sprite Animation
 				- Max: 400word
-					- Choice of ActionMaps, Actions & Binding Properties
+					- Choice of ActionMaps, Actions & Binding Properties in UnityInput system.
+					  Screenshot of the MovementScript
 		- ZIP: GameJam, Unity, Animation
 			- 2D Sprite Animation
