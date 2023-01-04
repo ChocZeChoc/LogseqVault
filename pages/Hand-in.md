@@ -25,15 +25,24 @@
 					- Describe the Keyframe animations
 					- How did you use IK mananger2D
 			- GameJam
-				- 1Does Class name have to be the same as file name
-					- General: No
-					- Unity: Yes
+				- 2.1
+					- Does Class name have to be the same as file name
+						- General: No
+						- Unity: Yes
+				- 2.2
+				- 2.3
+					- Access Modifiers
+						- Public
+						- Private
+						- Protected
+						- Internal
+				- 2.4
+				- 2.5
+				- 2.6
+				- 2.7
+				- 2.8
+				- 2.9
 				-
-				- Access Modifiers
-					- Public
-					- Private
-					- Protected
-					- Internal
 		- ZIP: IKDU_Eksame2023_UnityProjects_LastName_StudentNUmber
 			- 2D Sprite Animation
 			- 2D Inverse kinematic Animation
