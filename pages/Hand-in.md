@@ -62,7 +62,11 @@
 					- Example
 				- 2.7
 					- What Datatype to store 3D movement and Rotation
+					- As Many Method of that datatype as Possible
+						- Example
 				- 2.8
+					- Explain Enumeration
+						-
 				- 2.9
 				- 2.10
 		- ZIP: IKDU_Eksame2023_UnityProjects_LastName_StudentNUmber
