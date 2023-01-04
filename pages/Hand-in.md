@@ -62,7 +62,7 @@
 					- Example
 				- 2.7
 					- What Datatype to store 3D movement and Rotation
-					- As Many Method of that datatype as Possible
+					- As many method of that datatype as possible
 						- Example
 				- 2.8
 					- Explain Enumeration type
@@ -70,6 +70,8 @@
 				- 2.9
 					- Explain difference between Update(), FixedUpdate() & LateUpdate()
 				- 2.10
+					- How to instanitiate a prefab during code execution
+					- Example
 		- ZIP: IKDU_Eksame2023_UnityProjects_LastName_StudentNUmber
 			- 2D Sprite Animation
 			- 2D Inverse kinematic Animation
