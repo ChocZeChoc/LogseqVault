@@ -12,6 +12,7 @@
 					  Extra explanation as Appendices (Doesn't get evaluated)
 					  10% total IKDU-grade
 			- 2D Sprite Animation
+				- Link to Youtube Vid of 2D Sprite in action
 				- Max: 400word
 					- Choice of ActionMaps, Actions & Binding Properties in UnityInput system.
 					  Screenshot of the MovementScript with Comments
@@ -21,3 +22,4 @@
 				-
 		- ZIP: GameJam, Unity, Animation
 			- 2D Sprite Animation
+		- Youtube Video: Unlisted/Public
