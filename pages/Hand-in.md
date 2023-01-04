@@ -4,4 +4,7 @@
 			- Poster:
 				- Page 1: A3 300Dpi
 				- Page 2: Max 400 word
+					- 1. Explain the Idea & Concepts
+					  2. Which type of Font and why
+					  3.
 		- ZIP: GameJam, Unity, Animation
