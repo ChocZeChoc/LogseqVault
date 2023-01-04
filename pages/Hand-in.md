@@ -33,7 +33,7 @@
 					- How to Fix out of sync C# & Unity
 						-
 				- 2.2
-					- What is Variables use for
+					- What is Variables use for, Why are magic numbers bad
 					-
 				- 2.3
 					- Access Modifiers
