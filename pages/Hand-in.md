@@ -12,14 +12,16 @@
 					  Extra explanation as Appendices (Doesn't get evaluated)
 					  10% total IKDU-grade
 			- 2D Sprite Animation
-				- Link to Youtube Vid of 2D Sprite in action
+				- Link to Youtube Vid
 				- Max: 400word
 					- Choice of ActionMaps, Actions & Binding Properties in UnityInput system.
 					  Screenshot of the MovementScript with Comments
 					  Screenshot of Animator with Argument for the set up
 					  Screenshot of animator BlendTree
 			- 2D Inverse kinematic Animation
-				-
+				- Link to Youtube Vid
+				- Max: 400word
+					- Describe the
 		- ZIP: GameJam, Unity, Animation
 			- 2D Sprite Animation
 			- 2D Inverse kinematic Animation
