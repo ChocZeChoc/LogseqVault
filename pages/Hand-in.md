@@ -14,6 +14,7 @@
 			- 2D Sprite Animation
 				- Max: 400word
 					- Choice of ActionMaps, Actions & Binding Properties in UnityInput system.
-					  Screenshot of the MovementScript
+					  Screenshot of the MovementScript with Comments
+					  Screenshot of Animator with Argument for the set up
 		- ZIP: GameJam, Unity, Animation
 			- 2D Sprite Animation
