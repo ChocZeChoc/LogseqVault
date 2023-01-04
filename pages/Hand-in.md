@@ -1,5 +1,7 @@
 - IKDU
 	- File Hand-in
 		- PDF: LastName_StudentNUmber_AVS
-			- Poster: A3 300dpi
+			- Poster:
+				- Page 1: A3 300Dpi
+				- Page 2: Max 400 word
 		- ZIP: GameJam, Unity, Animation
