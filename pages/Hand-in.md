@@ -41,6 +41,8 @@
 						- Private
 						- Protected
 						- Internal
+					- If you want the Value to appear on unity inspector
+						- Use public or [Serializedfield]
 				- 2.4
 				- 2.5
 				- 2.6
