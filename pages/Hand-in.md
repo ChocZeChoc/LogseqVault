@@ -65,9 +65,10 @@
 					- As Many Method of that datatype as Possible
 						- Example
 				- 2.8
-					- Explain Enumeration
-						-
+					- Explain Enumeration type
+						- Example
 				- 2.9
+					- Explain difference between Update(), FixedUpdate() & LateUpdate()
 				- 2.10
 		- ZIP: IKDU_Eksame2023_UnityProjects_LastName_StudentNUmber
 			- 2D Sprite Animation
