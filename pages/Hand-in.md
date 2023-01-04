@@ -43,7 +43,11 @@
 						- Internal
 					- If you want the Value to appear on unity inspector
 						- Use public or [Serializedfield]
+						- Example
 				- 2.4
+					- What are the minimum requirements for defining a method?
+						-
+						- Example
 				- 2.5
 				- 2.6
 				- 2.7
