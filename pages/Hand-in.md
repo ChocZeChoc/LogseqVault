@@ -9,19 +9,20 @@
 					  3. Explain color
 					  4. Explain the composition
 					- Use Figure text
-					  Extra explanation as Appendices (Doesn't get evaluated)
-					  10% total IKDU-grade
+					- Extra explanation as Appendices (Doesn't get evaluated)
+					- 10% total IKDU-grade
 			- 2D Sprite Animation
 				- Link to Youtube Vid
 				- Max: 400word
 					- Choice of ActionMaps, Actions & Binding Properties in UnityInput system.
-					  Screenshot of the MovementScript with Comments
-					  Screenshot of Animator with Argument for the set up
-					  Screenshot of animator BlendTree
+					- Screenshot of the MovementScript with Comments
+					- Screenshot of Animator with Argument for the set up
+					- Screenshot of animator BlendTree
 			- 2D Inverse kinematic Animation
 				- Link to Youtube Vid
 				- Max: 400word
-					- Describe the
+					- Describe the Rigging process
+					- Describe the Keyframe animations
 		- ZIP: GameJam, Unity, Animation
 			- 2D Sprite Animation
 			- 2D Inverse kinematic Animation
