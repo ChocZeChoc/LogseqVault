@@ -8,4 +8,6 @@
 					  2. Which type of Font and why
 					  3. Explain color
 					  4. Explain the composition
+					- Use Figure text
+					  Extra explanation as Appendices (Doesn't get )
 		- ZIP: GameJam, Unity, Animation
