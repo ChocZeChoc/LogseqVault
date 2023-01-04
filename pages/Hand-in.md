@@ -23,6 +23,8 @@
 				- Max: 400word
 					- Describe the Rigging process
 					- Describe the Keyframe animations
+					- How did you use IK mananger2D
+			-
 		- ZIP: GameJam, Unity, Animation
 			- 2D Sprite Animation
 			- 2D Inverse kinematic Animation
