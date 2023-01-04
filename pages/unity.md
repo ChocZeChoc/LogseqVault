@@ -1,6 +1,7 @@
 - #Animation
 	- #2DSprite
-	- #IK
-	- #FK
+	- #Kenimatic
+		- #IK
+		- #FK
 	-
 	-
