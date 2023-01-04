@@ -30,6 +30,8 @@
 						- General: No
 						- Unity: Yes
 						- Code Example
+					- How to Fix out of sync C# & Unity
+						-
 				- 2.2
 				- 2.3
 					- Access Modifiers
