@@ -48,6 +48,8 @@
 					- What are the minimum requirements for defining a method?
 						-
 						- Example
+							- List of Argument and Return
+							- Short Description with "///"
 				- 2.5
 				- 2.6
 				- 2.7
