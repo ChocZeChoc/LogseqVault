@@ -16,5 +16,8 @@
 					- Choice of ActionMaps, Actions & Binding Properties in UnityInput system.
 					  Screenshot of the MovementScript with Comments
 					  Screenshot of Animator with Argument for the set up
+					  Screenshot of animator BlendTree
+			- 2D Inverse kinematic Animation
+				-
 		- ZIP: GameJam, Unity, Animation
 			- 2D Sprite Animation
