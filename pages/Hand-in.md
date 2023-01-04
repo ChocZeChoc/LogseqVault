@@ -58,8 +58,10 @@
 				- 2.6
 					- Explain and Compare Arrays & List
 						- When to use Array, When List
-						-
+						- Pros & Cons
+					- Example
 				- 2.7
+					- What Datatype to store 3D movement and Rotation
 				- 2.8
 				- 2.9
 				- 2.10
