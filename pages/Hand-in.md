@@ -34,7 +34,7 @@
 						-
 				- 2.2
 					- What is Variables use for, Why are magic numbers bad
-					-
+					- Example of Magic number from your code or Variables definitions
 				- 2.3
 					- Access Modifiers
 						- Public
