@@ -25,7 +25,8 @@
 					- Describe the Keyframe animations
 					- How did you use IK mananger2D
 			- GameJam
-				-
+				- Does Class name have to be the same as file name
+					- Genaral
 		- ZIP: IKDU_Eksame2023_UnityProjects_LastName_StudentNUmber
 			- 2D Sprite Animation
 			- 2D Inverse kinematic Animation
