@@ -9,7 +9,7 @@
 		- #REF
 			- [[Images]]
 				- ![image.png](/assets/image_1672445265390_0.png)
-			-
+				-
 			-
 	- How to make shapes/draw
 		- 1.Start by creating a Simple Shape by using one of these tools along the tool bar on the left
