@@ -4,6 +4,7 @@
 		- #IK
 		- #FK
 	- #CharacterMovement
+	  collapsed:: true
 		- ```C#
 		  using System.Collections;
 		  using System.Collections.Generic;
