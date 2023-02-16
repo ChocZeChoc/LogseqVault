@@ -1,4 +1,5 @@
 - #Plants
+  collapsed:: true
 	- #CO2#Deficiency
 	- #Light#Deficiency
 	- #Nutrient#Deficiency

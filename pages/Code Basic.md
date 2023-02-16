@@ -1,0 +1,13 @@
+- #Code_Basic
+	- #Links
+		- https://www.moodle.aau.dk/pluginfile.php/2830303/mod_resource/content/1/IKDU_Recapitulation.pdf
+	- #Python
+	- [[C#]]
+- #Hexadecimal
+	- 16#bits, 1 Character=half a byte
+	- 2A=32+10 = 42
+- #Binary
+	- 0&1 2^x
+	- 1011 = 11
+- #Refference & #values
+	-
